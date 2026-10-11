@@ -26,7 +26,7 @@ export function FtbCalculator({ methodHref = '/en/method/', idPrefix = 'ftb' }: 
   }, [s]);
   const { a, b } = out;
   return (
-    <div className="rechner rounded-xl border border-navy-200 bg-white p-4 sm:p-6">
+    <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
       <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Family" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single parent' }, { value: '1', label: 'Couple' }]} />
         <SelectField id={id('n')} label="Children" value={String(s.n)} onChange={(v) => set('n', Number(v))} options={[1, 2, 3, 4].map((i) => ({ value: String(i), label: String(i) }))} />
@@ -34,7 +34,7 @@ export function FtbCalculator({ methodHref = '/en/method/', idPrefix = 'ftb' }: 
         {s.c === 1 ? <NumberField id={id('q')} label="Lower earner, taxable income a year" value={s.q} onChange={(v) => set('q', v)} unit="$" max={2000000} /> : <div aria-hidden="true" />}
         {kidsField(s.n).map((i) => <SelectField key={i} id={id(`a${i}`)} label={`Child ${i + 1}: age`} value={String(s[`a${i}` as 'a0'])} onChange={(v) => set(`a${i}` as 'a0', Number(v))} options={ageOptions(0, 19)} help={i === 0 ? '16 to 19: in full-time secondary school.' : undefined} />)}
         {s.n % 2 === 1 && <div aria-hidden="true" />}
-        <NumberField id={id('r')} label="Private rent per fortnight" value={s.r} onChange={(v) => set('r', v)} unit="$" max={20000} help="Leave empty if you own or rent public housing." />
+        <NumberField id={id('r')} label="Private rent per fortnight" value={s.r} onChange={(v) => set('r', v)} unit="$" max={20000} help="Leave empty if you own or rent public housing." className="sm:col-span-2" />
         <Toggle id={id('is')} label="On an income support payment?" value={String(s.is)} onChange={(v) => set('is', Number(v))} options={[{ value: '0', label: 'No' }, { value: '1', label: 'Yes' }]} />
       </form>
       <Result label="Family Tax Benefit per fortnight" value={aud(a.fortnight + b.fortnight)} sub={`Plus ${aud(a.supplementPaid + b.supplementPaid)} of supplements after the tax return · ${aud(a.annual + b.annual)} for the year`} methodHref={methodHref}
@@ -52,7 +52,7 @@ export function CcsCalculator({ methodHref = '/en/method/', idPrefix = 'ccs' }: 
   const types: CareType[] = ['cbdc', 'fdc', 'oshc'];
   const out = useMemo(() => ccsFamily({ ati: s.ati, activityHoursPf: s.act, withholdingPct: s.w, children: kidsField(s.n).map((i) => ({ age: s[`a${i}` as 'a0'], daysPerWeek: s[`d${i}` as 'd0'], hoursPerDay: s.hrs, dailyFee: s.fee, type: s[`a${i}` as 'a0'] >= 6 && s.t === 0 ? 'oshc' : types[s.t] })) }), [s]);
   return (
-    <div className="rechner rounded-xl border border-navy-200 bg-white p-4 sm:p-6">
+    <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
       <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <NumberField id={id('ati')} label="Combined family income a year" value={s.ati} onChange={(v) => set('ati', v)} unit="$" max={2000000} help="Adjusted taxable income of both parents." />
         <SelectField id={id('n')} label="Children in care" value={String(s.n)} onChange={(v) => set('n', Number(v))} options={[1, 2].map((i) => ({ value: String(i), label: String(i) }))} />
@@ -86,7 +86,7 @@ export function RaCalculator({ methodHref = '/en/method/', idPrefix = 'ra' }: Ba
     return { pf, maxPf: pf, thrPf: 0, forMaxPf: 0, route: 'Paid with your pension or allowance', st };
   }, [s]);
   return (
-    <div className="rechner rounded-xl border border-navy-200 bg-white p-4 sm:p-6">
+    <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
       <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('k')} label="Children in your care?" value={String(s.k)} onChange={(v) => set('k', Number(v))} options={[{ value: '0', label: 'No' }, { value: '1', label: 'Yes' }]} />
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Couple' }]} />
