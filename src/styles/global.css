@@ -1,4 +1,6 @@
 @import "tailwindcss";
+@source not "../../research";
+@source not "../../scripts";
 @plugin "@tailwindcss/typography";
 @font-face { font-family: 'Source Serif 4'; font-style: normal; font-weight: 200 900; font-display: swap; src: url('/fonts/source-serif-4-var.woff2') format('woff2'); }
 @font-face { font-family: 'Inter'; font-style: normal; font-weight: 400 700; font-display: swap; src: url('/fonts/inter-var.woff2') format('woff2'); }
@@ -46,3 +48,29 @@ h1 { font-weight: 700; } h2 { font-weight: 650; } h3 { font-weight: 600; }
 .prose table, table.journal { font-variant-numeric: tabular-nums; border-collapse: collapse; }
 .prose thead th, table.journal thead th { font-variant: small-caps; letter-spacing: .02em; border-bottom: 1px solid var(--color-navy-300); background: transparent; }
 .prose td, .prose th, table.journal td, table.journal th { border-left: 0; border-right: 0; }
+
+@layer components {
+  /* Chapeau replié (RECETTE §26, 2026-10-02) : un seul <p> dans le HTML, l'écran montre les
+     premières phrases entières, « Read the full answer » déplie le reste sans JavaScript. */
+  .clamp { position: relative; }
+  .clamp-rest { display: none; }
+  .clamp-toggle { position: absolute; width: 1px; height: 1px; opacity: 0; }
+  .clamp-toggle:checked ~ p .clamp-rest { display: inline; }
+  .clamp-toggle:checked ~ .clamp-more { display: none; }
+  .clamp-more { display: inline-block; cursor: pointer; margin-top: 0.25rem; font-size: 0.875rem; font-weight: 600; color: var(--color-accent-700); text-decoration: underline; text-underline-offset: 3px; }
+  .clamp-toggle:focus-visible ~ .clamp-more { outline: 2px solid #111827; outline-offset: 3px; }
+  /* Long text folded (RECETTE §26): the text stays in the HTML, the screen shows the titles. */
+  .fold { border-top: 1px solid var(--color-navy-200); }
+  .fold > summary { cursor: pointer; list-style: none; padding: 0.9rem 0; font-family: var(--font-serif, serif); font-size: 1.25rem; font-weight: 650; color: var(--color-navy-900); }
+  .fold > summary::-webkit-details-marker { display: none; }
+  .fold > summary::after { content: '+'; float: right; color: var(--color-navy-600); }
+  .fold[open] > summary::after { content: '–'; }
+  .fold > summary > .fold-h { display: inline; font: inherit; margin: 0; color: inherit; }
+  /* Ruled box in the press style (§10.2): rule on the left, faint tint, small-caps title. */
+  .boxnote { border-left: 3px solid var(--color-accent-600); background: var(--color-accent-50); padding: 0.9rem 1.1rem; margin: 1.5rem 0; }
+  .boxnote > .boxnote-title { font-variant: small-caps; letter-spacing: .03em; font-weight: 700; color: var(--color-accent-700); margin: 0 0 .25rem; }
+}
+.prose .not-prose table { margin-top: 0; margin-bottom: 0; }
+
+.topmenu > summary::-webkit-details-marker { display: none; }
+.topmenu > summary::after { content: " ▾"; font-size: .75em; color: var(--color-navy-500); }

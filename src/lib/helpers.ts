@@ -27,7 +27,6 @@ export function helpers(): Helpers {
     a: link,
     table,
     src: (key: string, text?: string) => { const s = SOURCES[key]; if (!s) throw new Error(`Unknown source ${key}`); return ext(s.url, text ?? s.label); },
-    ext,
     box,
     mini,
   };

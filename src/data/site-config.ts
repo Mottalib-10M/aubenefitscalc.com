@@ -11,11 +11,11 @@ export const SITE_FOUNDED = '2026';
 export const LAST_UPDATED = '2026-10-11';
 export const AUTHOR_NAME = 'Radif Partners';
 export const AUTHOR_ROLE: Record<string, string> = {"en": "Publisher of the combined Centrelink household calculator"};
-export const AUTHOR_DESC: Record<string, string> = {"en": "À RÉÉCRIRE PAR L’AGENT (RECETTE §6.5)"};
+export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners writes free calculators that put Australian family and income support rules side by side for one household: Family Tax Benefit Parts A and B, Child Care Subsidy, Commonwealth Rent Assistance, JobSeeker, Youth Allowance, Austudy, Parenting Payment, Age Pension and Carer Payment, each read in the Social Security Guide and the Family Assistance Guide at the September 2026 indexation."};
 /** Sujets sur lesquels l'editeur est competent (schema.org knowsAbout). Ce sont les
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
-export const KNOWS_ABOUT: Record<string, string[]> = {"en": []};
+export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Family Tax Benefit Part A and Part B", "Child Care Subsidy", "Commonwealth Rent Assistance", "JobSeeker Payment", "Youth Allowance and Austudy", "Parenting Payment", "Age Pension income and assets tests", "Carer Payment and Carer Allowance", "Paid Parental Leave"]};
 export const CONTACT_EMAIL = "contact@au-centrelink.example";
 export const THEME_COLOR = '#00704A';
 export const LOGO_SYMBOL = '+$';
@@ -44,11 +44,11 @@ export interface LegalIdentity {
   supervisoryAuthority: string; supervisoryAuthorityUrl: string; hosting: LegalHosting;
 }
 export const LEGAL: LegalIdentity = {
-  entityName: '',            // raison sociale ou nom commercial exploité
-  legalForm: '',             // ex. entreprise individuelle, SASU, GmbH, eenmanszaak
-  street: '',
-  postalCode: '',
-  city: '',
+  entityName: 'Radif Partners',  // éditeur de tous les sites du portefeuille (RECETTE §8)
+  legalForm: '',  // vide : comme sur les autres sites du portefeuille
+  street: '49 rue du Ressort',
+  postalCode: '63000',
+  city: 'Clermont-Ferrand',
   country: "France",
   phone: '',                 // ligne de contact publiée
   registerLabel: "SIREN",
@@ -58,7 +58,7 @@ export const LEGAL: LegalIdentity = {
   jurisdiction: "France",
   supervisoryAuthority: "Commission nationale de l'informatique et des libertés (CNIL)",
   supervisoryAuthorityUrl: "https://www.cnil.fr",
-  hosting: { name: '', address: '', phone: '', url: '' },
+  hosting: { name: 'GitHub, Inc. (GitHub Pages)', address: '88 Colin P Kelly Jr Street, San Francisco, CA 94107, United States', phone: '', url: 'https://pages.github.com' },
 };
 
 /** Champs sans lesquels le site ne doit pas être mis en ligne. */

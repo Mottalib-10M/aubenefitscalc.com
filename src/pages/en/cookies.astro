@@ -1,0 +1,18 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES, CLARITY_ID } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Cookies on ${SITE_NAMES[lang]}: none, so no banner at all`} description="The household calculator sets no cookie and stores nothing on your device: there is no banner because there is nothing to accept or refuse, and the share link is the only memory." lang={lang} noindex={true} breadcrumbs={[{ label: 'Cookies' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Cookies</h1>
+    <p>No page of this site sets a cookie, and the calculators write nothing to your device. Income, rent, ages and assets you enter live only in the open tab and are gone when you close it.</p>
+    <h2>Why there is no banner</h2><p>A banner asks for consent to cookies; this site has none to ask about: no advertising, no analytics cookie, no social buttons, no login.</p>
+    {CLARITY_ID
+      ? <><h2>Anonymous stability monitoring</h2><p>The site loads Microsoft Clarity in its cookie-free mode to spot script errors, slow pages and buttons that fail. In that mode Clarity sets no cookie, gives each page view a one-off identifier and masks the page content and everything typed. Blocking clarity.ms stops it; the calculators keep working.</p></>
+      : <><h2>No measurement script</h2><p>No analytics or monitoring script runs on the site today. If one is added, this page and the <a href={route('privacy', lang)}>privacy policy</a> will describe it first.</p></>}
+    <h2>Share links</h2><p>The share link carries your answers in the page address, not in a cookie: whoever receives the link sees them.</p>
+    <p>Questions: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Updated: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

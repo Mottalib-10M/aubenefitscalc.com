@@ -1,0 +1,27 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { contactPageSchema } from '../../lib/seo';
+const lang = 'en';
+const description = 'Write to us when an indexation changes a rate, when an estimate differs from your Centrelink statement, or to embed the household calculator on your own site.';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: rates, differences, embedding`} description={description} lang={lang} noindex={true} jsonLd={[contactPageSchema({ name: 'Contact', description, path: route('contact', lang), lang })]} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Contact</h1>
+    <p>One address, read on working days (French time): <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>A rate has changed</h2>
+    <p>Rates move on 20 March, 1 July and 20 September, and some on 1 January; a Budget measure can add a date. Send the section of the Social Security Guide or the Family Assistance Guide that changed, or the Services Australia page, and the page of this site it affects. We read the source, update the parameter file, rerun the tests and date the change.</p>
+    <h2>Your statement shows another amount</h2>
+    <p>Send the share link and the amount on your statement or letter. The usual causes are income averaged over a different period, a partner's income counted in a different fortnight, deemed income on savings you did not enter, shared care, or child support received. We tell you which applies and correct the site if the mistake is ours.</p>
+    <h2>Embedding the calculator</h2>
+    <p>Financial counsellors, neighbourhood centres, tenancy services and libraries can place the household calculator on their pages free of charge: the code is on the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>What we cannot do</h2>
+    <p>We cannot access your Centrelink record, lodge a claim, speed up a decision or request a review for you. Services Australia, a free financial counsellor or a community legal centre can.</p>
+    <h2>Response time</h2><p>Usually within five working days, corrections first. Every rate is reread at least every {REVIEW_CYCLE_MONTHS} months and on each indexation date.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>Content owner: {AUTHOR_NAME}. See the <a href={route('terms', lang)}>legal notice</a>. Updated: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

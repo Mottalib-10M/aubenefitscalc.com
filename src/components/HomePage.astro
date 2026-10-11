@@ -1,0 +1,63 @@
+---
+/**
+ * Home, in an order of its own (RECETTE §6.6, rule 2): the household calculator first, the folded answer,
+ * the "who can get what" matrix, the numbered rules that link the payments, the households worked
+ * through (totals computed by the engine), the rate table, then the long text folded and the FAQ.
+ * Text: src/content/home.ts.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import { HOME } from '../content/home';
+import { route } from '../i18n/routes';
+import { helpers, SOURCES } from '../lib/helpers';
+import { PAGES } from '../lib/pages';
+import { household } from '../lib/engine/household';
+import { aud, day, P } from '../lib/kit';
+import { faqSchema, organizationSchema, websiteSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+import { LAST_UPDATED } from '../data/site-config';
+const lang = 'en';
+const x = HOME;
+const path = route('home', lang);
+const h = helpers();
+const sources = x.sources.map((k) => ({ name: SOURCES[k].label, url: SOURCES[k].url }));
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webPageSchema({ name: x.h1, description: x.description, path, lang }), webApplicationSchema({ name: x.h1, description: x.description, path, lang }), faqSchema(x.faqs, lang)];
+const cases = PAGES.filter((p) => p.kind === 'case' && p.preset).map((p) => ({ p, r: household(p.preset!) }));
+const calculators = PAGES.filter((p) => p.kind === 'pillar');
+---
+<PageLayout title={x.title} description={x.description} lang={lang} jsonLd={jsonLd} faqs={x.faqs} sources={sources}>
+  <header class="mb-4">
+    <h1 class="font-serif text-3xl font-bold text-navy-900 md:text-4xl">{x.h1}</h1>
+    <p class="mt-3 text-lg text-navy-700">{x.intro}</p>
+    <p class="mt-2 text-sm text-navy-600">Rates indexed on <time datetime={P.rates_date}>{day(P.rates_date)}</time>, checked <time datetime={LAST_UPDATED}>{day(LAST_UPDATED)}</time> · <a href={route('method', lang)} class="underline">How we calculate</a> · <a href={route('about', lang)} class="underline">About this site</a></p>
+  </header>
+  <div data-outil><Tool kind="household" idPrefix="home" /></div>
+  <Clamp text={x.resume} lang={lang} id="clamp-home" sentences={2} class="my-8" />
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h2>{x.matrixTitle}</h2>
+    <Fragment set:html={x.matrixIntro(h)} />
+    <Fragment set:html={h.table(['Payment', 'Who it is for', 'Test on', 'Most per fortnight'], x.matrix(h), `Rates from ${day(P.rates_date)} (family payments: 2026-27 income year). Maximum rates before any income or assets test.`, ['l', 'l', 'l', 'r'])} />
+    <h2>{x.rulesTitle}</h2>
+    <Fragment set:html={x.rulesIntro(h)} />
+  </div>
+  <ol class="mt-4 list-decimal space-y-3 pl-6 text-navy-800 marker:font-semibold marker:text-accent-700">
+    {x.rules(h).map((r) => <li set:html={r} />)}
+  </ol>
+  <section class="mt-12">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">{x.casesTitle}</h2>
+    <p class="mt-3 text-navy-800" set:html={x.casesIntro(h)} />
+    <ol data-chrome class="mt-4 divide-y divide-navy-200 border-y border-navy-200">
+      {cases.map(({ p, r }) => <li class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-1 py-3"><a href={route(p.id, lang)} class="font-serif text-lg font-semibold text-accent-700 hover:underline">{p.nav}</a><span class="tabular-nums text-sm text-navy-800"><strong>{aud(r.fortnightTotal)}</strong> a fortnight · {aud(r.annualTotal)} a year</span></li>)}
+    </ol>
+  </section>
+  <section class="mt-12">
+    <h2 class="font-serif text-2xl font-bold text-navy-900">{x.toolsTitle}</h2>
+    <p data-chrome class="mt-4 grid gap-x-8 gap-y-2 sm:grid-cols-2">
+      {calculators.map((p) => <a href={route(p.id, lang)} class="text-navy-800 hover:text-accent-700"><strong class="text-accent-700">{p.nav}</strong> · {p.card}</a>)}
+    </p>
+  </section>
+  <section class="prose prose-slate mt-12 max-w-none prose-headings:font-serif">
+    <h2>{x.foldTitle}</h2>
+    {x.sections(h).map((s) => <details class="fold not-prose"><summary><h3 class="fold-h">{s.title}</h3></summary><div class="prose prose-slate max-w-none pb-4"><Fragment set:html={s.html} /></div></details>)}
+  </section>
+</PageLayout>

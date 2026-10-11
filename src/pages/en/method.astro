@@ -1,0 +1,60 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema, articleSchema } from '../../lib/seo';
+import { table, SOURCES, ext } from '../../lib/helpers';
+import { P, aud, audx, day, pct, faFortnight, ssFortnight, partnerIncomeFreeArea, ftbACutoffs } from '../../lib/kit';
+import { LAST_UPDATED } from '../../data/site-config';
+const lang = 'en';
+const s = (k: string, t?: string) => ext(SOURCES[k].url, t ?? SOURCES[k].label);
+const cut = ftbACutoffs([5]);
+const title = 'Centrelink Calculator Method 2026: Formulas, Tests, Limits';
+const description = 'How the Centrelink household calculator works in 2026: the formulas for FTB, CCS, Rent Assistance, allowances and pensions, the official examples it passes and what it leaves out.';
+const params = [
+  ['Age Pension and Carer Payment, maximum', `${audx(P.pension.max_single)} single, ${audx(P.pension.max_couple_each)} each for a couple`, s('ssg-common-pension', 'SS Guide 5.1.8.10')],
+  ['Pension income free area', `${aud(ssFortnight(P.pension.ifa_single_pa))} single, ${aud(ssFortnight(2 * P.pension.ifa_couple_each_pa))} couple, per fortnight`, s('ssg-pension-limits', 'SS Guide 4.10.3')],
+  ['Pension assets free area, homeowner', `${aud(P.pension.assets_free_area.homeowner_single)} single, ${aud(P.pension.assets_free_area.homeowner_couple)} couple`, s('ssg-pension-limits', 'SS Guide 4.10.3')],
+  ['Deeming', `${pct(P.deeming.lower_rate)} to ${aud(P.deeming.threshold_single)} (single), ${pct(P.deeming.upper_rate)} above`, s('ssg-deeming', 'SS Guide 4.4.1.10')],
+  ['JobSeeker basic rate', `${audx(P.benefit.jsp.single)} single, ${audx(P.benefit.jsp.partnered)} partnered`, s('ssg-common-benefit', 'SS Guide 5.1.8.20')],
+  ['Benefits income test', `${aud(P.benefit.income_free_area)} free, ${P.benefit.low_taper * 100}c to ${aud(P.benefit.lower_band_top)}, ${P.benefit.high_taper * 100}c above`, s('ssg-benefit-income-test', 'SS Guide 4.2.2')],
+  ['Parenting Payment single', `${audx(P.pps.max)}; free area ${aud(ssFortnight(P.pps.ifa_pa))} plus ${audx(ssFortnight(P.pps.ifa_extra_child_pa))} a child; ${P.pps.taper * 100}c taper`, s('ssg-pps-limits', 'SS Guide 4.10.4.10')],
+  ['Youth Allowance, away from home', `${audx(P.ya.rates.away)}; student free area ${aud(P.ya.student_ifa)}`, s('ssg-ya-rates', 'SS Guide 5.1.1.20')],
+  ['FTB Part A, child under 13 / 13 to 19', `${audx(P.ftb.a_max_under13)} / ${audx(P.ftb.a_max_13to19)} a year; base ${audx(P.ftb.a_base)}`, s('fag-ftb-rates', 'FA Guide 3.1.1.20')],
+  ['FTB Part A income free areas', `${aud(P.ftb.a_ifa)} (20%) and ${aud(P.ftb.a_hifa)} (30%)`, s('fag-ftb-rates', 'FA Guide 3.1.1.20')],
+  ['FTB Part B', `${audx(P.ftb.b_under5)} / ${audx(P.ftb.b_5to18)} a year; primary limit ${aud(P.ftb.b_primary_limit)}; ${aud(P.ftb.b_ifa)} free for the lower earner`, s('fag-ftb-rates', 'FA Guide 3.1.1.20')],
+  ['Rent Assistance with FTB', `threshold ${audx(P.ra_family.threshold_single)} / ${audx(P.ra_family.threshold_couple)} a year; maximum ${audx(P.ra_family.max_1or2)} or ${audx(P.ra_family.max_3plus)}`, s('fag-ra', 'FA Guide 3.1.4.30')],
+  ['Rent Assistance with a payment', `single threshold ${audx(P.ra_ss.single.threshold)}, maximum ${audx(P.ra_ss.single.max)} a fortnight`, s('ssg-ra-rates', 'SS Guide 5.1.7.10')],
+  ['Child Care Subsidy', `${P.ccs.max_pct}% to ${aud(P.ccs.lower_threshold)}, 0% from ${aud(P.ccs.zero_at)}; cap ${audx(P.ccs.caps.cbdc_below_school)} an hour (day care)`, s('fag-ccs-income', 'FA Guide 3.5.1')],
+  ['Parental Leave Pay', `${audx(P.ppl.daily)} a day, up to ${P.ppl.max_days} days`, s('ppl-rate', 'PPL Guide 3.1')],
+];
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={[articleSchema({ title, description, path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'How we calculate', path: route('method', lang) }])]} breadcrumbs={[{ label: 'How we calculate' }]}>
+  <header class="mb-6"><h1 class="font-serif text-3xl font-bold text-navy-900 md:text-4xl">How the calculations are made</h1><p class="mt-3 text-lg text-navy-700">Every formula, every rate and its source, the official examples the engines reproduce, and the cases they do not cover.</p></header>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <p>The calculator applies the rules published by the Department of Social Services in its Guides to Social Policy Law, read on <time datetime={P.retrieved_at}>{day(P.retrieved_at)}</time>: the Social Security Guide (version released on 21 September 2026, after the indexation of {day(P.rates_date)}), the Family Assistance Guide (rates of the 2026-27 income year) and the Paid Parental Leave Guide. All figures sit in a single parameter file; no page types a rate. The calculations run in your browser and nothing is sent anywhere.</p>
+    <h2>The rates used</h2>
+    <Fragment set:html={table(['Parameter', 'Value', 'Source'], params, `Rates as at ${day(P.rates_date)} for pensions and allowances; 2026-27 income year for family payments.`)} />
+    <h2>Family Tax Benefit</h2>
+    <p>Part A is worked out twice, as the Family Assistance Guide requires. <strong>Method 1</strong> starts from the maximum rate of each child plus the Part A supplement (when family income is {aud(P.ftb.a_supplement_ati_limit)} or less) plus Rent Assistance, and removes 20 cents for each dollar of family income between {aud(P.ftb.a_ifa)} and {aud(P.ftb.a_hifa)}, then 30 cents above. <strong>Method 2</strong> starts from the base rate and removes 30 cents for each dollar above {aud(P.ftb.a_hifa)}. The family receives the higher of the two ({s('fag-ftb-m1', 'FA Guide 3.1.4.40')}, {s('fag-ftb-m2', '3.1.8.20')}). For one child under 5, Part A falls to the base rate at about {aud(cut.baseReachedAt)} of family income and stops at about {aud(cut.nilAt)}.</p>
+    <p>Part B pays a single parent in full up to the primary earner limit. For a couple, the higher earner must be at or under {aud(P.ftb.b_primary_limit)}; the lower earner's income above {aud(P.ftb.b_ifa)} reduces it by 20 cents in the dollar; it stops when the youngest child turns 13 ({s('fag-ftb-b', '3.1.9.10')}). If either parent receives an income support payment, both parts are paid without the income test. Annual amounts become fortnightly ones at 14 days out of {P.ftb.days_in_year}: {audx(P.ftb.a_max_under13)} a year is {audx(Math.round(faFortnight(P.ftb.a_max_under13) * 100) / 100)} a fortnight.</p>
+    <h2>Rent Assistance</h2>
+    <p>Gross Rent Assistance is 75 cents for each dollar of rent above the threshold, capped at the maximum. With children it is computed on annual figures inside FTB Part A Method 1 and is the first part of the rate to go when income reduces Part A; without children it is added to the pension or allowance before that payment's income test ({s('fag-ra', 'FA Guide 3.1.4.30')}, {s('ssg-ra-rates', 'SS Guide 5.1.7.10')}).</p>
+    <h2>Child Care Subsidy</h2>
+    <p>The standard percentage is {P.ccs.max_pct}% up to {aud(P.ccs.lower_threshold)} of combined family income, then one point less for each {aud(P.ccs.step)} or part of it. A second or younger child aged 5 or under gets the higher rate while family income is under {aud(P.ccs.higher.cutoff)}. The percentage applies to the lower of the hourly fee and the hourly cap, for at most {P.ccs.hours_base} hours a fortnight, or {P.ccs.hours_higher} with more than {P.ccs.hours_higher_activity} hours of activity. {P.ccs.withholding_default}% is withheld ({s('fag-ccs-calc', 'FA Guide 3.5.4')}).</p>
+    <h2>Pensions and allowances</h2>
+    <p>Allowances (JobSeeker, Youth Allowance, Austudy, Parenting Payment partnered) use the benefits income test of {s('ssg-benefit-income-test', 'SS Guide 4.2.2')} on the maximum rate including the Energy Supplement, plus a partner income test at 60 cents above the partner's own cut-out, rounded up to {aud(partnerIncomeFreeArea())} a fortnight. They are not paid when assets exceed the free area. Parenting Payment single tapers at 40 cents above a free area that rises with each child. The Age Pension and Carer Payment are computed under the income test (50 cents in the dollar, 25 cents each for a couple, deemed income included) and under the assets test ({audx(P.pension.assets_step_reduction_pa)} a year for each {aud(P.pension.assets_step)}), and the lower rate is paid ({s('ssg-pension-income-test', 'SS Guide 4.2.1.10')}, {s('ssg-assets-test', '4.2.3')}).</p>
+    <h2>Tested against the official examples</h2>
+    <ul>
+      <li>FA Guide 3.1.8.20, Method 2 worked example (two children, family income of $102,000 on the 2019-20 parameters): $125.70 under Method 1, $2,286.50 under Method 2, reproduced to the cent.</li>
+      <li>FA Guide 3.5.4, Child Care Subsidy example (income of $288,520): 50% standard and 74% higher rate, $5.00 and $7.40 an hour on a $10 fee, 42 subsidised hours left in the second week.</li>
+      <li>FA Guide 3.5.3, hourly cap examples: subsidy on the fee below the cap, on the cap above it.</li>
+      <li>Pension income cut-offs derived from the free areas and rates: {aud(P.pension.max_single * 2 + ssFortnight(P.pension.ifa_single_pa))} single, {aud(P.pension.max_couple_each * 4 + ssFortnight(2 * P.pension.ifa_couple_each_pa))} combined for a couple.</li>
+      <li>Rent Assistance reaches its maximum exactly at the minimum rent printed in SS Guide 5.1.7.10 for singles, sharers and couples.</li>
+      <li>Parental Leave Pay: 7.6 times the national minimum wage, rounded, equals the published daily rate.</li>
+    </ul>
+    <p>In all, 39 automated tests run before every release; a drift of more than a cent fails the build.</p>
+    <h2>What the calculator does not do</h2>
+    <p>Shared care percentages, the FTB maintenance income test on child support received, the parental income test of dependent Youth Allowance, the Work Bonus, Pharmaceutical Allowance, Remote Area Allowance, the Energy Supplement inside FTB (closed to new families since 20 March 2017), transitional pension rates, the care receiver tests of Carer Payment, and the work test of Paid Parental Leave (asked as a question, not computed). Where these apply, the estimate is approximate and the page concerned says so. Services Australia decides on verified income and circumstances.</p>
+    <p class="text-sm text-navy-600">Method last reviewed on <time datetime={LAST_UPDATED}>{day(LAST_UPDATED)}</time>.</p>
+  </div>
+</PageLayout>

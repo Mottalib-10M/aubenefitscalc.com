@@ -1,0 +1,26 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, LEGAL, SITE_NAMES, SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Legal notice of ${SITE_NAMES[lang]}: publisher, host and terms`} description="Publisher and host of the Centrelink household calculator, why every result is an estimate and not a decision of Services Australia, intellectual property and the law that applies." lang={lang} noindex={true} breadcrumbs={[{ label: 'Legal notice' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Legal notice and terms of use</h1>
+    <p>Information given under Article 6 III-1 of French law no. 2004-575 of 21 June 2004, the publisher being established in France.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>Publication director: {AUTHOR_NAME}, responsible for the content of {SITE_URL}.</p>
+    <h2>Host</h2>
+    <LegalIdentity mode="hosting" lang={lang} />
+    <h2>Not a government website</h2>
+    <p>{SITE_NAMES[lang]} is independent. It is not run by, endorsed by or connected with Services Australia, Centrelink, the Department of Social Services or any other Australian government body, and it does not take claims. The calculators apply the rates and tests published in the Department of Social Services guides to the figures you enter. Services Australia may assess income over a different period, value assets differently or apply a rule not modelled here; its decision is the one that counts, and you can ask for it to be reviewed. Method and limits: <a href={route('method', lang)}>method page</a>.</p>
+    <h2>Liability</h2><p>Every rate is read in an official guide and every engine is tested before each release, but errors cannot be ruled out and rules change. The publisher is not liable for a decision made on an estimate alone. Please report errors through the <a href={route('contact', lang)}>contact page</a>.</p>
+    <h2>Intellectual property</h2><p>Texts, design and code belong to the publisher; short quotations with a link are welcome. The government guides and Acts quoted remain the work of the Commonwealth.</p>
+    <h2>Embedding</h2><p>The household calculator may be embedded free of charge with its credit link visible: see the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>Personal information</h2><p>The site sets no cookie and the publisher keeps nothing entered in the calculators. Details: <a href={route('privacy', lang)}>privacy policy</a> and <a href={route('cookies', lang)}>cookies page</a>.</p>
+    <h2>Reporting unlawful content</h2><p>Write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> with the address of the page.</p>
+    <h2>Governing law</h2><p>French law applies; failing an amicable settlement, the courts of {LEGAL.jurisdiction} have jurisdiction, without prejudice to the protections an Australian consumer has under Australian law. Updated: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

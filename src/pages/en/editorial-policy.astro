@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, REVIEW_CYCLE_MONTHS, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy of ${SITE_NAMES[lang]}: sources, reviews, fixes`} description="Which Department of Social Services guides supply the Centrelink rates on this site, which sources never supply a figure, when rates are reread and how a reported error is corrected." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none prose-headings:font-serif">
+    <h1>Editorial and corrections policy</h1>
+    <p>People open these pages to decide whether to claim, to check a statement that changed, or to see what a pay rise will cost them in Family Tax Benefit. An out-of-date rate can make someone skip a claim they would have won. This page says where each figure comes from and what happens when one is wrong.</p>
+    <h2>Who is responsible</h2><p>Content and calculations: {AUTHOR_NAME}, <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Sources that supply figures</h2>
+    <ul>
+      <li>the Social Security Guide (Department of Social Services): payment rates, Rent Assistance, supplements, income and assets tests, deeming;</li>
+      <li>the Family Assistance Guide: Family Tax Benefit rates and income tests, Rent Assistance with FTB, Child Care Subsidy percentages, hours and caps;</li>
+      <li>the Paid Parental Leave Guide: rate, maximum days and income limits;</li>
+      <li>the Services Australia Operational Blueprint for the order of the calculation steps;</li>
+      <li>the Social Security Act 1991 and the A New Tax System (Family Assistance) Act 1999 when a rule needs its exact wording.</li>
+    </ul>
+    <h2>Sources that never supply a figure</h2>
+    <p>News articles, forums, other calculators and financial planning blogs can alert us to a change. They never provide a number here: we go to the guide, and when the two disagree the guide wins. A measure announced in a Budget but not yet law is described with its date and never applied early.</p>
+    <h2>Review cycle</h2><p>Every rate is reread at least every {REVIEW_CYCLE_MONTHS} months and on each indexation date: 1 January, 20 March, 1 July and 20 September.</p>
+    <h2>Corrections</h2>
+    <ol><li>We check the report against the guide section concerned.</li><li>We correct the parameter file or the engine and add a test that reproduces the case.</li><li>The page shows its new reading date.</li></ol>
+    <h2>Independence</h2><p>No lender, payday lender, financial adviser or lead buyer pays to be on the site, and no calculator asks for contact details. If that changed, it would be stated next to the link concerned.</p>
+    <p>See also the <a href={route('method', lang)}>method page</a>. Policy version: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

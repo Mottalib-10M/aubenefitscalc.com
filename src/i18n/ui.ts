@@ -1,14 +1,14 @@
 import type { Locale } from './routes';
 const en = {
-  updatedOn: 'Figures checked on', editorialPolicy: 'Editorial policy', contactLabel: 'Contact', reviewedBy: 'Checked by',
+  updatedOn: 'Rates checked on', editorialPolicy: 'Editorial policy', contactLabel: 'Contact', reviewedBy: 'Checked by',
   skipToContent: 'Skip to content', mainNav: 'Main navigation', breadcrumbLabel: 'Breadcrumb', breadcrumbHome: 'Home', menuOpen: 'Open menu',
-  faqTitle: 'Questions people ask', relatedCalculators: 'Read next', sourcesTitle: 'Official sources for this page', writtenBy: 'Published by',
-  asOf: 'Federal and state benefit rules for', lastUpdated: 'read on agency documents on', footerValidated: 'Sources: USDA, HHS, CMS, IRS, HUD, SSA and state agencies',
-  footerBrowser: 'Calculated in your browser · nothing you type leaves your device · free, no account',
-  footerDisclaimer: 'Independent site published by Radif Partners. Not a government website and not affiliated with USDA, HHS, CMS, the IRS, HUD, the SSA or any state agency. Every result is an estimate under the published rules; the agency that processes your application decides.',
-  footerPopular: 'Benefits by state',
-  notFound: 'This address does not exist here. The calculators below still estimate SNAP, Medicaid, ACA subsidies, the EITC, WIC and Section 8 limits for every state.',
+  faqTitle: 'Questions people ask', relatedCalculators: 'Read next', sourcesTitle: 'Where these figures come from', writtenBy: 'Published by',
+  asOf: 'Centrelink and family assistance rates indexed on 20 September 2026,', lastUpdated: 'read in the Department of Social Services guides on', footerValidated: 'Sources: Social Security Guide, Family Assistance Guide, Paid Parental Leave Guide',
+  footerBrowser: 'Worked out in your browser · nothing you enter is sent anywhere · free, no sign-up',
+  footerDisclaimer: 'Independent site published by Radif Partners. Not a government website and not connected with Services Australia, Centrelink or the Department of Social Services. Results are estimates under the published rules; Services Australia decides your entitlement.',
+  footerPopular: '',
+  notFound: 'Nothing lives at this address. The household calculator below still adds up Family Tax Benefit, Child Care Subsidy, Rent Assistance and the main Centrelink payments for your situation.',
   readMore: 'Read the full answer',
-  estimate: 'Estimate only: the figures on this page apply the rules published by federal and state agencies to the numbers you enter. The agency that receives your application decides, after checking income, household and documents.',
+  estimate: 'Estimate only: these figures apply the rates and tests published in the Social Security Guide and the Family Assistance Guide to the numbers you enter. Services Australia assesses your claim on verified income, assets and circumstances, and its decision is the one that counts.',
 };
 export function t(_lang: Locale) { return en; }

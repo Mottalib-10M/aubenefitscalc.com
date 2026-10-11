@@ -1,0 +1,25 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const frames = [
+  { slug: 'household-calculator', title: 'Centrelink household calculator: FTB, CCS, Rent Assistance and the main payment', h: 1250, who: 'Financial counsellors, neighbourhood houses, tenancy advice services, school wellbeing staff and libraries' },
+  { slug: 'family-tax-benefit-calculator', title: 'Family Tax Benefit calculator, Parts A and B, 2026-27', h: 1050, who: 'Playgroups, maternal and child health services, parenting blogs and local newsrooms' },
+];
+const code = (f: (typeof frames)[number]) => `<iframe src="${SITE_URL}/embed/${f.slug}/" title="${f.title}" width="100%" height="${f.h}" style="border:0;max-width:1000px" loading="lazy"></iframe>`;
+---
+<PageLayout title="Embed the Centrelink household calculator on your site" description="Embed a free Centrelink household calculator or a Family Tax Benefit calculator, updated at each indexation, with one iframe line, no cookie and no tracking of your visitors." lang={lang} noindex={true} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Embed the calculator', path: route('widget', lang) }])]} breadcrumbs={[{ label: 'Embed the calculator' }]} showAuthor={false}>
+  <header class="mb-6">
+    <h1 class="font-serif text-3xl font-bold text-navy-900 md:text-4xl">Embed the calculator</h1>
+    <p class="mt-3 text-lg text-navy-700">One line of code. On 1 January, 20 March, 1 July and 20 September, when the rates move, the embedded calculator moves with them.</p>
+  </header>
+  <div class="prose prose-slate max-w-none">
+    <p>Terms of use: keep the credit link under the frame visible, do not alter the frame, and present the result as an estimate, since Services Australia decides. The frame sets no cookie and sends us nothing about the people who use it. Questions: <a href={route('contact', lang)}>contact page</a>.</p>
+    {frames.map((f) => <><h2>{f.title}</h2><p>Used by: {f.who}.</p><pre class="overflow-x-auto rounded-lg bg-navy-900 p-4 text-sm text-white"><code>{code(f)}</code></pre></>)}
+  </div>
+  <div class="mt-8 overflow-hidden rounded-xl border border-navy-200">
+    <iframe src="/embed/household-calculator/" title="Centrelink household calculator" width="100%" height="1250" style="border:0" loading="lazy"></iframe>
+  </div>
+</PageLayout>

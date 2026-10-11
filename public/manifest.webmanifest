@@ -1,7 +1,7 @@
 {
  "name": "Household Payments AU",
  "short_name": "Household Payments AU",
- "description": "À RÉÉCRIRE",
+ "description": "One calculator for what an Australian household gets from Centrelink: Family Tax Benefit, Child Care Subsidy, Rent Assistance and the main payment, at the rates of 20 September 2026.",
  "start_url": "/en/",
  "display": "standalone",
  "background_color": "#ffffff",

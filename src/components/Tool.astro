@@ -1,0 +1,23 @@
+---
+/** Renders a calculator as a hydrated island. `preset` sets the household calculator's defaults. */
+import HouseholdCalculator from './calc/HouseholdCalculator';
+import { FtbCalculator, CcsCalculator, RaCalculator } from './calc/FamilyCalculators';
+import { JspCalculator, YaCalculator, PpCalculator, PensionCalculator, PplCalculator } from './calc/PaymentCalculators';
+import { route } from '../i18n/routes';
+import type { ToolKind } from '../lib/page-types';
+import type { Household } from '../lib/engine/household';
+interface Props { kind: ToolKind; preset?: Household; idPrefix?: string; methodHref?: string }
+const { kind, preset, idPrefix, methodHref = route('method', 'en') } = Astro.props;
+const p = idPrefix ?? kind;
+---
+{kind === 'household' && <HouseholdCalculator client:load preset={preset} methodHref={methodHref} idPrefix={p} />}
+{kind === 'ftb' && <FtbCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'ccs' && <CcsCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'ra' && <RaCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'jsp' && <JspCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'ya' && <YaCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'austudy' && <YaCalculator client:load austudy={true} methodHref={methodHref} idPrefix={p} />}
+{kind === 'pp' && <PpCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'pension' && <PensionCalculator client:load methodHref={methodHref} idPrefix={p} />}
+{kind === 'carer' && <PensionCalculator client:load carer={true} methodHref={methodHref} idPrefix={p} />}
+{kind === 'ppl' && <PplCalculator client:load methodHref={methodHref} idPrefix={p} />}
