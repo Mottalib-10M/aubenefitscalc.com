@@ -17,7 +17,7 @@ export default definePage({
   nav: 'Indexation dates',
   card: 'Which payments move on 1 January, 20 March, 1 July and 20 September.',
   title: 'Centrelink Indexation Dates 2026-27: When Payments Increase',
-  description: `Centrelink indexation dates: pensions and JobSeeker move on 20 March and 20 September, family payments on 1 July, students on 1 January. Latest: ${day(P.rates_date)}.`,
+  description: `Centrelink indexation dates: pensions and JobSeeker on 20 March and 20 September, family payments 1 July, students 1 January. Latest: ${day(P.rates_date)}.`,
   h1: 'When Centrelink payments increase',
   intro: 'Four dates a year, each moving a different group of payments. What changed on 20 September 2026 and what moves next.',
   resume: `Centrelink payments do not all rise on the same day. Pensions, Parenting Payment, JobSeeker and Rent Assistance are indexed twice a year, on 20 March and 20 September, the latest change being on ${day(P.rates_date)} and the next on ${day(P.next_indexation)}. Family Tax Benefit, the Child Care Subsidy thresholds and hourly caps, the pension income and assets free areas and Parental Leave Pay change once a year, on 1 July. Youth Allowance, Austudy and Carer Allowance change on 1 January. Most of these increases follow the consumer price index; the pension rates are also kept in line with wages, which is why they tend to rise faster than allowances over time. The Energy Supplement and the Carer Allowance income limit are not indexed at all. An indexation increase is applied automatically: nobody needs to claim it, and the first payment at the new rate is usually only part-increased, because payments are made in arrears.`,
