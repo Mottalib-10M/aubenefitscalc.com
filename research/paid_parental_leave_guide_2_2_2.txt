@@ -1,0 +1,159 @@
+https://guides.dss.gov.au/paid-parental-leave-guide/2/2/2
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+2.2.2 Work test for PLP
+Introduction
+
+A claimant must establish that they have or had a genuine attachment to the labour force to establish eligibility for PLP. In addition, in order for some claimants to be payable, another person must also meet the work test requirements (5.2.2.20, 5.2.2.30).
+
+PLP work test period
+
+The work test period (1.1.W.40) for PLP is generally the 392-day period (that is, a period of approximately 13 months) for people other than COVID-19 affected claimants, and the 600-day period (that is, a period of approximately 20 months) for COVID-19 affected claimants, prior to the expected or actual DOB or placement of the child for adoption, or the date the person became the primary carer of the child.
+
+Initial eligibility determinations
+
+For the purposes of making an initial eligibility determination (1.1.I.70) (a pre-birth claim), a person’s eligibility in relation to the work test is established by examining the work performed within the 392-day period prior to the expected DOB or placement of the child for adoption.
+
+Eligibility determinations
+
+For the purposes of making an eligibility determination (where the decision is made after birth), a person's work test period is established by examining the work performed within the 392-day period prior to the child's actual DOB or placement of the child for adoption. If the person is unable to meet the work test based on the actual date of DOB or placement of the adoption, and the child was born or placed after the expected DOB or placement, the work test may be applied to the 392 days prior to the expected DOB or placement. The work test period for a PPL claimant in exceptional circumstances and their partner commences 392 days prior to the day the PPL claimant in exceptional circumstances became the primary carer of the child.
+
+If the Secretary is satisfied that a PPL claimant or special PPL claimant who is the partner of a PPL claimant in exceptional circumstances meets the work test and income test requirements on the day a payability determination is made that the claimant is not payable, then the claimant is conditionally eligible for flexible PPL days for the child (1.1.C.143).
+
+Hazardous jobs for PLP
+
+For a birth mother who does not meet the work test because they ceased work due to hazards connected to their work that posed a risk to their pregnancy, the work test period will be the 392 days prior to the day the claimant is no longer performing work in the hazardous job (2.2.3).
+
+COVID-19 affected claimants
+
+For the purposes of making an initial eligibility determination for a claimant who is a COVID-19 affected claimant (1.1.C.165), the work test period is the 600-day period prior to the expected date of birth or adoption.
+
+For the purposes of making an eligibility determination for claimant who is a COVID-19 affected claimant, the work test period is the 600-day period prior to the child's actual DOB or placement for adoption. If the claimant is unable to meet the work test based on the actual date of DOB or placement of the adoption, and the child was born or placed after the expected DOB or placement, the work test period is the 600-day period prior to the expected DOB or placement.
+
+Qualifying period
+
+For the purposes of the work test, a qualifying period is a period of 295 consecutive days (approximately 10 months) in a person's work test period that are days:
+
+on which the person has performed qualifying work (2.2.7), or
+that fall within a permissible break (2.2.8).
+
+Days on which a person has not performed qualifying work that do not fall within a permissible break cannot be considered when calculating if the person has a 295 consecutive day qualifying period.
+
+Qualifying work
+
+In addition to meeting the requirements of the 295-day qualifying period, a person must have performed at least 330 hours of qualifying work within the qualifying period.
+
+A person performs qualifying work on a day if they perform at least one hour of paid work on the day or if they take a period of paid leave of at least one hour on a day.
+
+It is not necessary for work to have been performed with a single employer. Work performed with more than one employer in the work test period may count towards the work test. From 1 March 2014, a person can count the days in a PPL period for a previous child as qualifying work for a new claim. From 1 July 2020, a person can also count flexible PPL days (1.1.F.70) for a previous child as qualifying work for a new claim.
+
+From 30 March 2020, a day on which a person is entitled to jobkeeper payment can count as a day of qualifying work for the purposes of the work test for PLP.
+
+For claims made on or after 4 September 2021, a day on which a person is entitled to the COVID-19 disaster payment from 3 June 2021 can count as a day of qualifying work for the purposes of the work test for PLP.
+
+Hours of qualifying work on a day in a PPL period
+
+For children born or entrusted to care as part of an adoption process on or after 1 March 2014, a person can count the days in their PPL period for a previous child as qualifying work for a new claim for PLP. From 1 July 2020, any flexible PPL days for a previous child can also count as qualifying work for a new claim.
+
+If a person did not perform paid work or take paid leave during their PPL period for a previous child, the hours of work the person is taken to have performed on that day is:
+
+7.6 if the day is a week day, and
+no hours if the day is a Saturday or Sunday.
+
+If a person did not perform paid work or take paid leave on a flexible PPL day for a previous child, the person is taken to have performed 7.6 hours of work on that day, including weekends.
+
+If a person performed at least one hour of paid work on a day during their PPL period for a previous child, the hours of work the person is taken to have performed on the day is the greater of:
+
+7.6 hours of PLP if the day is a week day, and
+the actual number of hours of paid work performed by the person on that day.
+
+If a person performed at least one hour of paid work on a day on a flexible PPL day for a previous child, the hours of work the person is taken to have performed on that day is the greater of 7.6 hours of PLP (if the day is a week day or a weekend), and the actual number of hours of paid work performed by the person on that day.
+
+If a person took paid leave of at least one hour during their PPL period for a previous child, the hours of work the person is taken to have performed on the day is the greater of:
+
+7.6 hours of PLP if the day is a week day, and
+the number of hours of paid leave taken by the person on that day.
+
+If the person takes paid leave of at least one hour on a flexible PPL day for a previous child, the hours of work the person is taken to have performed on that day is the greater of 7.6 hours of PLP (if the day is a week day or a weekend), and the actual number of hours of paid leave taken by the person on that day.
+
+Example: A person may be taking 3 hours of paid leave on a flexible PPL day. In this circumstance, the person will be taken to have performed 7.6 hours of qualifying work on that day, whether or not the day is a week day or weekend.
+
+A person in receipt of the jobkeeper payment or COVID-19 disaster payment will be taken to have performed 7.6 hours of qualifying work for the purposes of the work test for PLP for each week day (no hours for a Saturday or Sunday) during a period/s of jobkeeper payment or COVID-19 disaster payment.
+
+Where a person has performed at least one hour of paid work or received at least one hour of paid leave on a day during a jobkeeper payment period or COVID-19 disaster payment period, the person will be taken to have performed qualifying work for the greater of 7.6 hours or the number of hours actually worked or number of hours of paid leave received.
+
+Where a person performs at least one hour of paid work on a day and the day is a Saturday or Sunday that falls in a jobkeeper payment period or COVID-19 disaster payment period, the person will be taken to have worked the hours actually performed on that day (instead of no hours).
+
+Example: Sarah performs 9 hours of work on a Monday that is in a jobkeeper payment period because she is required to work overtime. However, on Tuesday her hours are reduced to 4 hours due to a decrease in demand, and on Wednesday reduced to nil hours. It would be unfair to determine that on Monday, when she was required to work overtime due to the constantly fluctuating nature of the current work environment, she be taken to have performed 7.6 hours of work because she was working during a jobkeeper payment period. Therefore, the greater of the 2 should be taken into account when applying the PLP work test. In Sarah's case, the 9 hours actually worked would be counted for Monday not 7.6 hours. Sarah would be taken to have performed 7.6 hours of work on Tuesday, Wednesday.
+
+Act reference: PPLAct Part 2-3 Division 3 The work test, section 33A The work test period—COVID-19 affected claimants, section 34 When a person performs qualifying work, section 35A Hours of qualifying work on a flexible PPL day, 35B Hours of qualifying work on a day in a jobkeeper payment period, 35C Hours of qualifying work on a day in a COVID-19 Australian Government payment period
+
+PPL Rules Part 2 Division 3 Matters relating to the work test
+
+Policy reference: PPL Guide 2.1 PLP eligibility overview, 2.2.4 Work test period for COVID-19 affected claimants for PLP
+
+Last reviewed: 1 July 2024
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/2#content
+Skip to footer | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/2#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+What's new | https://guides.dss.gov.au/paid-parental-leave-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/paid-parental-leave-guide/1
+2 Eligibility for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2
+2.1 PLP eligibility overview | https://guides.dss.gov.au/paid-parental-leave-guide/2/1
+2.2 PPL scheme work test for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2
+2.2.1 When a person satisfies the work test for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/1
+2.2.2 Work test for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/2
+2.2.3 Hazardous jobs for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/3
+2.2.4 Work test period for COVID-19 affected claimants for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/4
+2.2.5 Premature birth & pregnancy-related complications or illness for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/5
+2.2.6 Special circumstances for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/6
+2.2.7 Activities considered as 'work' for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/7
+2.2.8 Permissible break for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/8
+2.3 PPL scheme income test for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/3
+2.4 PPL scheme Australian residency test & absences from Australia for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/2/4
+2.5 Caring for a child | https://guides.dss.gov.au/paid-parental-leave-guide/2/5
+2.6 Who is a PPL claimant for PLP? | https://guides.dss.gov.au/paid-parental-leave-guide/2/6
+2.7 Who is a special PPL claimant for PLP? | https://guides.dss.gov.au/paid-parental-leave-guide/2/7
+2.8 Performing paid work on a day | https://guides.dss.gov.au/paid-parental-leave-guide/2/8
+2.9 Maximum PLP entitlements | https://guides.dss.gov.au/paid-parental-leave-guide/2/9
+2.10 Not eligible for PLP - claimant deceased | https://guides.dss.gov.au/paid-parental-leave-guide/2/10
+3 Rate calculation for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/3
+4 Claims & payments for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/4
+5 Determinations for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/5
+6 Compliance & enforcement for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/6
+7 Review of decisions for PLP | https://guides.dss.gov.au/paid-parental-leave-guide/7
+8 Miscellaneous | https://guides.dss.gov.au/paid-parental-leave-guide/8
+9 PPL superannuation contribution (PPLSC) | https://guides.dss.gov.au/paid-parental-leave-guide/9
+10 Births & adoptions before 1 July 2023 | https://guides.dss.gov.au/paid-parental-leave-guide/10
+Acronym/initialism list | https://guides.dss.gov.au/paid-parental-leave-guide/acronyms
+Keyword index | https://guides.dss.gov.au/paid-parental-leave-guide/keywords
+Act reference index | https://guides.dss.gov.au/paid-parental-leave-guide/act-references
+Site map | https://guides.dss.gov.au/paid-parental-leave-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fpaid-parental-leave-guide%2F2%2F2%2F2
+PLP | https://guides.dss.gov.au/paid-parental-leave-guide/acronyms#plp
+5.2.2.20 | https://guides.dss.gov.au/paid-parental-leave-guide/5/2/2/20
+5.2.2.30 | https://guides.dss.gov.au/paid-parental-leave-guide/5/2/2/30
+1.1.W.40 | https://guides.dss.gov.au/paid-parental-leave-guide/1/1/w/40
+DOB | https://guides.dss.gov.au/paid-parental-leave-guide/acronyms#dob
+1.1.I.70 | https://guides.dss.gov.au/paid-parental-leave-guide/1/1/i/70
+PPL | https://guides.dss.gov.au/paid-parental-leave-guide/acronyms#ppl
+1.1.C.143 | https://guides.dss.gov.au/paid-parental-leave-guide/1/1/c/143
+2.2.3 | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/3
+1.1.C.165 | https://guides.dss.gov.au/paid-parental-leave-guide/1/1/c/165
+2.2.7 | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/7
+2.2.8 | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/8
+1.1.F.70 | https://guides.dss.gov.au/paid-parental-leave-guide/1/1/f/70
+2.1 | https://guides.dss.gov.au/paid-parental-leave-guide/2/1
+2.2.4 | https://guides.dss.gov.au/paid-parental-leave-guide/2/2/4
+Contact us | https://guides.dss.gov.au/contact-us

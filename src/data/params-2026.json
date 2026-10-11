@@ -388,6 +388,10 @@
     "starting-blocks": {
       "url": "https://www.startingblocks.gov.au/",
       "label": "Starting Blocks (Australian Children's Education and Care Quality Authority), finding approved child care"
+    },
+    "ppl-work": {
+      "url": "https://guides.dss.gov.au/paid-parental-leave-guide/2/2/2",
+      "label": "Paid Parental Leave Guide 2.2.2, Work test for PLP (392-day period, 295-day qualifying period, 330 hours)"
     }
   }
 }
