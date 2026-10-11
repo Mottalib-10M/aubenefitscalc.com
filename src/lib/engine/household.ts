@@ -12,6 +12,7 @@
  * payments (Rent Assistance and the Energy Supplement are tax-free).
  */
 import { P, faFortnight, ssAnnual, ssFortnight } from './params';
+import { formatMoney } from '../format';
 import { ftbA, ftbB } from './ftb';
 import { ccsFamily, type CareType } from './ccs';
 import { jobseeker, parentingPayment, youthAllowance, pension, type PayResult, type YaSituation } from './payments';
@@ -117,7 +118,7 @@ export function household(h: Household): HouseholdResult {
     const incomes = adults.map((a) => a.incomeAnnual);
     const primary = Math.max(...incomes), secondary = partner ? Math.min(...incomes) : 0;
     fb = ftbB({ ages: kids, couple: !!partner, primaryAti: primary, secondaryAti: secondary, incomeSupport });
-    lines.push({ key: 'ftb-a', label: 'Family Tax Benefit Part A', fortnight: fa.fortnight, annual: fa.annualNoSupplement, note: fa.annual === 0 ? 'Income above the cut-off' : `${incomeSupport ? 'No income test (income support)' : `Method ${fa.method}`}${fa.raPaidAnnual > 0 ? `, Rent Assistance ${Math.round(faFortnight(fa.raPaidAnnual))} a fortnight included` : ''}` });
+    lines.push({ key: 'ftb-a', label: 'Family Tax Benefit Part A', fortnight: fa.fortnight, annual: fa.annualNoSupplement, note: fa.annual === 0 ? 'Income above the cut-off' : `${incomeSupport ? 'No income test (income support)' : `Method ${fa.method}`}${fa.raPaidAnnual > 0 ? `, Rent Assistance of ${formatMoney(Math.round(faFortnight(fa.raPaidAnnual)), 0)} a fortnight included` : ''}` });
     lines.push({ key: 'ftb-b', label: 'Family Tax Benefit Part B', fortnight: fb.fortnight, annual: fb.annualNoSupplement, note: fb.eligible ? (incomeSupport ? 'No income test (income support)' : partner ? 'Secondary earner test' : 'Single parent') : fb.reason });
     endOfYear = fa.supplementPaid + fb.supplementPaid;
     const inCare = h.children.filter((c) => (c.careDays ?? 0) > 0);

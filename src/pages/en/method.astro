@@ -9,7 +9,7 @@ const lang = 'en';
 const s = (k: string, t?: string) => ext(SOURCES[k].url, t ?? SOURCES[k].label);
 const cut = ftbACutoffs([5]);
 const title = 'Centrelink Calculator Method 2026: Formulas, Tests, Limits';
-const description = 'How the Centrelink household calculator works in 2026: the formulas for FTB, CCS, Rent Assistance, allowances and pensions, the official examples it passes and what it leaves out.';
+const description = 'How the Centrelink household calculator works in 2026: formulas for FTB, CCS, Rent Assistance and pensions, the official examples it passes, and its limits.';
 const params = [
   ['Age Pension and Carer Payment, maximum', `${audx(P.pension.max_single)} single, ${audx(P.pension.max_couple_each)} each for a couple`, s('ssg-common-pension', 'SS Guide 5.1.8.10')],
   ['Pension income free area', `${aud(ssFortnight(P.pension.ifa_single_pa))} single, ${aud(ssFortnight(2 * P.pension.ifa_couple_each_pa))} couple, per fortnight`, s('ssg-pension-limits', 'SS Guide 4.10.3')],
@@ -52,7 +52,7 @@ const params = [
       <li>Rent Assistance reaches its maximum exactly at the minimum rent printed in SS Guide 5.1.7.10 for singles, sharers and couples.</li>
       <li>Parental Leave Pay: 7.6 times the national minimum wage, rounded, equals the published daily rate.</li>
     </ul>
-    <p>In all, 39 automated tests run before every release; a drift of more than a cent fails the build.</p>
+    <p>In all, 38 engine tests run before every release, next to a test suite that checks every page; a drift of more than a cent fails the build.</p>
     <h2>What the calculator does not do</h2>
     <p>Shared care percentages, the FTB maintenance income test on child support received, the parental income test of dependent Youth Allowance, the Work Bonus, Pharmaceutical Allowance, Remote Area Allowance, the Energy Supplement inside FTB (closed to new families since 20 March 2017), transitional pension rates, the care receiver tests of Carer Payment, and the work test of Paid Parental Leave (asked as a question, not computed). Where these apply, the estimate is approximate and the page concerned says so. Services Australia decides on verified income and circumstances.</p>
     <p class="text-sm text-navy-600">Method last reviewed on <time datetime={LAST_UPDATED}>{day(LAST_UPDATED)}</time>.</p>

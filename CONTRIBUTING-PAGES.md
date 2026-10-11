@@ -156,7 +156,32 @@ cd ~/Documents/GitHub/a-publier/Mottalib-10M/au-centrelink
 ALLOW_PLANNED=1 PAGE_FILES=jobseeker-income-test,age-pension-rates npx vitest run tests/pages.test.ts   # vos pages
 ```
 
-L'orchestrateur lance ensuite le build et tous les contrôles de la factory.
+Puis le build et tous les contrôles de la factory :
+
+```bash
+export NODE_PATH=$(npm root -g):$PWD/node_modules
+npm run build && npx vitest run
+python3 scripts/check-seo.py . && python3 scripts/check-trame.py . && python3 scripts/check-simulateurs.py .
+python3 scripts/check-unique.py dist && python3 scripts/check-portefeuille.py . && python3 scripts/check-regles.py .
+node scripts/check-legal.mjs . && node scripts/check-sources.mjs . && python3 scripts/check-cookies.py .
+node scripts/check-contraste.mjs dist && node scripts/check-saisie.mjs dist --max=60 && node scripts/check-nombres.mjs dist
+node scripts/typo-nbsp.mjs dist --check && python3 scripts/check-liens.py dist && node scripts/check-url-propre.mjs dist
+node scripts/check-layout.mjs dist > /tmp/layout-au.log 2>&1   # long
+```
+
+Serveur local : `npx astro preview --port 4409` ; l'arrêter par `lsof -ti tcp:4409 | xargs kill`.
+
+## Limites connues
+
+- **guides.dss.gov.au** est derrière une protection anti-robot : `check-sources.mjs` signale ses pages « bloquées aux robots » (403).
+  Elles se lisent avec un navigateur sans tête lancé une fois par page (voir `research/` : chaque section citée y est copiée,
+  relue le 2026-10-11). Une page qui répondrait 404 dans un navigateur serait, elle, morte.
+- **servicesaustralia.gov.au** ne répondait pas depuis la machine de construction (connexion coupée) : le site cite à la place
+  l'Operational Blueprint de Services Australia (`operational.servicesaustralia.gov.au`), qui répond, et les guides du DSS.
+- Non modélisés (et annoncés comme tels sur les pages) : garde partagée, maintenance income test, test parental de la Youth
+  Allowance dépendante, Work Bonus, Pharmaceutical Allowance, Remote Area Allowance, Energy Supplement dans le FTB (fermé en 2017),
+  taux transitoires des pensions, tests du bénéficiaire des soins (Carer Payment), work test du PPL (posé en question).
+- Le calculateur du foyer n'ajoute pas le Carer Allowance ni le Parental Leave Pay au total (pages dédiées).
 
 ## Ce qu'on ne fait pas
 

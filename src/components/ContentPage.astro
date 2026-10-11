@@ -47,7 +47,7 @@ const kicker = page.kind === 'pillar' ? `${g.label} · calculator` : page.kind =
     {tool ? (
       <>
         <Clamp text={page.resume} lang={lang} id={`clamp-${page.id}`} class="mb-4" />
-        <div data-outil class="mb-10"><Tool kind={tool} preset={page.preset} idPrefix={page.id.slice(0, 8)} /></div>
+        <div data-outil data-chrome class="mb-10"><Tool kind={tool} preset={page.preset} idPrefix={page.id.slice(0, 8)} /></div>
       </>
     ) : (
       <>

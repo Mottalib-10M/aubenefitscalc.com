@@ -1,6 +1,6 @@
 import type { Locale } from './routes';
 const en = {
-  updatedOn: 'Rates checked on', editorialPolicy: 'Editorial policy', contactLabel: 'Contact', reviewedBy: 'Checked by',
+  updatedOn: 'Rates updated on', editorialPolicy: 'Editorial policy', contactLabel: 'Contact', reviewedBy: 'Checked by',
   skipToContent: 'Skip to content', mainNav: 'Main navigation', breadcrumbLabel: 'Breadcrumb', breadcrumbHome: 'Home', menuOpen: 'Open menu',
   faqTitle: 'Questions people ask', relatedCalculators: 'Read next', sourcesTitle: 'Where these figures come from', writtenBy: 'Published by',
   asOf: 'Centrelink and family assistance rates indexed on 20 September 2026,', lastUpdated: 'read in the Department of Social Services guides on', footerValidated: 'Sources: Social Security Guide, Family Assistance Guide, Paid Parental Leave Guide',

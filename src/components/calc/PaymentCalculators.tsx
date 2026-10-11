@@ -55,7 +55,7 @@ export function YaCalculator({ methodHref = '/en/method/', idPrefix = 'ya', aust
       <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <SelectField id={id('st')} label="Your situation" value={String(s.st)} onChange={(v) => set('st', Number(v))} options={options.map((o) => ({ value: String(SITUATIONS.indexOf(o)), label: o.label }))} />
         {austudy ? <SelectField id={id('age')} label="Your age" value={String(s.age)} onChange={(v) => set('age', Number(v))} options={ageOptions(25, 80)} /> : <Toggle id={id('stu')} label="Full-time student or apprentice?" value={String(s.stu)} onChange={(v) => set('stu', Number(v))} options={yn} />}
-        <NumberField id={id('i')} label="Your income per fortnight" value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} help="Before tax." />
+        <NumberField id={id('i')} label="Your income per fortnight, before tax" value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} />
         {couple ? <NumberField id={id('pi')} label="Partner's income per fortnight" value={s.pi} onChange={(v) => set('pi', v)} unit="$" max={100000} /> : <div aria-hidden="true" />}
         {away && !sit.endsWith('children') ? <NumberField id={id('r')} label="Rent per fortnight" value={s.r} onChange={(v) => set('r', v)} unit="$" max={20000} /> : <div aria-hidden="true" />}
         {sit === 'away' ? <Toggle id={id('sh')} label="Sharing a house?" value={String(s.sh)} onChange={(v) => set('sh', Number(v))} options={yn} /> : <div aria-hidden="true" />}
