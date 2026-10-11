@@ -1,0 +1,129 @@
+https://guides.dss.gov.au/family-assistance-guide/3/5/4
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.5.4 Calculating CCS entitlement
+Calculation
+
+CCS eligible individuals (1.1.I.90) will have their entitlement (1.1.E.30) calculated for sessions of care (1.1.S.40) provided by an approved child care service (1.1.A.90) to a child for each week by the following method.
+
+Step 1
+
+Centrelink works out the individual's subsidised hours result for the CCS fortnight.
+
+Example: Jane works 40 hours a fortnight, her subsidised hours result is the basic hours result of 72 hours per fortnight.
+
+Note: Some ACCS entitlements have a subsidised hours result of 100 hours. Where care is provided to Aboriginal and Torres Strait Islander children they have a subsidised hours result of 100 hours.
+
+Step 2
+
+Determine what sessions of care the individual is eligible to claim (1.1.C.27) CCS on.
+
+Example: Jane has her child in child care 5 days a week, however 2 of those sessions are not eligible CCS sessions of care because the child ceased to meet the immunisation requirements (1.1.I.10) part way through the week. The CCS rate will only apply to the 3 CCS eligible sessions of care.
+
+Step 3
+
+Work out the hourly rate the individual is entitled to for the eligible sessions of care.
+
+Example: Jane has her child in a CBDC, which charges Jane $10.00 an hour. The 2026–27 CBDC subsidy cap is $15.19. Based on Jane's combined annual ATI of $288,520 her CCS percentage is 50% of the lower of either the hourly fee and the hourly rate cap for CBDC. The hourly rate Jane would be entitled to is $5.00 an hour (50% of the hourly fee).
+
+Families with income below $370,727 and more than one child aged 5 or under in care can get a higher subsidy for one or more of their children. The rates for each child are worked out using two separate income tests.
+
+The ‘standard rate child’ is usually the eldest CCS eligible child aged 5 or under. The standard rate child will get the standard CCS rates. The ‘higher rate child’ is the second and any younger children aged 5 or under. A higher rate child is entitled to a higher rate of subsidy calculated using a separate income test (3.5).
+
+Example: If Jane had 2 children, who are both aged 5 and under using child care, her income tested CCS rate for her eldest child would be 50%, meaning the hourly rate she would be entitled to is $5.00 an hour (50% of the hourly fee of $10.00). Her CCS rate for her second, younger child would be calculated using a separate income test, that is, 74%. This means the hourly rate she would be entitled to for the second child is $7.40 an hour (74% of the hourly fee of $10.00).
+
+Note: Some ACCS entitlements will be up to 120% of the hourly rate cap.
+
+Step 4
+
+Apply the hourly rate to the remaining recognised participation hours for the CCS eligible sessions of care.
+
+Example: Jane is entitled to 72 hours of CCS eligible sessions of care per fortnight. The first week of the fortnight Jane had 3 CCS eligible sessions of care, which were 10 hours each. The basic subsidy amount the hourly rate would apply to is 30 hours for the first week. Therefore, $5.00 × 30 hours = $150.00.
+
+For the second week of the fortnight, Jane had 5 CCS eligible sessions of care for the week, which were also 10 hours each. However, she only has 42 subsidised hours remaining for the CCS fortnight, therefore her CCS hourly rate would only apply to the first 42 hours submitted. The remaining 8 hours would not receive any subsidy, and Jane would need to pay full fees for those hours.
+
+Step 5
+
+The amount of CCS for an individual for the week, for the sessions of care identified in step 2, is based on the recognised participation amount.
+
+Note: A CCS annual cap, which placed a limit on the amount of subsidy a child could receive per year, applied prior to the 2021–22 financial year. The annual cap was removed from the 2021–22 financial year onwards.
+
+Withholding
+
+Prior to any CCS payment being made, a withholding percentage is applied. Withheld amounts of CCS are used to offset potential debts (1.1.D.60) incurred in the future at reconciliation (1.1.R.10). The default withholding percentage for all individuals is 5% of their total entitlement.
+
+Example: Jane's total CCS entitlement for the week is $100.00. Five per cent of $100.00 is $5.00. Therefore, the total payment amount of CCS that Jane's child care provider will receive on her behalf is $95.00.
+
+To reduce the likelihood of incurring a debt after reconciliation has occurred, families can change their withholding percentage (from 0 to 100%) via their Centrelink online account through myGov (up to 2 times a year) or by contacting Centrelink directly.
+
+Note: There is no withholding applied to ACCS payments.
+
+Act reference: FAAct Schedule 2 Amounts of CCS and ACCS
+
+FA(Admin)Act section 67CD Determination of individual's entitlement to be paid CCS or ACCS, section 67EB(3) The withholding amount …
+
+Policy reference: FA Guide 3.5.2.10 CCS - recognised participation - general, 4.6.1.30 CCS - initial payments, 6.4.1 Overview of reconciliation
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/5/4#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/5/4#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 CCS - combined annual ATI | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.2 CCS - recognised participation | https://guides.dss.gov.au/family-assistance-guide/3/5/2
+3.5.3 CCS - hourly rate caps | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+3.5.4 Calculating CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5/4
+3.5.5 CCS & ACCS - exceptional circumstances | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F5%2F4
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+1.1.I.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/90
+1.1.E.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/e/30
+1.1.S.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/40
+1.1.A.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/90
+ACCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#accs
+1.1.C.27 | https://guides.dss.gov.au/family-assistance-guide/1/1/c/27
+1.1.I.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/10
+CBDC | https://guides.dss.gov.au/family-assistance-guide/acronyms#cbdc
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+3.5 | https://guides.dss.gov.au/family-assistance-guide/3/5
+1.1.D.60 | https://guides.dss.gov.au/family-assistance-guide/1/1/d/60
+1.1.R.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/10
+3.5.2.10 | https://guides.dss.gov.au/family-assistance-guide/3/5/2/10
+4.6.1.30 | https://guides.dss.gov.au/family-assistance-guide/4/6/1/30
+6.4.1 | https://guides.dss.gov.au/family-assistance-guide/6/4/1
+Contact us | https://guides.dss.gov.au/contact-us

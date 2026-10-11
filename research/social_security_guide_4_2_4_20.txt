@@ -1,0 +1,124 @@
+https://guides.dss.gov.au/social-security-guide/4/2/4/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.2.4.20 PPP income & assets tests & limits
+Summary
+
+This topic covers the modifications to the benefits income and assets tests that apply to PPP (1.1.P.50). This topic includes the:
+
+PPP income test
+income assessment period, and
+PPP assets test.
+PPP income test
+
+PPP is subject to a version of the benefits income test, comprising the following:
+
+For partners of allowees or low income earners (such as ABSTUDY recipients) or DVA Disability Compensation Payment recipients (and not receiving social security or DVA service pensions)
+a personal income free area of $150 per fortnight (pf)
+a lower personal income taper of 50c in the dollar for income between $150 and $256 pf
+an upper personal income taper of 60c in the dollar for income above $256 pf
+a partner income free area of the amount of income that would reduce the partner's payment (if the partner is not in receipt of an income support payment the YA (job seeker) income free area applies if the partner is aged under 22 years or JSP if the partner is 22 years or over) to nil, rounded up to the next highest dollar, and
+a partner excess income taper of 60c in the dollar for partner income above the partner income free area.
+For partners of social security or DVA service pensioners
+personal ordinary income is assessed as half the joint fortnightly ordinary income of the couple
+a personal income free area of $150 pf
+a lower personal income taper of 50c in the dollar for income between $150 and $256 pf, and
+an upper personal income taper of 60c in the dollar for income above $256 pf.
+For partners of non-independent YA recipients
+personal ordinary income only is assessed - partner income is ignored
+the PPS income test is applied.
+
+These amounts are current as at 20 March 2026. The partner income free area increases in line with changes in the cutout point of the partner's payment, or JSP, whichever is applicable.
+
+Act reference: SSAct section 1068B-A1 Method of calculating rate—general, section 1068B-D1 Effect of income on maximum payment rate, section 1068B-D19 Period over which ordinary income taken into account, section 1068B-D20 Fortnightly rate of ordinary income, section 1068B-D23 Partner income excess, section 1068B-D24 Partner income reduction
+
+Policy reference: SS Guide 4.2.2 Benefits income test & limits, 4.2.4.10 PPS income & assets tests & limits, 4.3.5.20 About DVA service pensions, 4.3.5.30 Overview of DVA compensation payments, 5.1.4.30 Calculating a rate of PP - partnered
+
+Income assessment period
+
+Income, EXCLUDING leave payments subject to the IMP, and EXCLUDING employment income (1.1.E.102) that is assessed on a fortnightly basis, may be taken into account over an appropriate period of up to 52 weeks, rather than fortnightly. This means that the continuing rate of current income is used, UNLESS the recipient's partner receives a social security benefit. For these recipients, income is assessed in the fortnight in which it is first earned, derived or received - consistent with their allowee partner's income assessment.
+
+Act reference: SSAct section 23(1)-'social security benefit', section 1068B-D19 Period over which ordinary income taken into account
+
+Policy reference: SS Guide 5.1.4.30 Calculating a rate of PP - partnered, 4.3.1.40 Determining the rate of income for PP
+
+PPP assets test
+
+PPP is subject to the benefits assets test. PPP is NOT payable if a recipient's assets exceed those limits. The limits are halved if the recipient's partner is receiving a social security payment.
+
+Act reference: SSAct section 500Q(3) The assets value limit of a person who is a member …
+
+Last reviewed: 20 March 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/2/4/20#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/2/4/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.2.1 Pension income test & additional free area for dependent children | https://guides.dss.gov.au/social-security-guide/4/2/1
+4.2.2 Benefits income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.3 Pensions & benefits assets tests | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.4 PP means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4
+4.2.4.10 PPS income & assets tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4/10
+4.2.4.20 PPP income & assets tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4/20
+4.2.5 CP income & assets tests | https://guides.dss.gov.au/social-security-guide/4/2/5
+4.2.6 SpB income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/6
+4.2.7 DRA income test | https://guides.dss.gov.au/social-security-guide/4/2/7
+4.2.8 YA means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/8
+4.2.9 CA Income Test | https://guides.dss.gov.au/social-security-guide/4/2/9
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F2%2F4%2F20
+PPP | https://guides.dss.gov.au/social-security-guide/acronyms#ppp
+1.1.P.50 | https://guides.dss.gov.au/social-security-guide/1/1/p/50
+ABSTUDY | https://guides.dss.gov.au/social-security-guide/acronyms#abstudy
+DVA | https://guides.dss.gov.au/social-security-guide/acronyms#dva
+YA | https://guides.dss.gov.au/social-security-guide/acronyms#ya
+JSP | https://guides.dss.gov.au/social-security-guide/acronyms#jsp
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+4.2.2 | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.4.10 | https://guides.dss.gov.au/social-security-guide/4/2/4/10
+4.3.5.20 | https://guides.dss.gov.au/social-security-guide/4/3/5/20
+4.3.5.30 | https://guides.dss.gov.au/social-security-guide/4/3/5/30
+5.1.4.30 | https://guides.dss.gov.au/social-security-guide/5/1/4/30
+IMP | https://guides.dss.gov.au/social-security-guide/acronyms#imp
+1.1.E.102 | https://guides.dss.gov.au/social-security-guide/1/1/e/102
+4.3.1.40 | https://guides.dss.gov.au/social-security-guide/4/3/1/40
+Contact us | https://guides.dss.gov.au/contact-us

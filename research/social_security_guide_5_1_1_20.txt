@@ -1,0 +1,210 @@
+https://guides.dss.gov.au/social-security-guide/5/1/1/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+5.1.1.20 YA - current rates
+Current rates
+
+This table shows the current maximum basic rates in dollars per fortnight (pf). The maximum rate of payment may be higher if the person is eligible for supplementary payments (1.2.7) in addition to the basic rate.
+
+Recipient Status	Rate ($ pf)
+Single	
+16 to 17 years, living at home
+18 years or more, living at home
+16 years or more, living away from home
+with children
+single job seeker principal carer with an exemption from mutual obligation requirements, either because of caring for a large family or foster child/ren, or who is a home or distance educator of child/ren in their care.
+	
+
+418.90
+
+482.40
+
+677.20
+
+854.20
+
+1,068.20*
+
+
+Partnered	
+no children
+with children
+	
+
+677.20
+
+733.20
+
+
+
+
+Special rate for recipients aged 22 years or more that:
+
+commence full-time study or an Australian Apprenticeship having been in receipt of an income support payment for at least 6 out of the last 9 months since turning 22, or
+are studying an approved course in English where English is not their first language.
+
+Single	
+living at home
+living away from home
+	
+
+567.50
+
+799.70
+
+
+Partnered	
+no children
+	733.20
+
+* Single principal carer maximum basic amount is equal to the PPS MBR including pension supplement.
+
+Act reference: SSAct section 1067F Long term income support student, section 1067G Rate of YA – Module B—Maximum basic rate
+
+Policy reference: SS Guide 1.1.L.100 Long term income support student (including apprentices) (YA, Austudy)
+
+PPS maximum basic amount of YA job seeker
+
+Single principal carers who are in receipt of YA as job seekers (that is, are not full-time students), are not long term income support students, and have an exemption from mutual obligation requirements under paragraphs 40P(2)(a) or (b) of the SS(Admin)Act, are eligible to receive the PPS maximum basic rate, including pension supplement.
+
+This MBR, including pension supplement, is provided to single principal carers who have received an exemption from participation requirements because they are:
+
+a registered and active foster carer of a child, or children, for whom they are a principal carer,
+a home educator of a child, or children, for whom they are a principal carer,
+a distance educator of a child, or children, for whom they are a principal carer, or
+the principal carer to at least one child under 16 years of age and a principal carer or main supporter (for children aged 18 years and under and in secondary school) of at least another 3 children.
+
+Note: This rate is not paid to SpB recipients or to partnered recipients.
+
+Act reference: SSAct section 1067G-B3A Pension PP (single) maximum basic amount - Maximum basic rate of YA job seeker, section 1068A-B1 Pension PP (single) rate calculator, section 746(3) Rate of SpB
+
+SS(Admin)Act section 40P Caring responsibilities
+
+Policy reference: SS Guide 5.1.4.10 PP - current rates, 3.7.1.80 Determining the rate of SpB, 3.11.5.30 Special family circumstances, 1.2.7 Supplementary benefits - description
+
+Qualification for the 'with child' rate of payment where a person has at least 14% care of at least one child
+
+For the purpose of this section, a child must be under 16 years of age.
+
+YA can be paid at a higher rate for recipients with at least one dependent child. Alternatively, recipients of YA (job seeker) can qualify in certain circumstances for the with child rate of payment despite not having a dependent child if they have at least 14% care of a child over a relevant assessment period. While this provides for the MBR of payment to a person as if they had a dependent child, in all other respects, the person should NOT be considered to have a dependent child.
+
+Note: YA recipients who are undertaking full-time study or are an Australian Apprentice can only access the with child rate if they have a dependent child.
+
+To determine if a person should qualify for the with child rate of YA (job seeker) where they have at least 14% care of a child despite not having a dependent child see 1.1.D.70.
+
+Act reference: SSAct section 1067G-B3AA Certain children treated as dependent children if …
+
+Policy reference: SS Guide 1.1.D.70 Dependent child
+
+Youth disability supplement
+
+YDS is an income supplement paid to young people with disabilities recognising additional costs associated with their physical, intellectual and psychiatric disabilities.
+
+YDS of $162.60 pf is payable to YA recipients under 22 years assessed as having a partial capacity to work (1.1.P.65).
+
+The rate payable to a YA recipient who is aged 21 years or younger cannot exceed the equivalent common benefit rates payable to those aged 22 years or over (JSP rates).
+
+Note: For single YA recipients with an assessed partial capacity of 0 to 14 hours per week, the equivalent common benefit rate may be the JSP rate extended to single recipients with a partial capacity to work of 0 to 14 hours.
+
+YDS is indexed annually in line with CPI increases.
+
+YDS applies when a YA recipient has been assessed by a health or allied health professional as having a partial capacity to work. For YA recipients, the YDS is payable from the date the assessment is accepted by the Secretary (subject to waiting periods (3.1.2)).
+
+Act reference: SSAct section 1068-B1 Maximum basic rate, section 1068-B1AB In point 1068‑B1AA, 15 hours per week of work …
+
+Energy supplement
+
+YA recipients may be eligible for the ES - a tax exempt supplementary payment for qualified recipients of income support payments.
+
+Indexation (1.1.I.100)
+
+The rates of YA are indexed to changes in the CPI, with an effective date of indexation of 1 January each year.
+
+The MBR component of PPS maximum basic amount of YA job seeker is indexed to the higher amount resulting from:
+
+changes to the CPI, OR
+25% of the annualised MTAWE.
+
+The pension supplement component is indexed to changes in the CPI. The effective dates of indexation are 20 March and 20 September each year (5.1.8.10).
+
+Act reference: SSAct Part 3.16 Indexation and adjustment of amounts
+
+Timing of payments
+
+Payments are made fortnightly in arrears.
+
+Act reference: SSAct section 556 How to work out a person's YA rate, section 1190 Indexed and adjusted amounts, section 1191 CPI Indexation Table, section 1192 Indexation of amounts, section 1193 Indexation factor, section 1194 Rounding off indexed amounts
+
+Policy reference: SS Guide 1.2.1.20 Youth allowance (YA) - description, 3.2.3 YA - qualification & payability
+
+Last reviewed: 21 September 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/5/1/1/20#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/5/1/1/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+5.1 Current rates | https://guides.dss.gov.au/social-security-guide/5/1
+5.1.1 Jobseeker payment & youth allowance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1
+5.1.1.10 JSP - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1/10
+5.1.1.20 YA - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1/20
+5.1.2 Other labour market & older students - current rates | https://guides.dss.gov.au/social-security-guide/5/1/2
+5.1.3 Retirement & widows - current rates | https://guides.dss.gov.au/social-security-guide/5/1/3
+5.1.4 Families & parenting - current rates | https://guides.dss.gov.au/social-security-guide/5/1/4
+5.1.5 Disability & carer - current rates | https://guides.dss.gov.au/social-security-guide/5/1/5
+5.1.6 Special payments - current rates | https://guides.dss.gov.au/social-security-guide/5/1/6
+5.1.7 Supplementary benefits - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7
+5.1.8 Common rates tables | https://guides.dss.gov.au/social-security-guide/5/1/8
+5.1.9 Pension supplement - current rates | https://guides.dss.gov.au/social-security-guide/5/1/9
+5.1.10 Energy assistance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/10
+5.2 Historical rates | https://guides.dss.gov.au/social-security-guide/5/2
+5.3 Taxation | https://guides.dss.gov.au/social-security-guide/5/3
+5.4 Advance payments | https://guides.dss.gov.au/social-security-guide/5/4
+5.5 Samples of rate calculations | https://guides.dss.gov.au/social-security-guide/5/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F5%2F1%2F1%2F20
+1.2.7 | https://guides.dss.gov.au/social-security-guide/1/2/7
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+MBR | https://guides.dss.gov.au/social-security-guide/acronyms#mbr
+1.1.L.100 | https://guides.dss.gov.au/social-security-guide/1/1/l/100
+SpB | https://guides.dss.gov.au/social-security-guide/acronyms#spb
+5.1.4.10 | https://guides.dss.gov.au/social-security-guide/5/1/4/10
+3.7.1.80 | https://guides.dss.gov.au/social-security-guide/3/7/1/80
+3.11.5.30 | https://guides.dss.gov.au/social-security-guide/3/11/5/30
+1.1.D.70 | https://guides.dss.gov.au/social-security-guide/1/1/d/70
+YDS | https://guides.dss.gov.au/social-security-guide/acronyms#yds
+1.1.P.65 | https://guides.dss.gov.au/social-security-guide/1/1/p/65
+JSP | https://guides.dss.gov.au/social-security-guide/acronyms#jsp
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+3.1.2 | https://guides.dss.gov.au/social-security-guide/3/1/2
+ES | https://guides.dss.gov.au/social-security-guide/acronyms#es
+1.1.I.100 | https://guides.dss.gov.au/social-security-guide/1/1/i/100
+MTAWE | https://guides.dss.gov.au/social-security-guide/acronyms#mtawe
+5.1.8.10 | https://guides.dss.gov.au/social-security-guide/5/1/8/10
+1.2.1.20 | https://guides.dss.gov.au/social-security-guide/1/2/1/20
+3.2.3 | https://guides.dss.gov.au/social-security-guide/3/2/3
+Contact us | https://guides.dss.gov.au/contact-us

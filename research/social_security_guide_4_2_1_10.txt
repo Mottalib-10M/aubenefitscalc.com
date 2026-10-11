@@ -1,0 +1,184 @@
+https://guides.dss.gov.au/social-security-guide/4/2/1/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.2.1.10 Pensions income test
+Introduction
+
+This section describes the income test as it applies to pensions. The pensions income test is based on a person's annual rate of ordinary income (1.1.O.30). There are 4 pension rate calculators that use the same basic income test. The overall rate calculation for a person's assessment using rate calculators B and E requires some additional steps beyond the standard rate calculation.
+
+This topic covers the following matters:
+
+payments assessed under each rate calculator
+the ordinary pensions income test
+pensions income free areas
+how income reduces payments
+work bonus, and
+compensation (1.1.C.240) income.
+
+Act reference: SSAct section 1064-E1 Effect of income on maximum payment rate, section 1065-A1 Method of calculating rate, section 1066A-F1 Effect of income on maximum payment rate, section 1066B-A1 Method of calculating rate
+
+Policy reference: SS Guide 4.2.3 Pensions & benefits assets tests, 4.2.1.20 Additional Free Area for Dependent Children
+
+Payments assessed under each pension rate calculator
+
+The following table lists the payments assessed under each pension rate calculator and the relevant act reference for each calculator.
+
+Pension rate calculator …	is used to assess …	SSAct reference
+A	
+
+age pension
+
+disability support pension, or
+
+carer payment.
+
+	section 1064-E1
+B	
+
+Age (blind), or
+
+DSP (blind), 21 years or older.
+
+	section 1065-A1
+D	DSP, under 21 years old.	section 1066A-F1
+E	DSP (blind), under 21 years old.	section 1066B-A1
+Pensions income test
+
+The pensions income test applies to all pensions. Pension entitlement is also assessed by the application of the pensions assets test. See 4.2.3.
+
+The following table shows the 5 steps involved in applying the income test for pensioners.
+
+Step	Action
+1	Identify income that is eligible for the work bonus and apply the work bonus if applicable.
+2	Determine the person's annual rate of income after allowing for work bonus eligible income.
+3	Determine the person's ordinary income free area.
+4	
+
+Does the person's ordinary income exceed their ordinary income free area?
+
+If NO, the ordinary income excess is NIL.
+If yes, the difference is the ORDINARY INCOME EXCESS.
+
+5	
+
+Determine 50% of the ordinary income excess.
+
+RESULT: REDUCTION FOR ORDINARY INCOME.
+
+Act reference: SSAct section 1064-A1 Method of calculating rate, section 1068-A1 Method of calculating rate, section 1064-E1 Effect of income on maximum payment rate, section 1068-G1 Effect of ordinary income on maximum payment rate
+
+Policy reference: SS Guide 4.3 Ordinary income, 5.5.1 Samples of pension rate calculations, 3.1.15 Work bonus
+
+Pensions income free areas
+
+Information on current income free areas is available on the Income test for pensions page on the Services Australia website.
+
+Income free areas are indexed on 1 July each year to increases in the CPI.
+
+How income reduces payments
+
+Income over the income free area reduces the payment by 50 cents in the dollar. For members of a couple, the application of the joint income test (in which the combined income of the couple is halved and shared between them) results in half the taper applying to each member of the couple (each partner in a couple is exposed to a taper of 25 cents in the dollar).
+
+Transitional arrangements
+
+From 20 September 2009, the rate at which income above the income free area affects pension payments changed from 40 cents to 50 cents in the dollar for singles as part of 2009-10 Budget. The 2009 changes also included pension increases and changes to indexation.
+
+Transitional arrangements were introduced for pensioners who were receiving a payment on 19 September 2009 and who would otherwise have had their payments reduced by the new income test rules. These pensioners will continue to receive their payment based on the 40 cent taper rate and the additional income test free area for dependent children, until they are better off under the new rules, including the 50 cent taper rate.
+
+The additional pension income test free area for pensioners with dependent children was also abolished from 20 September 2009.
+
+Policy reference: SS Guide 5.1.8.40 Pension reform - transitional arrangements, 4.2.1.20 Additional Free Area for Dependent Children
+
+Work bonus
+
+A work bonus was also introduced from 20 September 2009 as part of the 2009-10 Budget. An improved work bonus was introduced from 1 July 2011. From 1 July 2019, the work bonus amount and maximum work bonus income concession bank balance was increased, and the work bonus was extended to include self-employment income from gainful work. The maximum work bonus income concession bank balance was increased again in 2024, along with an increased starting balance for new entrants to work bonus eligible payments.
+
+The work bonus is used to reduce the total amount of assessable employment income and income from self-employment from gainful work in an instalment period. The work bonus applies for pensioners over age pension age (apart from PPS).
+
+Act reference: SSAct section 1073AA Work bonus
+
+Policy reference: SS Guide 3.1.15 Work bonus
+
+Compensation income
+
+Compensation, such as weekly worker's compensation payments, are assessed under a separate income test. Lump sum compensation payments are also subject to special rules.
+
+Act reference: SSAct section 17 Compensation recovery definitions, Part 3.14 Compensation recovery
+
+Policy reference: SS Guide 3.1.9.10 Compensation & payability, 4.13 Compensation, 6.4 Compensation Recovery
+
+Last reviewed: 11 May 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/2/1/10#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/2/1/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.2.1 Pension income test & additional free area for dependent children | https://guides.dss.gov.au/social-security-guide/4/2/1
+4.2.1.10 Pensions income test | https://guides.dss.gov.au/social-security-guide/4/2/1/10
+4.2.1.20 Additional Free Area for Dependent Children | https://guides.dss.gov.au/social-security-guide/4/2/1/20
+4.2.2 Benefits income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.3 Pensions & benefits assets tests | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.4 PP means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4
+4.2.5 CP income & assets tests | https://guides.dss.gov.au/social-security-guide/4/2/5
+4.2.6 SpB income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/6
+4.2.7 DRA income test | https://guides.dss.gov.au/social-security-guide/4/2/7
+4.2.8 YA means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/8
+4.2.9 CA Income Test | https://guides.dss.gov.au/social-security-guide/4/2/9
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F2%2F1%2F10
+1.1.O.30 | https://guides.dss.gov.au/social-security-guide/1/1/o/30
+1.1.C.240 | https://guides.dss.gov.au/social-security-guide/1/1/c/240
+4.2.3 | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.1.20 | https://guides.dss.gov.au/social-security-guide/4/2/1/20
+Age | https://guides.dss.gov.au/social-security-guide/acronyms#age
+DSP | https://guides.dss.gov.au/social-security-guide/acronyms#dsp
+4.3 | https://guides.dss.gov.au/social-security-guide/4/3
+5.5.1 | https://guides.dss.gov.au/social-security-guide/5/5/1
+3.1.15 | https://guides.dss.gov.au/social-security-guide/3/1/15
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+5.1.8.40 | https://guides.dss.gov.au/social-security-guide/5/1/8/40
+4.2.1.20 | https://guides.dss.gov.au/social-security-guide/5/1/8/40
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+3.1.9.10 | https://guides.dss.gov.au/social-security-guide/3/1/9/10
+4.13 | https://guides.dss.gov.au/social-security-guide/4/13
+6.4 | https://guides.dss.gov.au/social-security-guide/6/4
+Contact us | https://guides.dss.gov.au/contact-us

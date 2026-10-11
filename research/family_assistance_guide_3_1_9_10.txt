@@ -1,0 +1,149 @@
+https://guides.dss.gov.au/family-assistance-guide/3/1/9/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.1.9.10 Calculating FTB Part B
+Summary
+
+This topic covers the following in relation to calculating FTB Part B:
+
+calculating the FTB Part B rate
+effect on standard rate of FTB Part B because of PLP
+effect on standard rate of FTB Part B because of age of youngest child
+effect of being a single parent or member of a couple
+effect on the standard rate where care is shared, and
+effect on entitlement to FTB Part B where the youngest child is 16 years or over.
+
+For information on how FTB Part A and FTB Part B are exempt from the income test for ATI (1.1.A.20) for periods during the relevant income year (1.1.R.23) when the individual and/or their partner receive income support payments refer to 6.4.2.20.
+
+Calculating the FTB Part B rate
+
+The rate of FTB Part B is affected by:
+
+the age of the youngest child
+whether the individual is a single parent or a member of a couple
+whether the individual is a grandparent or great-grandparent
+the level of income
+shared care, and
+parental leave pay.
+Effect on standard rate of FTB Part B because of PLP
+
+The standard rate (1.1.S.103) of FTB Part B will be a nil rate on a day for which PLP is payable to the individual or their partner.
+
+Act reference: FAAct Schedule 1 clause 28C Paid parental leave
+
+Effect on standard rate of FTB Part B because of age of youngest child
+
+The standard rate of FTB Part B depends on the age of the youngest child. A higher rate is payable if the youngest child is under 5 years of age in recognition of the additional assistance required for families with children below school age. This also recognises the indirect cost of reduced workforce participation, due to the extra caring requirements of a very young child.
+
+Effect of being a single parent or a member of a couple
+
+The method chosen to calculate the rate of FTB Part B depends on whether the individual is a single parent (Method 1) or a member of a couple (Method 2).
+
+Method 1 - individual is a single parent
+
+Method 1 is used when the individual is a single parent with ATI at or below the income limit. In this case, an eligible individual receives the standard rate of FTB Part B based on the age of the youngest FTB child.
+
+Method 2 - individual is a member of a couple
+
+Method 2 is used when the individual is a member of a couple (1.1.M.50) and the primary earner has ATI at or below the income limit. In this case, the primary income earner (1.1.P.122) is subject to an initial income test. In the case where the ATI of the primary earner is below the income limit, a secondary earner (1.1.S.25) income test will be applied. Under Method 2, the standard rate of FTB Part B applicable to the eligible individual based on the age of the youngest FTB child is reduced by 20c for each dollar of the secondary income earner's ATI over the income free area (1.1.I.40).
+
+Special arrangements may apply to eligible lower income earners returning to work for the first time after the birth of a child, or if an eligible child entered their care.
+
+An individual is not eligible for FTB Part B if they are a member of a couple and their youngest child is aged 13 years or over unless the individual is the grandparent or great-grandparent (1.1.G.15).
+
+Act reference: FAAct Schedule 1 clause 28D Member of a couple whose youngest FTB child has turned 13, Schedule 1 clause 29 General method of calculating Part B rate, Schedule 1 clause 30 Standard rate
+
+Policy reference: FA Guide 3.1.9.30 FTB Part B return to work, 3.1.1.20 Current FTB rates & income test amounts
+
+Effect on the standard rate where care is shared
+
+If the individual is sharing the care of a child and a shared care percentage is determined under FAAct subsection 59(1) in respect of that child, the individual's standard rate is worked out as follows.
+
+If the shared care child is the individual's only child, then the standard rate is the shared care percentage of the standard rate based on the age of this child.
+If the individual has more than one FTB child, the standard rate is the higher of the following amounts
+the highest amount obtained when the shared care percentage of the standard rate is calculated for each shared care child as though he or she was the only FTB child of the individual, or
+the standard rate for the youngest child who is not a shared care child, worked out as though he or she was the only FTB child of the individual.
+Effect on entitlement to FTB Part B where the youngest child is 16 years or over
+
+An FTB child who has turned 16 is disregarded in calculating entitlement to FTB Part B unless:
+
+they are a senior secondary school child (1.1.S.27)*, and
+the calendar year in which the child turns 18 has not ended.
+
+*Note: Prior to 1 January 2012 a child would not be disregarded in calculating FTB Part B if the child was aged 16 to 18 and was in full-time secondary or tertiary study, up to the end of the calendar year they turned 18.
+
+If the disregarded child is the individual's only FTB child, then the individual's standard rate of FTB Part B is nil.
+
+Act reference: FAAct Schedule 1 clause 29 General method of calculating Part B rate, Schedule 1 clause 30 Standard rate, Schedule 1 clause 31 Sharing FTB (shared care percentages)
+
+Last reviewed: 5 February 2024
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/1/9/10#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/1/9/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.1.1 Rate provisions for FTB | https://guides.dss.gov.au/family-assistance-guide/3/1/1
+3.1.2 FTB rate for ACOs | https://guides.dss.gov.au/family-assistance-guide/3/1/2
+3.1.3 Apportioning income test reductions between FTB Part A components | https://guides.dss.gov.au/family-assistance-guide/3/1/3
+3.1.4 FTB Part A rate calculation - Method 1 | https://guides.dss.gov.au/family-assistance-guide/3/1/4
+3.1.5 Maintenance action test for FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/5
+3.1.6 Child support assessments & agreements | https://guides.dss.gov.au/family-assistance-guide/3/1/6
+3.1.7 Maintenance income test | https://guides.dss.gov.au/family-assistance-guide/3/1/7
+3.1.8 FTB Part A rate calculation - Method 2 | https://guides.dss.gov.au/family-assistance-guide/3/1/8
+3.1.9 FTB Part B rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1/9
+3.1.9.10 Calculating FTB Part B | https://guides.dss.gov.au/family-assistance-guide/3/1/9/10
+3.1.9.20 Income test - FTB Part B | https://guides.dss.gov.au/family-assistance-guide/3/1/9/20
+3.1.9.30 FTB Part B return to work | https://guides.dss.gov.au/family-assistance-guide/3/1/9/30
+3.1.10 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/1/10
+3.1.11 Advance payment of FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/11
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F1%2F9%2F10
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+PLP | https://guides.dss.gov.au/family-assistance-guide/acronyms#plp
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+1.1.A.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/20
+1.1.R.23 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/23
+6.4.2.20 | https://guides.dss.gov.au/family-assistance-guide/6/4/2/20
+1.1.S.103 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/103
+1.1.M.50 | https://guides.dss.gov.au/family-assistance-guide/1/1/m/50
+1.1.P.122 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/122
+1.1.S.25 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/25
+1.1.I.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/40
+1.1.G.15 | https://guides.dss.gov.au/family-assistance-guide/1/1/g/15
+3.1.9.30 | https://guides.dss.gov.au/family-assistance-guide/3/1/9/30
+3.1.1.20 | https://guides.dss.gov.au/family-assistance-guide/3/1/1/20
+1.1.S.27 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/27
+Contact us | https://guides.dss.gov.au/contact-us

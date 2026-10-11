@@ -1,0 +1,190 @@
+https://guides.dss.gov.au/social-security-guide/4/4/1/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.4.1.10 Overview of deeming
+Summary
+
+This topic provides brief information on the following:
+
+background to deeming
+introduction to deeming
+advantages of deeming
+deeming rates and thresholds, and
+Ministerial exemptions.
+Background to deeming
+
+The deeming rules are a central part of the social security income test. They are used to assess income from financial investments for social security and Veterans' Affairs pension/allowance purposes. Deeming assumes that financial investments are earning a certain rate of income, regardless of the amount of income they are actually earning. If income support recipients earn more than these rates, the extra income is not assessed.
+
+The deeming rates reflect the returns available in the market to pensioners for a range of financial investments. By treating all financial investments in the same way, the deeming rules encourage people to choose investments on their merit rather than on the effect the investment income may have on the person's pension entitlement.
+
+To calculate the income assessed, deeming rates are applied to the total market value of an income support recipient's financial investments. The actual returns from the income support recipient's investments, whether in the form of capital growth, dividends or interest, are not used for income assessment, even if the investment returns are above the deeming rates.
+
+Introduction to deeming
+
+Bank deeming was introduced in 1991 to encourage income support recipients to maximise their total disposable income by investing to gain returns of at least the deeming rate. While successful, bank deeming did not address the problem of capital growth investments.
+
+To counter the preferential treatment of capital growth investments the rate of return (ROR) rules were introduced in 1992. These rules assessed unrealised capital growth as income on an on-going basis, based on the performance of the investment over the preceding 12 months. The ROR rules, however:
+
+were complex
+caused income support recipients' payments to fluctuate in line with their investment performance, and
+provided little incentive for income support recipients to earn more from investments.
+
+On 1 July 1996 the deeming legislation was extended to include the following financial investments:
+
+bank, building society and credit union accounts and term deposits
+managed investments, loans and debentures, and
+listed shares and securities.
+
+Since 1 January 2015, the deeming provisions have applied to account-based income streams held by income support recipients aligning their treatment with the deeming provisions that apply to other financial investments. This includes account-based pensions and account-based annuities.
+
+Account-based income streams held by income support recipients immediately before 1 January 2015 may be grandfathered and continue to be assessed under return of capital rules applying prior to 1 January 2015 - see 4.9.3.30.
+
+Advantages of deeming
+
+Before deeming, 2 areas of concern were:
+
+many income support recipients maximised their income support payment, instead of their total disposable income, by investing in low interest accounts, and
+under the income test, capital growth investments were assessed much more leniently than those paying interest.
+
+Deeming is a simple and fair way to assess income from financial assets, as:
+
+the same deeming rules are used for all financial assets as defined in the SSAct, therefore, people with the same level of financial assets receive a similar assessment, no matter how those assets are invested
+it has increased predictability and has reduced the extent to which income support payments fluctuate
+it increases incentives for income support recipients to maximise total income, because returns above the deeming rate are not counted as income
+it simplifies choice of investments as it encourages income support recipients to choose investments on their merits
+it has removed the 3 legislative savings provisions for investments, which applied assessment rules depending on when the investment was purchased
+Shares, purchased before 19 August 1992
+Loans, entered into before 22 August 1990, and
+Managed investments, friendly society bonds purchased before 1 January 1988, and market-linked investments purchased before 9 September 1988.
+Deeming rates & thresholds
+
+The following table shows the historical deeming rates and applicable thresholds operating since 1 July 1996.
+
+Date	Below threshold rate (BTR)	Above threshold rate (ATR)	Threshold amounts
+Single pensioner or allowee	Pensioner couple (one or both members of the couple are receiving a pension)	Member of non-pensioner couple (allowee whose partner is also an allowee or is not receiving income support)
+01/07/1996	5%	7%	$30,000	$50,000	$25,000
+23/01/1997	4%	6%	$30,000	$50,000	$25,000
+01/07/1997	4%	6%	$30,400	$50,600	$25,300
+20/09/1997	3%	5%	$30,400	$50,600	$25,300
+01/07/1998	3%	5%	$30,400	$50,600	$25,300
+20/03/1999	3%	4.5%	$30,400	$50,600	$25,300
+01/07/1999	3%	4.5%	$30,800	$51,200	$25,600
+20/03/2000	3.5%	5.5%	$30,800	$51,200	$25,600
+01/07/2000	3.5%	5.5%	$31,600	$52,600	$26,300
+01/07/2001	3%	4.5%	$33,400	$55,800	$27,900
+20/03/2002	2.5%	4%	$33,400	$55,800	$27,900
+01/07/2002	2.5%	4%	$34,400	$57,400	$28,700
+01/07/2003	2.5%	4%	$35,600	$59,400	$29,700
+20/03/2004	3%	5%	$35,600	$59,400	$29,700
+01/07/2004	3%	5%	$36,400	$60,600	$30,300
+01/07/2005	3%	5%	$37,200	$62,000	$31,000
+01/07/2006	3%	5%	$38,400	$63,800	$31,900
+20/03/2007	3.5%	5.5%	$38,400	$63,800	$31,900
+01/07/2007	3.5%	5.5%	$39,400	$65,400	$32,700
+20/03/2008	4%	6%	$39,400	$65,400	$32,700
+01/07/2008	4%	6%	$41,000	$68,200	$34,100
+17/11/2008	3%	5%	$41,000	$68,200	$34,100
+26/01/2009	3%	4%	$41,000	$68,200	$34,100
+20/03/2009	2%	3%	$41,000	$68,200	$34,100
+01/07/2009	2%	3%	$42,000	$70,000	$35,000
+20/03/2010	3%	4.5%	$42,000	$70,000	$35,000
+01/07/2010	3%	4.5%	$43,200	$72,000	$36,000
+01/07/2011	3%	4.5%	$44,600	$74,400	$37,200
+01/07/2012	3%	4.5%	$45,400	$75,600	$37,800
+20/03/2013	2.5%	4%	$45,400	$75,600	$37,800
+01/07/2013	2.5%	4%	$46,600	$77,400	$38,700
+04/11/2013	2%	3.5%	$46,600	$77,400	$38,700
+01/07/2014	2%	3.5%	$48,000	$79,600	$39,800
+20/03/2015	1.75%	3.25%	$48,000	$79,600	$39,800
+01/07/2015	1.75%	3.25%	$48,600	$80,600	$40,300
+01/07/2016	1.75%	3.25%	$49,200	$81,600	$40,800
+01/07/2017	1.75%	3.25%	$50,200	$83,400	$41,700
+01/07/2018	1.75%	3.25%	$51,200	$85,000	$42,500
+01/07/2019
+(Note)	1.00%	3.00%	$51,800	$86,200	$43,100
+01/05/2020	0.25%	2.25%	$51,800	$86,200	$43,100
+01/07/2020	0.25%	2.25%	$53,000	$88,000	$44,000
+01/07/2021	0.25%	2.25%	$53,600	$89,000	$44,500
+01/07/2022	0.25%	2.25%	$56,400	$93,600	$46,800
+01/07/2023	0.25%	2.25%	$60,400	$100,200	$50,100
+01/07/2024	0.25%	2.25%	$62,600	$103,800	$51,900
+01/07/2025	0.25%	2.25%	$64,200	$106,200	$53,100
+20/09/2025	0.75%	2.75%	$64,200	$106,200	$53,100
+20/03/2026	1.25%	3.25%	$64,200	$106,200	$53,100
+01/07/2026	1.25%	3.25%	$66,800	$110,600	$55,300
+20/09/2026	1.75%	3.75%	$66,800	$110,600	$55,300
+
+Note: The instrument to make this change to the deeming rates was signed on 13 July 2019, with a commencement date of 1 July 2019. This change was retrospectively applied from 1 July 2019.
+
+Act reference: SSAct section 1082 Below threshold rate, above threshold rate
+
+Ministerial exemptions
+
+Under SSAct section 1084, the Minister for Social Services has the power to exempt specified financial investments or a specified class of financial investment from the deeming rules.
+
+Exemptions from deeming are granted only in special circumstances. Examples include where a financial investment has failed fundamentally or, for some superannuation investments, where the funds are fully preserved and/or inaccessible.
+
+Exemptions are not granted because of poor investment performance, such as shares producing negative returns, or companies or funds in short-term difficulties.
+
+Deeming exemptions do not alter the assessable asset value of an investment.
+
+Act reference: SSAct section 1084 Certain money and financial investments not taken into account
+
+Policy reference: SS Guide 4.4.1.40 Exemption of financial investments from deeming
+
+Last reviewed: 21 September 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/4/1/10#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/4/1/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.4.1 General Provisions for Deeming | https://guides.dss.gov.au/social-security-guide/4/4/1
+4.4.1.10 Overview of deeming | https://guides.dss.gov.au/social-security-guide/4/4/1/10
+4.4.1.20 Operation of deeming | https://guides.dss.gov.au/social-security-guide/4/4/1/20
+4.4.1.30 Scope of deeming | https://guides.dss.gov.au/social-security-guide/4/4/1/30
+4.4.1.40 Exemption of financial investments from deeming | https://guides.dss.gov.au/social-security-guide/4/4/1/40
+4.4.2 Deeming of Financial Investments | https://guides.dss.gov.au/social-security-guide/4/4/2
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F4%2F1%2F10
+4.9.3.30 | https://guides.dss.gov.au/social-security-guide/4/9/3/30
+4.4.1.40 | https://guides.dss.gov.au/social-security-guide/4/4/1/40
+Contact us | https://guides.dss.gov.au/contact-us

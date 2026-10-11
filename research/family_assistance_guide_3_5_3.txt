@@ -1,0 +1,121 @@
+https://guides.dss.gov.au/family-assistance-guide/3/5/3
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.5.3 CCS - hourly rate caps
+Summary
+
+The type of approved child care service (1.1.A.90) a family chooses to use is one of the factors that will determine a claimant's level of CCS.
+
+This section includes:
+
+hourly rate caps
+child attending school
+examples.
+Hourly rate caps
+
+The applicable percentage (1.1.A.70) of CCS families receive during the financial year is based on their estimated combined annual ATI (1.1.A.20). A family's applicable percentage is used in combination with the child care fees charged to calculate the amount of subsidy per hour each family is entitled to receive for their child's attendance at a session of care (1.1.S.40). This will be the applicable percentage of the actual fee charged, or of the relevant hourly rate cap (1.1.H.20) (whichever is lower).
+
+Where a child care service charges a fee that is less than the hourly rate cap, families will receive their applicable percentage of the actual fee charged. Where a service charges a fee that is equal to or above the relevant rate cap, families will receive their applicable percentage of the hourly rate cap.
+
+The hourly rate cap that applies to children attending CBDC and OSHC is determined by whether the child attends school.
+
+The FDC hourly rate cap will apply to all children attending a family day care service, regardless of whether the child is school aged or not.
+
+The hourly rate caps are:
+
+Service type	Hourly rate cap (children below school age)	Hourly rate cap (school aged children)
+CBDC	$15.19	$13.30
+OSHC	$15.19	$13.30
+FDC	$14.08
+IHC (per family)	$41.31
+
+Note: The hourly rate caps will be increased by the CPI at the commencement of each financial year. The figures in this topic relate to the 2026–27 financial year (to take effect on Monday 6 July 2026 for CCS and ACCS purposes).
+
+Child attending school
+
+For the purpose of the hourly rate caps, a child is taken to attend school from the first day of scheduled physical attendance, and where any of the following apply:
+
+the child has turned 6
+the child attends the year of school before grade 1
+the child attends primary or secondary school
+the child is home schooled as recognised in the state or territory where the child resides
+the child would be attending school (the year of school before grade 1, primary school or secondary school), except that the child is absent from school, or is on holidays.
+
+Information about the child's school status will be declared by individuals at the time of making a claim (1.1.C.27). If circumstances change, for example, a child starts attending primary school, individuals are required to advise Centrelink of the change.
+
+Examples
+
+Example: The Huang family is charged $100.00 per session for sessions of 10 hours duration for their 3 year old daughter's attendance at a CBDC service - that is, $10.00 per hour. As this is less than the hourly rate cap of $15.19 for a child below school age attending a CBDC service, their subsidy will be determined as a percentage of the actual fee charged - $10.00 per hour.
+
+Example: The Mahunta family is charged $154.00 per session for sessions of 10 hours duration for their 1 year old son's attendance at a CBDC service - that is, $15.40 per hour. Because this is more than the hourly rate cap of $15.19 for a child below school age attending a CBDC service, the family's subsidy will be determined as a percentage of the rate cap of $15.19. The difference will be a gap fee the family has to pay.
+
+Act reference: FAAct Schedule 2 Amounts of CCS and ACCS
+
+FA(Admin)Act section 67FB Notice of change of circumstances: individuals
+
+CCSMinRules section 16 Determining hourly rate cap that applies for session of care
+
+Policy reference: FA Guide 3.5 CCS entitlement, 5.2.1.30 Change of rate circumstances
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/5/3#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/5/3#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 CCS - combined annual ATI | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.2 CCS - recognised participation | https://guides.dss.gov.au/family-assistance-guide/3/5/2
+3.5.3 CCS - hourly rate caps | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+3.5.4 Calculating CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5/4
+3.5.5 CCS & ACCS - exceptional circumstances | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F5%2F3
+1.1.A.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/90
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+1.1.A.70 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/70
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+1.1.A.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/20
+1.1.S.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/40
+1.1.H.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/h/20
+CBDC | https://guides.dss.gov.au/family-assistance-guide/acronyms#cbdc
+OSHC | https://guides.dss.gov.au/family-assistance-guide/acronyms#oshc
+FDC | https://guides.dss.gov.au/family-assistance-guide/acronyms#fdc
+IHC | https://guides.dss.gov.au/family-assistance-guide/acronyms#ihc
+CPI | https://guides.dss.gov.au/family-assistance-guide/acronyms#cpi
+1.1.C.27 | https://guides.dss.gov.au/family-assistance-guide/1/1/c/27
+3.5 | https://guides.dss.gov.au/family-assistance-guide/3/5
+5.2.1.30 | https://guides.dss.gov.au/family-assistance-guide/5/2/1/30
+Contact us | https://guides.dss.gov.au/contact-us

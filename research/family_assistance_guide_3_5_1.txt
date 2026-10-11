@@ -1,0 +1,140 @@
+https://guides.dss.gov.au/family-assistance-guide/3/5/1
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.5.1 CCS - combined annual ATI
+Summary
+
+Combined annual ATI (1.1.A.20) is one of the factors that will determine a claimant's level of CCS.
+
+This section includes:
+
+determining an individual's CCS percentage
+entitlement to the higher CCS
+providing an annual income estimate
+change in annual income estimate.
+
+An individual's actual CCS entitlement (1.1.E.30) for a financial year will be worked out at reconciliation (1.1.R.10), usually after the individual (1.1.I.90) has completed their tax return and their (and their partner's (1.1.P.30) if they have one) actual ATI is known. As an individual's actual ATI is not known during the year, determinations of CCS entitlement are calculated according to the individual's estimate of what their combined ATI will be for the financial year.
+
+Any difference between the amount of CCS an individual was paid during the year based on their estimated ATI and their actual CCS entitlement based on their actual ATI will be corrected at reconciliation (6.4). Generally, a debt will be raised if they were overpaid, and a lump sum payment made if they were paid less than they were actually entitled to.
+
+Determining an individual's CCS percentage
+
+The CCS percentage is used to determine an individual's CCS entitlement for a child's attendance at sessions of care (1.1.S.40) at an approved child care service (1.1.A.90).
+
+Entitlement to standard CCS
+
+This table shows the percentage of child care fees the government will contribute based on an individual's combined annual ATI:
+
+Combined family income	Subsidy per cent of the actual fee charged (up to relevant percentage of the hourly rate cap)
+Up to $88,520	90%
+More than $88,520 to below $538,520	Decreasing from 90% to 0% by 1% for each $5,000 of family income
+$538,520 or more	0%
+
+*The lower income threshold ($88,520) will be indexed by CPI at the commencement of each financial year and the other thresholds will be increased accordingly. The figures in this table relate to the 2026–27 income year.
+
+Families with incomes of $538,520 or more have an applicable CCS percentage of 0% - that is, they are not entitled to CCS.
+
+Entitlement to the higher CCS
+
+Families with multiple children who are CCS-eligible may receive a higher CCS rate for their second and younger children.
+
+Eligible families may receive a higher subsidy, on top of their income tested CCS rate, for their second and younger children aged 5 or under. This applies up to a maximum subsidy rate of 95%. Families will continue to receive their income tested CCS rate for all other children.
+
+Combined family income	Subsidy per cent of the actual fee charged (up to relevant percentage of the hourly rate cap)
+Up to $146,437	95%
+More than $146,437 to below $191,437	Decreasing to 80% by 1% for each $3,000 of family income
+$191,437 to below $270,727	80%
+$270,727 to below $360,727	Decreasing to 50% by 1% for each $3,000 of family income
+$360,727 to below $370,727	50%
+$370,727 or more	Higher CCS rates no longer apply, all children in the family will receive the standard CCS rate
+
+If CCS eligibility for one or more children stops, entitlement to higher CCS for other children aged 5 or under may be reassessed.
+
+Children who are entitled to both the higher CCS rate and ACCS will be paid the ACCS rate.
+
+Sessions of IHC do not attract the higher subsidy for younger children. This is because IHC is subsidised on a family rather than per child basis (2.6.6.20).
+
+However, children aged 5 or under in IHC are included in the family unit when determining access to the higher CCS rate.
+
+The income thresholds for both standard CCS and higher CCS rates will be indexed by CPI at the commencement of each financial year and the other thresholds will be increased accordingly. The figures in this table relate to the 2026–27 income year.
+
+Providing an annual income estimate
+
+All individuals are required to provide a 'reasonable' ATI estimate when claiming CCS, irrespective of whether they receive an income support payment (1.1.I.50). Where an individual is a member of a couple (1.1.M.50), the individual will need to provide an estimate of both their and their partner's ATI for that year.
+
+Individuals will also be required to provide a reasonable ATI estimate for each new financial year.
+
+Policy reference: FA Guide 4.9.1 Overview of new financial year assessments, 4.9.3 Outcomes of new financial year assessments, 6.4 Reconciliation
+
+Change in annual income estimate
+
+When a family experiences a change in circumstances that affects their eligibility and/or entitlement they are required to notify Centrelink of this new information as soon as possible. This means individuals are required to give a new income estimate when a change in circumstances (such as starting a new job) means the current ATI estimate is no longer accurate.
+
+When an individual provides a new ATI estimate, it will be applied from the beginning of the next CCS fortnight (1.1.C.10). If an individual's income changes (for example, they start a new higher paying job), they should update their ATI estimate as soon as possible to ensure future payments are based on current information and reduce the risk of debt at reconciliation.
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/5/1#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/5/1#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 CCS - combined annual ATI | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.2 CCS - recognised participation | https://guides.dss.gov.au/family-assistance-guide/3/5/2
+3.5.3 CCS - hourly rate caps | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+3.5.4 Calculating CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5/4
+3.5.5 CCS & ACCS - exceptional circumstances | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F5%2F1
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+1.1.A.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/20
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+1.1.E.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/e/30
+1.1.R.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/10
+1.1.I.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/90
+1.1.P.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/30
+6.4 | https://guides.dss.gov.au/family-assistance-guide/6/4
+1.1.S.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/40
+1.1.A.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/90
+CPI | https://guides.dss.gov.au/family-assistance-guide/acronyms#cpi
+ACCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#accs
+IHC | https://guides.dss.gov.au/family-assistance-guide/acronyms#ihc
+2.6.6.20 | https://guides.dss.gov.au/family-assistance-guide/2/6/6/20
+1.1.I.50 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/50
+1.1.M.50 | https://guides.dss.gov.au/family-assistance-guide/1/1/m/50
+4.9.1 | https://guides.dss.gov.au/family-assistance-guide/4/9/1
+4.9.3 | https://guides.dss.gov.au/family-assistance-guide/4/9/3
+1.1.C.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/c/10
+Contact us | https://guides.dss.gov.au/contact-us

@@ -1,0 +1,454 @@
+https://guides.dss.gov.au/family-assistance-guide/3/6/1
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.6.1 FTB Part A - historical rates
+Summary
+
+This topic contains historical rates for the following:
+
+Table number	Explanation
+1	Maximum standard rate of FTB Part A
+2	Base rates of FTB Part A
+3	FTB Part A supplement
+4	ES Part A
+5	Rates of large family supplement (LFS), MBA, NBS and NBU
+6	FTB child income threshold
+7	Maintenance income free area
+
+All rates shown are fortnightly unless indicated otherwise.
+
+Note: Some of the rates listed may have changed or ceased.
+
+Table 1: Maximum standard rate of FTB Part A
+
+The maximum rate of FTB Part A is payable where family income is equal to or less than the income free area for the relevant income year. FTB Part A reduces by 20c for each dollar of family income above the lower income free area until the base rate of FTB Part A is reached.
+
+Note: The Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act 2018 implemented a consistent 30c in the dollar income test taper for FTB Part A with family income in excess of the higher income free area from 1 July 2019.
+
+The FTB Part A supplement is a component of the annual maximum FTB Part A rate and is paid after reconciliation. The supplement is not paid by instalment and is therefore not included in the fortnightly rates.
+
+Payable from	Children aged	Lower income free area
+($ p.a.)
+Under 13 years
+($ pf)	13 to 15 years
+($ pf)	16 to 17 years
+($ pf)	18 to 24 years
+($ pf)
+01/07/2000	116.20	147.28	37.38	50.12	28,200
+01/07/2001	122.92	155.82	39.48	53.06	29,857
+01/07/2002	126.70	160.72	40.74	54.74	30,806
+01/07/2003	130.48	165.48	42.00	56.42	31,755
+01/07/2004	133.56	169.40	42.98	57.82	32,485
+01/07/2005	137.06	173.74	44.10	59.36	33,361
+01/07/2006	140.84	179.76	45.36	61.04	40,000
+01/07/2007	145.46	189.00	46.90	63.00	41,318
+01/07/2008	151.34	196.84	48.30	64.96	42,559
+01/07/2009	156.94	204.12	50.12	67.34	44,165
+01/07/2010	160.30	208.46	51.24	68.74	45,114
+01/07/2011	164.64	214.06	52.64	70.56	46,355
+Payable from	Children aged	Lower income free area
+($ p.a.)
+Under 13 years
+($ pf)	13 to 15 years
+($ pf)	16 to 17 years (not a senior secondary school child) (Note 1D)
+($ pf)	16 to 19 years (senior secondary school child)
+($ pf)	18 to 21 years (not a senior secondary school child) (Note 1A & 1C)
+($ pf)
+01/01/2012
+(Note 1B)	164.64	214.06	52.64	214.06	70.56	46,355
+01/07/2012	169.68	220.64	54.32	220.64	72.80	47,815
+01/07/2013	172.20	224.00	55.16	224.00	Note 1C	48,837
+Payable from	Children aged	Lower income free area
+($ p.a.)
+Under 13 years
+($ pf)	13 to 15 years
+($ pf)	16 to 19 years (senior secondary school child)
+($ pf)
+01/05/2014	172.20	224.00	224.00	48,837
+01/07/2014	176.82	230.02	230.02	50,151
+01/07/2015	179.76	233.94	233.94	51,027
+01/07/2016	182.84 (Note 1E)	237.86 (Note 1E)	237.86 (Note 1E)	51,903
+01/07/2017	182.84	237.86	237.86	52,706
+01/07/2018	182.84	237.86	237.86	53,728
+01/07/2019	186.20	242.20	242.20	54,677
+01/07/2020	189.56	246.54	246.54	55,626
+01/07/2021	191.24	248.78	248.78	56,137
+01/07/2022	197.96	257.46	257.46	58,108
+01/07/2023	213.36	277.48	277.48	62,634
+01/07/2024	222.04	288.82	288.82	65,189
+01/07/2025	227.36	295.82	295.82	66,722
+01/07/2026	235.48	306.46	306.46	69,131
+Notes for Table 1
+Note	Explanation
+1A	In some cases this rate may still be payable on or after 1 January 2012 for eligible FTB children older than 21 (2.1.1.10).
+1B	From 1 January 2012 the maximum standard rate for FTB children aged 16 to 19 who are senior secondary school children (1.1.S.27) was increased to the same maximum standard rate as for 13 to 15 year old FTB children.
+1C	From 1 January 2013 to 1 May 2014 eligibility for FTB was limited to children up to 15 years, 16 to 19 years and in full-time secondary study, or 16 to 17 years where they have completed their year 12 or equivalent qualification.
+1D	From 1 May 2014 eligibility for FTB was limited to children up to 15 years and 16 to 19 years and in full-time study.
+1E	The Social Services Legislation Amendment Act 2017 paused the FTB Part A and FTB Part B rates until 30 June 2019.
+Table 2: Base rate of FTB Part A
+
+The base rate of FTB Part A is payable until family income reaches the higher income free area. The payment reduces by 30c for each dollar above the higher income free area until it reaches nil.
+
+Payable from	Children aged	Higher income free area (HIFA)
+($ p.a.)	Add to HIFA for each FTB child after the first
+($ p.a.)	Approved care organisation
+(Note 2A)
+($ pf)
+Under 18 years
+($ pf)	18 to 24 years
+($ pf)
+01/07/2000	37.38	50.12	73,000	3,000	37.38
+01/07/2001	39.48	53.06	77,234	3,139	39.48
+01/07/2002	40.74	54.74	79,643	3,212	40.74
+01/07/2003	42.00	56.42	82,052	3,285	42.00
+01/07/2004	42.98	57.82	84,023	3,358	42.98
+01/07/2005	44.10	59.36	86,213	3,431	44.10
+01/07/2006	45.36	61.04	88,622	3,504	45.36
+01/07/2007	46.90	63.00	91,542	3,650	46.90
+01/07/2008	48.30	64.96	94,316	3,796	48.30
+01/07/2009	50.12	67.34	94,316 (Note 2B)	3,796	50.12
+01/07/2010	51.24	68.74	94,316	3,796	51.24
+01/07/2011	52.64	70.56	94,316 (Note 2C)	3,796	52.64
+Payable from	Children aged	Higher income free area (HIFA)
+($ p.a.)	Add to HIFA for each FTB child after the first
+($ p.a.)	Approved care organisation
+(Note 2A)
+($ pf)
+Under 18 years
+($ pf)	18 to 19 years (senior secondary school)
+($ pf)	18 to 21 years (not a senior secondary school)
+(Note 1C and 2D)
+($ pf)
+01/01/2012
+(Note 2E)	52.64	52.64	70.56	94,316	3,796	52.64
+01/07/2012	54.32	54.32	72.80	94,316	3,796	54.32
+Payable from	Children aged	Higher income free area (HIFA)
+($ p.a.)	Add to HIFA for each FTB child after the first
+($ p.a.)	Approved care organisation
+(Note 2A)
+($ pf)
+Under 18 years
+($ pf)	18 to 19 years (senior secondary school)
+($ pf)
+01/07/2013	55.16	55.16	94,316 (Note 2F)	3,796	55.16
+01/07/2014	56.70	56.70	94,316	3,796	56.70
+01/07/2015	57.68	57.68	94,316	Note 2G	57.68
+01/07/2016 to 30/06/2019	58.66 (Note 2I)	58.66 (Note 2I)	94,316 (Note 2H)	n/a	58.66 (Note 2I)
+01/07/2019	59.78	59.78	98,988 (Note 2J)	n/a	59.78
+01/07/2020	60.90	60.90	98,988 (Note 2J)	n/a	60.90
+01/07/2021	61.46	61.46	99,864	n/a	61.46
+01/07/2022	63.56	63.56	103,368	n/a	63.56
+01/07/2023	68.46	68.46	111,398	n/a	68.46
+01/07/2024	71.26	71.26	115,997	n/a	71.26
+01/07/2025	72.94	72.94	118,771	n/a	72.94
+01/07/2026	75.60	75.60	123,078	n/a	75.60
+Notes for Table 2
+Note	Explanation
+2A	The rate of FTB Part A for a child in an ACO is not affected by the age of the child and is not income tested.
+2B	In the 2009-10 Budget, the Government announced that the FTB Part A higher income free area of $94,316 (plus $3,796 for each child after the first) will be maintained at the same level until 30 June 2012.
+2C	The pause in indexation of the FTB Part A higher income free area was extended in the 2011-12 Budget by a further 2 years until 30 June 2014.
+2D	In some cases this rate may still be payable on or after 1 January 2012 for eligible FTB children older than 21 (2.1.1.10).
+2E	From 1 January 2012 to 1 May 2014 the base rate payable for FTB children aged 16 to 19 was determined by study status, as well as age. Subject to the child's age, the rate that was payable may have been different depending on whether a child is a senior secondary school child (1.1.S.27).
+2F	The pause in indexation of the FTB Part A higher income free area was extended in the 2013-14 Budget for a further 3 years until 30 June 2017.
+2G	From 1 July 2015 the additional higher income free area for FTB Part A is no longer in use.
+2H	The pause in indexation of the FTB Part A higher income free area was extended in the Budget Savings (Omnibus) Act 2016 for a further 3 years until 30 June 2020.
+2I	The Social Services Legislation Amendment Act paused the FTB Part A and FTB Part B rates until 30 June 2019.
+2J	The Social Services and Other Legislation Amendment (Promoting Sustainable Welfare) Act implemented a one-off increase of to the FTB Part A higher income free area and paused its indexation until 30 June 2021.
+Table 3: Rates of FTB Part A supplement
+
+The FTB Part A supplement is a per child payment introduced for the 2003-04 income year and is payable at the end of an income year after reconciliation has occurred. It is a component of the maximum and base rates of FTB Part A although it cannot be paid fortnightly.
+
+Note: Effective from the 2016-17 income year, an individual's FTB Part A supplement for the relevant income year is nil if the families' combined ATI for that year is more than $80,000.
+
+Payable from	FTB Part A supplement
+(per child)
+($ p.a.)
+01/07/2003	600.00
+01/07/2004	613.20
+01/07/2005	627.80
+01/07/2006	646.05
+01/07/2007	667.95
+01/07/2008	686.20
+01/07/2009	711.75
+01/07/2010	726.35 (Note 3A)
+01/07/2011	726.35
+01/07/2012	726.35
+01/07/2013	726.35 (Note 3B)
+01/07/2014	726.35
+01/07/2015	726.35
+01/07/2016	726.35 (Note 3C)
+01/07/2017	737.30
+01/07/2018	751.90
+01/07/2019	766.50
+01/07/2020	781.10
+01/07/2021	788.40
+01/07/2022	817.60
+01/07/2023	879.65
+01/07/2024	916.15
+01/07/2025	938.05
+01/07/2026	970.90
+
+Act reference: FAAct Schedule 1 clause 7 Standard rate, Schedule 1 clause 8 Base FTB child rate, Schedule 1 clause 38A Rate of FTB Part A supplement
+
+Notes for Table 3
+Note	Explanation
+3A	In the 2011-12 Budget, the Government announced that the FTB Part A supplement rate will be maintained at the same level for 3 years until 30 June 2014.
+3B	In the 2013-14 Budget, the Government announced that the FTB Part A supplement rate will be maintained at the same level for a further 3 years until 30 June 2017.
+3C	The Budget Savings (Omnibus) Act introduced an income limit of $80,000 for the FTB Part A supplement.
+Table 4: Rates of ES Part A
+
+ES Part A is a per child payment introduced for the 2013-14 income year. It is a component of the maximum and base rates of FTB Part A. ES may be paid fortnightly, quarterly or as a lump sum at the end of an income year, after reconciliation has occurred.
+
+Note: From 20 March 2017, ES ceased for new FTB claimants. For individuals who became new recipients of FTB after 20 September 2016, they will no longer be paid ES after 19 March 2017. However, eligible individuals and ACOs may continue to be paid ES as part of their FTB rate under grandfathering rules. See 8.2.
+
+Maximum rates of ES Part A per fortnight
+Date payable from	Children aged
+0 to 12 years
+($ pf)	13 to 15 years
+($ pf)	16 to 17 years (completed yr 12 or equivalent)
+($ pf)	16 to 19 years (full-time secondary student)
+($ pf)
+01/07/2013	3.36	4.34	1.40	4.34
+01/07/2014 to current
+Note 4A	3.50	4.48	Note 1D	4.48
+Base rates of ES Part A per fortnight
+Date payable from	Rate per child
+($ pf)
+01/07/2013	1.40
+01/07/2014 to current
+Note 4A	1.40
+Base rates of ES Part A for ACOs per fortnight
+Date payable from	Rate per child
+($ pf)
+01/07/2013	0.98
+01/07/2014 to current
+Note 4A	0.98
+Notes for Table 4
+Note	Explanation
+4A	Prior to 20 September 2014 the ES was known as the clean energy supplement. From 20 September 2014, ES ceased to be indexed.
+Table 5: Rates of LFS, MBA, NBS & NBU
+Date payable from	LFS
+($)	MBA - triplets
+($)	MBA - quads or more
+($)	NBS - higher rate
+($)	NBS - lower rate
+($)	NBU
+($)
+01/07/2000	7.98	97.16	129.64	-	-	-
+01/07/2001	8.40	102.76	137.20	-	-	-
+01/07/2002	8.68	105.98	141.40	-	-	-
+01/07/2003	8.96	109.20	145.60	-	-	-
+01/07/2004	9.24	111.86	149.10	-	-	-
+01/07/2005	9.52	114.80	153.02	-	-	-
+01/07/2006 (Note 5A)	9.80	118.02	157.36	-	-	-
+01/07/2007	10.08	121.94	162.54	-	-	-
+01/07/2008	10.36	125.58	167.44	-	-	-
+01/07/2009	10.78	130.20	173.60	-	-	-
+01/07/2010	11.06	133.00	177.24	-	-	-
+01/07/2011	11.34	136.64	182.00	-	-	-
+01/07/2012	11.76	140.84	187.60	-	-	-
+01/07/2013	12.04	143.92	191.66	-	-	-
+01/03/2014	12.04	143.92	191.66	231.00 (Note 5B)	77.00 (Note 5B)	500.00 (Note 5C)
+01/07/2014	12.32	147.84	196.84	237.30	79.10	514.00
+01/07/2015	12.46 (Note 5D)	150.36	200.20	241.36	80.50	523.00
+01/07/2016	Note 5E	152.88	203.56	245.42	81.90	532.00
+01/07/2017	-	155.12	206.64	249.06	83.16	540.00
+01/07/2018	-	158.06	210.56	253.82	84.70	550.00
+01/07/2019	-	160.86	214.34	258.44	86.24	560.00
+01/07/2020	-	163.80	218.26	263.06	87.78	570.00
+01/07/2021	-	165.34	220.22	265.44	88.62	575.00
+01/07/2022	-	171.08	227.92	274.68	91.70	595.00
+01/07/2023	-	184.38	245.70	296.10	98.84	641.00
+01/07/2024	-	191.94	255.78	308.28	102.90	667.00
+01/07/2025	-	196.56	261.94	315.70	105.42	683.00
+01/07/2026	-	203.70	271.32	327.04	109.20	708.00
+
+Act reference: FAAct pre-1 July 2016 Schedule 1 clause 35 Rate of large family supplement
+
+Policy reference: FA Guide 3.1.4 FTB Part A rate calculation - Method 1, 3.1.8 FTB Part A rate calculation - Method 2, 1.2.18 Newborn supplement (NBS) - description
+
+Notes for Table 5
+Note	Explanation
+5A	LFS was payable for the 4th and each subsequent FTB child until 1 July 2006 when it was extended to the 3rd and each subsequent FTB child.
+5B	NBS is only payable with FTB Part A for a period of up to 13 weeks (91 days).
+5C	NBU is not part of the FTB Part A rate calculation, NBU is a one-off lump sum payment which is paid in respect of the first day of NBS eligibility.
+5D	LFS was payable for the third and each subsequent FTB child from 1 July 2006 to 30 June 2015. From 1 July 2015 it was restricted to the fourth and each subsequent FTB child.
+5E	LFS ceased to be payable from 1 July 2016.
+Table 6: FTB child income threshold
+Date	FTB children aged
+5 to 15 years
+(not studying full-time)
+($)	16 to 24 years
+(in full-time study)
+($)
+01/07/2000	7,662.00	7,662.00
+01/07/2001	8,078.00	8,078.00
+01/07/2002	8,346.00	8,346.00
+01/07/2003	8,613.00	8,613.00
+01/07/2004	10,948.00	10,948.00
+01/07/2005	11,233.00	11,233.00
+01/07/2006	11,548.00	11,548.00
+01/07/2007	11,929.00	11,929.00
+01/07/2008	12,287.00	12,287.00
+01/07/2009	12,742.00	12,742.00
+01/07/2010	13,010.00	13,010.00
+01/07/2011	13,361.00	13,361.00
+Date	FTB children aged
+5 to 15 years
+(not studying full-time)
+($)	16 to 21 years
+(not a senior secondary school child)
+(Note 6A)
+($)	16 to 20 years
+(exempt from the FTB activity test)
+($)
+01/01/2012
+(Note 6B)	13,361.00	13,361.00	13,361.00
+01/07/2012	13,775.00	13,775.00	13,775.00
+Date	FTB children aged
+5 to 15 years
+(not studying full-time)
+($)	16 to 19 years
+(not a senior secondary school child)
+(Note 1C)
+($)	16 to 19 years
+(exempt from the FTB activity test)
+(Note 1C)
+($)
+01/07/2013	14,078.00	14,078.00	14,078.00
+01/05/2014	Note 6C
+Notes for Table 6
+Note	Explanation
+6A	The child income threshold does apply to FTB children on or after 1 January 2012 who are older than 21 years and for whom FTB is still payable after this date (2.1.1.10).
+6B	From 1 January 2012 the child income threshold does not apply to FTB children who are senior secondary school children (1.1.S.27) aged 16 to 19 years, up to the end of the calendar year in which they turn 19. Where an FTB child aged 16 to 19 years is exempt from the FTB activity test the child income threshold will continue to apply.
+6C	From 1 May 2014 the child income threshold ceased to apply.
+Table 7: Maintenance income free area - per annum
+Date	Single parent, or one of a couple receiving maintenance
+($)	Couple, each receiving maintenance
+($)	For each additional child
+($)
+01/07/2000	1,007.40	2,014.80	335.80
+01/07/2001	1,062.15	2,124.30	354.05
+01/07/2002	1,095.00	2,190.00	365.00
+01/07/2003	1,127.85	2,255.70	375.95
+01/07/2004	1,149.75	2,299.50	383.25
+01/07/2005	1,182.60	2,365.20	394.20
+01/07/2006	1,215.45	2,430.90	405.15
+01/07/2007	1,259.25	2,518.50	419.75
+01/07/2008	1,292.10	2,584.20	430.70
+01/07/2009	1,335.90	2,671.80	445.30
+01/07/2010	1,368.75	2,737.50	456.25
+01/07/2011	1,401.60	2,803.20	467.20
+01/07/2012	1,445.40	2,890.80	481.80
+01/07/2013	1,478.25	2,956.50	492.75
+01/07/2014	1,522.05	3,044.10	507.35
+01/07/2015	1,543.95	3,087.90	514.65
+01/07/2016	1,565.85	3,131.70	521.95
+01/07/2017	1,587.75	3,175.50	529.25
+01/07/2018	1,620.60	3,241.20	540.20
+01/07/2019	1,653.45	3,306.90	551.15
+01/07/2020	1,686.30	3,372.60	562.10
+01/07/2021	1,697.25	3,394.50	565.75
+01/07/2022	1,752.00	3,504.00	584.00
+01/07/2023	1,883.40	3,766.80	627.80
+01/07/2024	1,960.05	3,920.10	653.35
+01/07/2025	2,003.85	4,007.70	667.95
+01/07/2026	2,080.50	4,161.00	693.50
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/6/1#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/6/1#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.6.1 FTB Part A - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/1
+3.6.2 FTB rent assistance - historical rates & thresholds | https://guides.dss.gov.au/family-assistance-guide/3/6/2
+3.6.3 FTB Part B - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/3
+3.6.4 Maternity payments - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/4
+3.6.5 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/6/5
+3.6.6 Foreign exchange rate - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F6%2F1
+1 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table1
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+2 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table2
+3 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table3
+4 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table4
+ES | https://guides.dss.gov.au/family-assistance-guide/acronyms#es
+5 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table5
+MBA | https://guides.dss.gov.au/family-assistance-guide/acronyms#mba
+NBS | https://guides.dss.gov.au/family-assistance-guide/acronyms#nbs
+NBU | https://guides.dss.gov.au/family-assistance-guide/acronyms#nbu
+6 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table6
+7 | https://guides.dss.gov.au/family-assistance-guide/3/6/1#table7
+Note 1D) | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1d
+Note 1A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1a
+1C) | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1c
+Note 1B | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1b
+Note 1C | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1c
+Note 1E | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1e
+2.1.1.10 | https://guides.dss.gov.au/family-assistance-guide/2/1/1/10
+1.1.S.27 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/27
+Note 2A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2a
+Note 2B | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2b
+Note 2C | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2c
+2D | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2d
+Note 2E | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2e
+Note 2F | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2f
+Note 2G | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2g
+Note 2I | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2i
+Note 2H | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2h
+Note 2J | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note2j
+ACO | https://guides.dss.gov.au/family-assistance-guide/acronyms#aco
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+Note 3A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note3a
+Note 3B | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note3b
+Note 3C | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note3c
+8.2 | https://guides.dss.gov.au/family-assistance-guide/8/2
+Note 4A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note4a
+Note 1D | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note1d
+Note 5A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note5a
+Note 5B | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note5b
+Note 5C | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note5c
+Note 5D | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note5d
+Note 5E | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note5e
+3.1.4 | https://guides.dss.gov.au/family-assistance-guide/3/1/4
+3.1.8 | https://guides.dss.gov.au/family-assistance-guide/3/1/8
+1.2.18 | https://guides.dss.gov.au/family-assistance-guide/1/2/18
+Note 6A | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note6a
+Note 6B | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note6b
+Note 6C | https://guides.dss.gov.au/family-assistance-guide/3/6/1#note6c
+Contact us | https://guides.dss.gov.au/contact-us

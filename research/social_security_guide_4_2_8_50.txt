@@ -1,0 +1,206 @@
+https://guides.dss.gov.au/social-security-guide/4/2/8/50
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.2.8.50 Full-time students - personal income test, limits & student income bank
+Summary
+
+This topic covers the following matters:
+
+personal income test and limits for full-time students
+access to the student income bank (1.1.S.370) and higher income free area
+rules of the student income bank
+carryover of student income bank to working credits
+carryover of working credits to student income bank, and
+operation of the student income bank.
+
+Act reference: SSAct section 1067G-H1 Effect of ordinary income on maximum payment rate (YA), section 1067G-J1 Student income bank (YA), section 1067L-D1 Effect of ordinary income on maximum payment rate (Austudy), section 1067L-E1 Student income bank (Austudy)
+
+Personal income test & limits for full-time students
+
+The personal income test for full-time students is the same as the ordinary income test for benefits with the following modifications:
+
+the income free area in 2026 is $539.00 per fortnight which is higher than the income free area for other payments, and
+the income bank may affect the assessment of a student's income.
+
+The income free area for full time students is usually indexed to the CPI on 1 January each year.
+
+Act reference: SSAct section 1190 Indexed and adjusted amounts
+
+Policy reference: SS Guide 4.2.2 Benefits income test & limits
+
+Access to the income bank & higher income free area
+
+Recipients have access to both the income bank and the higher income free area in any fortnight in which they are payable Austudy or YA as a full-time student.
+
+Exception: Recipients 22 to 24 years old, who DO NOT transfer from JSP to YA but intend to begin full-time study (1.1.F.230) or training, DO NOT have access to the higher income free area. They retain access to the JSP income free area (4.2.2).
+
+The following table shows when access to the income bank and the higher income free area starts for recipients in different situations.
+
+A person who is …	has access from the …
+a new YA (student) recipient	date their course starts.
+a new YA (student) recipient who had previously been an FTB child	date of the first fortnight after the student is no longer considered a 'senior secondary school child'.
+an existing YA (job seeker) recipient	
+date of the first fortnight of study or training, or
+date of notification if they fail the notification provisions.
+
+a JSP recipient, aged 22 to 24, who starts full-time study or training and transfers to YA	
+first fortnight of YA qualification, if the course runs for 12 months or more, or
+date of notification, if they fail to claim YA within 14 days of the course starting.
+
+aged 25 or more, who starts full-time study	date their course began.
+
+Access to the income bank and higher income free area usually ceases from the end of the fortnight in which the recipient's course ends.
+
+Exceptions: Students who leave a course before the course ends have access to the income bank and the higher income free area until:
+
+the end of the fortnight they leave the course, if notification requirements are met, or
+the end of the notification period, if one applies.
+
+Act reference: SSAct section 1190 Indexed and adjusted amounts
+
+Rules of the income bank
+
+The following rules apply to the student income bank:
+
+the maximum credit that can be saved in 2026 is $13,500.00
+the balance is NOT set to zero annually
+all credits are annulled when a student stops full-time study, and
+continuing students retain their credits over vacation periods.
+
+The student income bank is usually indexed to the CPI on 1 January each year.
+
+Carryover of student income bank to working credits
+
+Recipients transferring from YA (student) or Austudy to a payment eligible for working credit may be able to transfer all or part of their student income bank to their working credit balance.
+
+$1.00 student income bank = 1 working credit
+
+The following table lists all the possible carryover situations.
+
+Recipient situation	Carryover
+A YA (student) or Austudy recipient transfers to a non-student social security pension or benefit that has access to working credit (except YA (job seeker)).	Unused student income bank becomes a new working credit opening balance, up to a maximum of 1,000 working credits.
+A YA (student) or Austudy recipient transfers to YA (job seeker).	Unused student income bank becomes a new working credit opening balance, up to a maximum of 3,500 working credits.
+A recipient is granted a social security pension or benefit (except YA (job seeker)) that has access to working credit within 12 months of their YA or Austudy being suspended or cancelled.	Unused student income bank becomes a new working credit opening balance, up to a maximum of 1,000 working credits.
+A recipient is granted YA as a job seeker that has access to working credit within 12 months of their YA or Austudy being suspended or cancelled.	Unused student income bank becomes a new working credit opening balance, up to a maximum of 3,500 working credits.
+
+Note: The recipient becomes eligible for working credit from the day they start receiving their social security pension or benefit and the carryover amount is available for use from that day.
+
+Carryover of working credits to student income bank
+
+Recipients transferring from a payment eligible for working credit to YA (full-time student) or Austudy may be able to transfer their working credit balance to their student income bank.
+
+One working credit = $1.00 student income bank
+
+The following table lists all the possible carryover situations.
+
+Recipient situation	Carryover
+A recipient transfers from a social security pension or benefit that has access to working credit to YA (student) or Austudy that has access to student income bank.	All unused working credit becomes new student income bank opening balance.
+A recipient ceases a social security pension or benefit that has access to working credit and after a break of no more than 12 months commences YA (student) or Austudy that has access to student income bank.	All unused working credit becomes new student income bank opening balance.
+
+Note: These carryover situations also apply to recipients receiving ABSTUDY.
+
+Operation of the income bank
+
+The following table shows how the student income bank operates when a student has ordinary income (1.1.O.30) in a fortnight.
+
+If the income is …	then …	and …
+LESS than the income free area	subtract the income from the income free area to determine the saved amount	add the saved amount to the recipient's income bank credits.
+EQUAL to the income free area	there is no effect on payment	there is no effect on the income bank.
+GREATER than the income free area	subtract the income free area from the income to determine the reduction for income	
+
+if the reduction for income is LESS than or EQUAL to the income bank credit then subtract the reduction for income from the income bank credit.
+
+If the reduction for income is GREATER than the income bank credit then reduce the income bank credit to zero.
+
+The following examples are based on income thresholds at 1 January 2026.
+
+Example: Cath has been studying full-time for the last 2 years and she gets a job for 12 weeks in the university vacations as a clerk in her uncle's law firm. She has maximum credits in her income bank of $13,500.00 at the start of her vacation employment. Her fortnightly income from the employment is $2,000.00. For each of the 6 fortnights she works, she has enough credits in her income bank to reduce her ordinary income to zero. That means she is paid her usual rate of Austudy. Over the employment period she uses $8,766.00 income bank credits (6 × ($2,000.00 − $539.00)), leaving a credit balance of $4,734.00.
+
+Example: Rod has a $400.00 credit in his income bank. He has ordinary income in one fortnight of $1,100.00 that is reduced by his $400.00 credit. The remaining $700.00 of ordinary income is subject to the personal income test, and Rod's rate of YA for that fortnight is reduced by $85.90. This is calculated as 50% of the amount between $539.00 and $646.00 (($646 - $539) x 50% = $53.50) and 60% of the amount over $646.00 (($700 - $646) x 60% = $32.40). Rod then has zero credits in his income bank. In the following fortnight Rod has ordinary income of $320.00, so his rate of YA is not reduced and he accrues $219.00 in his income bank (the difference between $539.00 and $320.00).
+
+Example: Paul is a continuing student. In November he completes his first year of university and intends to continue. He is considered to be a full-time student for YA from November to March the next year when his course recommences. He also retains his income bank credits. In April, however, Paul develops Myalgia Encephalitis, which is supported by a medical certificate, and is forced to reduce his full-time study-load to part-time. Paul intends to return to full-time study when he is capable of doing so. Access to the higher income free area and income bank credits continues as Paul intends to return to full-time study once he is capable of doing so and remains enrolled in his course of study.
+
+Example: Nick is unemployed and gets YA (job seeker) and has built up 300 working credits. He has decided to return to full-time study and his status changes to YA (full-time student). His 300 working credits are automatically converted to $300.00 in his student income bank.
+
+Act reference: SSAct section 1073E Opening balance
+
+Policy reference: SS Guide 3.1.11.50 Working credit opening balances & carryovers, 3.1.11.20 Working credit accrual
+
+Last reviewed: 2 January 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/2/8/50#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/2/8/50#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.2.1 Pension income test & additional free area for dependent children | https://guides.dss.gov.au/social-security-guide/4/2/1
+4.2.2 Benefits income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.3 Pensions & benefits assets tests | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.4 PP means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4
+4.2.5 CP income & assets tests | https://guides.dss.gov.au/social-security-guide/4/2/5
+4.2.6 SpB income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/6
+4.2.7 DRA income test | https://guides.dss.gov.au/social-security-guide/4/2/7
+4.2.8 YA means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/8
+4.2.8.05 Dependent YA - reduction for parental income | https://guides.dss.gov.au/social-security-guide/4/2/8/05
+4.2.8.10 Dependent YA - parental income test | https://guides.dss.gov.au/social-security-guide/4/2/8/10
+4.2.8.20 Dependent YA - maintenance income test | https://guides.dss.gov.au/social-security-guide/4/2/8/20
+4.2.8.25 Dependent YA - maintenance income test reconciliation | https://guides.dss.gov.au/social-security-guide/4/2/8/25
+4.2.8.30 Independent YA - personal assets test & limits | https://guides.dss.gov.au/social-security-guide/4/2/8/30
+4.2.8.40 Independent YA - partner income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/8/40
+4.2.8.50 Full-time students - personal income test, limits & student income bank | https://guides.dss.gov.au/social-security-guide/4/2/8/50
+4.2.8.55 Full-time Australian Apprentice - personal income test, limits & Australian Apprentice income bank | https://guides.dss.gov.au/social-security-guide/4/2/8/55
+4.2.8.60 Other YA recipients - personal income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/8/60
+4.2.9 CA Income Test | https://guides.dss.gov.au/social-security-guide/4/2/9
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F2%2F8%2F50
+1.1.S.370 | https://guides.dss.gov.au/social-security-guide/1/1/s/370
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+4.2.2 | https://guides.dss.gov.au/social-security-guide/4/2/2
+Austudy | https://guides.dss.gov.au/social-security-guide/acronyms#austudy
+YA | https://guides.dss.gov.au/social-security-guide/acronyms#ya
+JSP | https://guides.dss.gov.au/social-security-guide/acronyms#jsp
+1.1.F.230 | https://guides.dss.gov.au/social-security-guide/1/1/f/230
+FTB | https://guides.dss.gov.au/social-security-guide/acronyms#ftb
+ABSTUDY | https://guides.dss.gov.au/social-security-guide/acronyms#abstudy
+1.1.O.30 | https://guides.dss.gov.au/social-security-guide/1/1/o/30
+3.1.11.50 | https://guides.dss.gov.au/social-security-guide/3/1/11/50
+3.1.11.20 | https://guides.dss.gov.au/social-security-guide/3/1/11/20
+Contact us | https://guides.dss.gov.au/contact-us

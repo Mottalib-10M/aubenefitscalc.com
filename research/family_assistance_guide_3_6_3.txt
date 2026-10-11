@@ -1,0 +1,158 @@
+https://guides.dss.gov.au/family-assistance-guide/3/6/3
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.6.3 FTB Part B - historical rates
+Summary
+
+This topic contains historical rates of FTB Part B, FTB Part B supplement and ES Part B.
+
+Maximum rate of FTB Part B
+
+An individual’s maximum rate of FTB Part B is determined based on their income (and their partner’s income, where applicable), and the age of the youngest child in the family.
+
+The maximum rate of FTB Part B is payable to single parent families when their income is equal to or below the primary earner income limit.
+
+For couple families, the maximum rate of FTB Part B is reduced by 20c for every dollar that the lower income earner earns above the income free area, provided the higher income earner’s income is not above the primary earner income limit.
+
+Note: FTB Part B supplement was introduced from 1 January 2005. The supplement is a component of the annual maximum FTB Part B rate and is paid after reconciliation. The supplement is not included in the fortnightly rates.
+
+Note: The FTB Part B primary earner income limit of $150,000 was introduced from 1 July 2008. This changed to $100,000 from 1 July 2015. Indexation of the primary earner income limit commenced from 1 July 2021.
+
+The table below shows the maximum FTB part B rate, income free area and primary earner income limit. Rates shown are fortnightly, except where indicated otherwise.
+
+Date payable from	Youngest child under 5 years
+($ pf)	Youngest child 5 to 15 years (or senior secondary child aged 16 to 18 years)
+($ pf) Note A	Income free area
+($ p.a.)	Primary earner income limit
+($ p.a.)
+01/07/2000	99.82	69.58	1,616	-
+01/07/2001	105.56	73.64	1,679	-
+01/07/2002	108.78	75.88	1,752	-
+01/07/2003	112.00	78.12	1,824	-
+01/07/2004	114.66	79.94	4,000	-
+01/07/2005	117.60	82.04	4,088	-
+01/07/2006	120.96	84.28	4,234	-
+01/07/2007	125.02	87.08	4,380	-
+01/07/2008	128.80	89.74	4,526	150,000
+01/07/2009	133.56	93.10	4,672	150,000
+01/07/2010	136.36	95.06	4,745	150,000
+01/07/2011	140.00	97.58	4,891	150,000
+01/07/2012	144.34	100.66	5,037	150,000
+01/07/2013	146.44	102.20	5,183	150,000
+01/07/2014	150.36	105.00	5,329	150,000
+01/07/2015	152.88	106.82	5,402	100,000
+01/07/2016	155.54	108.64	5,475	100,000
+01/07/2017 Note B	155.54	108.64	5,548	100,000
+01/07/2018	155.54	108.64	5,621	100,000
+01/07/2019	158.34	110.60	5,694	100,000
+01/07/2020	161.14	112.56	5,767	100,000
+01/07/2021	162.54	113.54	5,840	100,900
+01/07/2022	168.28	117.46	6,059	104,432
+01/07/2023	181.44	126.56	6,497	112,578
+01/07/2024	188.86	131.74	6,789	117,194
+01/07/2025	193.34	134.96	6,935	120,007
+01/07/2026	200.34	139.86	7,154	124,327
+Notes
+Note	Explanation
+A	The rate of FTB Part B is nil if a recipient is a member of a couple and their youngest child is 13 years or older unless they are a grandparent or great-grandparent.
+B	The Social Services Legislation Amendment Act 2017 paused the FTB Part B rates until 30 June 2019.
+FTB Part B supplement
+
+The FTB Part B supplement is payable at the end of a financial year after reconciliation has occurred. It is a component of the maximum annual rate of FTB Part B, although it cannot be paid fortnightly.
+
+The table below shows the FTB part B supplement rates per year.
+
+Date payable from	FTB Part B supplement per family
+($)
+01/07/2004	302.95
+01/07/2005	306.60
+01/07/2006	313.90
+01/07/2007	324.85
+01/07/2008	335.80
+01/07/2009	346.75
+01/07/2010	354.05
+01/07/2011	354.05
+01/07/2012	354.05
+01/07/2013	354.05
+01/07/2014	354.05
+01/07/2015	354.05
+01/07/2016	354.05
+01/07/2017	357.70
+01/07/2018	365.00
+01/07/2019	372.30
+01/07/2020	379.60
+01/07/2021	383.25
+01/07/2022	397.85
+01/07/2023	430.70
+01/07/2024	448.95
+01/07/2025	459.90
+01/07/2026	478.15
+ES Part B
+
+The table below shows the standard rates of ES Part B per year.
+
+Date payable from	Youngest FTB child is under 5 years
+($)	Youngest FTB child is 5 to 18 years
+($)
+01/07/2013	69.35	51.10
+01/07/2014 and onwards	73.00	51.10
+
+Note: From 1 May 2014 eligibility for FTB was limited to children up to 15 years and 16-19 years and in full-time study.
+
+Note: From 20 September 2014, ES indexation has ceased.
+
+Policy reference: FA Guide 3.1.9 FTB Part B rate calculation
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/6/3#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/6/3#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.6.1 FTB Part A - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/1
+3.6.2 FTB rent assistance - historical rates & thresholds | https://guides.dss.gov.au/family-assistance-guide/3/6/2
+3.6.3 FTB Part B - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/3
+3.6.4 Maternity payments - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/4
+3.6.5 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/6/5
+3.6.6 Foreign exchange rate - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F6%2F3
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+ES | https://guides.dss.gov.au/family-assistance-guide/acronyms#es
+Note A | https://guides.dss.gov.au/family-assistance-guide/3/6/3#a
+Note B | https://guides.dss.gov.au/family-assistance-guide/3/6/3#b
+3.1.9 | https://guides.dss.gov.au/family-assistance-guide/3/1/9
+Contact us | https://guides.dss.gov.au/contact-us

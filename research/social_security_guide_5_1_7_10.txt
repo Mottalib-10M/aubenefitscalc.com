@@ -1,0 +1,149 @@
+https://guides.dss.gov.au/social-security-guide/5/1/7/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+5.1.7.10 RA - current rates
+Current rates as at 20 September 2026
+
+This table shows the following, in dollars per fortnight (pf):
+
+rent threshold (1.1.R.190) at which entitlement to RA commences
+minimum rent payable (1.1.R.180) to receive maximum RA, and
+current maximum rates of RA (1.1.M.60).
+Recipient status	Rent threshold
+($ pf)	Minimum rent for maximum RA
+($ pf)	Maximum rate
+($ pf)
+Single, no children	157.80	456.20	223.80
+Single, no children, sharer	157.80	356.74	149.20
+Partnered, no children (combined rate)	255.80	537.14	211.00
+Member of a couple, no children - illness separated couple (1.1.I.04), respite care couple (1.1.R.240), or partner imprisoned (1.1.P.85)	157.80	456.20	223.80
+Member of a couple temporarily separated, no children	157.80	439.14	211.00
+Rates of payment for families with children
+
+RA for families with children is not paid under Social Security Law. The rates of payment for families with children can be found in the Family Assistance Guide.
+
+Policy reference: FA Guide 3.1.4.30 Rent assistance
+
+Indexation (1.1.I.100)
+
+The rent thresholds and maximum rates are indexed to reflect changes in the CPI. The effective dates of indexation are 20 March and 20 September each year.
+
+Exception: There was a 10% increase to all maximum rates only (not rent thresholds), on 1 July 2000, as part of the 'A New Tax System' legislation. Of this 10%, 8% was a real increase and the remaining 2% was an advance on the 20 March 2001 indexation.
+
+Maximum rates were also increased by 15% on 20 September 2023 and by 10% on 20 September 2024, exclusive of the usual indexation which also occurred on these dates.
+
+Timing of payments
+
+Payments are generally made fortnightly in arrears.
+
+However, RA recipients who are being paid as part of their FTB may have the choice to receive their RA as a lump sum at the end of the income year. This depends on how they have chosen to arrange their payment of FTB.
+
+SSAct Chapter 3 details the general provisions relating to payability and rates.
+
+Act reference: SSAct section 1189 Analysis of Part, section 1190 Indexed and adjusted amounts, section 1191 CPI Indexation Table, section 1192 Indexation of amounts, section 1193 Indexation factor, section 1194 Rounding off indexed amounts, Chapter 3 General provisions relating to payability and rates
+
+Policy reference: SS Guide 1.2.7.10 Rent assistance (RA) - description, 3.8.1 RA - qualification & payability
+
+FA Guide 4.3.1.20 FTB payment choices for instalment individuals
+
+Determining the rate of RA - couple living together
+
+The following table explains the appropriate rate of RA for members of a couple who are living together:
+
+If …	then the …
+
+both members of a couple are pensioners, and
+both are eligible for RA
+	rate of RA payable to each recipient is one half of the total amount otherwise payable. Each recipient's rate is calculated based on the total rent paid by the couple.
+one of the couple is a service pensioner in receipt of RA under the VEA	pensioner partner receives RA at half the total amount otherwise payable.
+one of the couple is a pensioner and the other is in receipt of benefit	pensioner partner receives the total amount of any RA payable.
+Determining the rate of RA - couple not living together
+
+Married couples who do not live together in the matrimonial home are still treated as partnered, that is, temporarily separated couples, are effectively treated as if they are not separated.
+
+Explanation: If one is residing in a home that is owned by the couple, they are both homeowners and neither can get RA.
+
+For care situations that is, illness separated couple, respite care couple, or partner imprisoned, RA can be paid using the single person's rent threshold under single rate provisions, even if one partner lives in a home that is owned by the couple. This applies to community based care as well as institutional care.
+
+Act reference: SSAct section 1070K Rate depends on social security payment …
+
+Policy reference: SS Guide 3.8.1.106 Special RA rules for couples & families with children
+
+Last reviewed: 21 September 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/5/1/7/10#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/5/1/7/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+5.1 Current rates | https://guides.dss.gov.au/social-security-guide/5/1
+5.1.1 Jobseeker payment & youth allowance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1
+5.1.2 Other labour market & older students - current rates | https://guides.dss.gov.au/social-security-guide/5/1/2
+5.1.3 Retirement & widows - current rates | https://guides.dss.gov.au/social-security-guide/5/1/3
+5.1.4 Families & parenting - current rates | https://guides.dss.gov.au/social-security-guide/5/1/4
+5.1.5 Disability & carer - current rates | https://guides.dss.gov.au/social-security-guide/5/1/5
+5.1.6 Special payments - current rates | https://guides.dss.gov.au/social-security-guide/5/1/6
+5.1.7 Supplementary benefits - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7
+5.1.7.10 RA - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/10
+5.1.7.20 PhA - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/20
+5.1.7.30 PES - current rate | https://guides.dss.gov.au/social-security-guide/5/1/7/30
+5.1.7.40 Relocation scholarship - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/40
+5.1.7.46 SSL - current rate | https://guides.dss.gov.au/social-security-guide/5/1/7/46
+5.1.7.50 EdEP - current rate | https://guides.dss.gov.au/social-security-guide/5/1/7/50
+5.1.7.60 TAL - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/60
+5.1.7.70 RAA - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/70
+5.1.7.80 Number not currently in use | https://guides.dss.gov.au/social-security-guide/5/1/7/80
+5.1.7.90 LLNS - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/90
+5.1.7.100 Number not currently in use | https://guides.dss.gov.au/social-security-guide/5/1/7/100
+5.1.7.110 UA - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/110
+5.1.7.120 APWS - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7/120
+5.1.8 Common rates tables | https://guides.dss.gov.au/social-security-guide/5/1/8
+5.1.9 Pension supplement - current rates | https://guides.dss.gov.au/social-security-guide/5/1/9
+5.1.10 Energy assistance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/10
+5.2 Historical rates | https://guides.dss.gov.au/social-security-guide/5/2
+5.3 Taxation | https://guides.dss.gov.au/social-security-guide/5/3
+5.4 Advance payments | https://guides.dss.gov.au/social-security-guide/5/4
+5.5 Samples of rate calculations | https://guides.dss.gov.au/social-security-guide/5/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F5%2F1%2F7%2F10
+1.1.R.190 | https://guides.dss.gov.au/social-security-guide/1/1/r/190
+RA | https://guides.dss.gov.au/social-security-guide/acronyms#ra
+1.1.R.180 | https://guides.dss.gov.au/social-security-guide/1/1/r/180
+1.1.M.60 | https://guides.dss.gov.au/social-security-guide/1/1/m/60
+1.1.I.04 | https://guides.dss.gov.au/social-security-guide/1/1/i/04
+1.1.R.240 | https://guides.dss.gov.au/social-security-guide/1/1/r/240
+1.1.P.85 | https://guides.dss.gov.au/social-security-guide/1/1/p/85
+3.1.4.30 | https://guides.dss.gov.au/family-assistance-guide/3/1/4/30
+1.1.I.100 | https://guides.dss.gov.au/social-security-guide/1/1/i/100
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+FTB | https://guides.dss.gov.au/social-security-guide/acronyms#ftb
+1.2.7.10 | https://guides.dss.gov.au/social-security-guide/1/2/7/10
+3.8.1 | https://guides.dss.gov.au/social-security-guide/3/8/1
+4.3.1.20 | https://guides.dss.gov.au/family-assistance-guide/4/3/1/20
+VEA | https://guides.dss.gov.au/social-security-guide/acronyms#vea
+3.8.1.106 | https://guides.dss.gov.au/social-security-guide/3/8/1/106
+Contact us | https://guides.dss.gov.au/contact-us

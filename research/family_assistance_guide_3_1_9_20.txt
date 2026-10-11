@@ -1,0 +1,95 @@
+https://guides.dss.gov.au/family-assistance-guide/3/1/9/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.1.9.20 Income test - FTB Part B
+FTB Part B income tests
+
+The following table outlines the income tests that applyr to different individual's circumstances.
+
+If the Individual is …	then …
+a single parent	they are eligible for the maximum rate of FTB Part B if their income is equal to or below the primary earner income limit (1.1.I.45).
+the higher income earner in a couple	the primary income earner limit applies and the rate of FTB Part B will depend on the income of the lower income earner.
+the lower income earner in the couple
+
+Explanation: It does not matter if the lower income earner is not the primary carer of the children.
+
+Example: Damien and Genevieve receive FTB Part B. Damien is self-employed and earns $7,500 and Genevieve earns $25,500 per year. Genevieve works part-time and is the primary carer of the children. FTB Part B is calculated on Damien's income of $7,500 as he is the lower income earner even though Genevieve is the primary carer.
+
+	if their partner's income is equal to or lower than the primary income earner limit, an income test then applies to the lower earner's income to determine the rate of FTB Part B. Their FTB Part B is reduced by 20% of the income excess if their ATI (1.1.A.20) is more than their income free area (1.1.I.40).
+
+Explanation: This amount is deducted from the maximum rate. The remaining amount is the individual's FTB Part B rate.
+
+Special arrangements may apply to lower income earners in a couple returning to work for the first time after the birth of a child (3.1.9.30), or when an eligible child enters their care.
+
+For information on how FTB Part A and FTB Part B are exempt from the income test for ATI for periods during the relevant income year (1.1.R.23) when the individual and/or their partner receive income support payments, refer to 6.4.2.20.
+
+Act reference: FA(Admin)Act section 20 Determination of rate may be based on estimate, indexed estimate or indexed actual income, section 20A Indexed estimates, section 20B Indexed actual incomes
+
+Policy reference: FA Guide 1.1.I.85 Indexed income - actual or estimate (FTB), 3.1.9.30 FTB Part B return to work, 6.4.2.20 Income test exemptions for individuals in receipt of income support, 3.1.1.20 Current FTB rates & income test amounts
+
+Last reviewed: 1 July 2024
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/1/9/20#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/1/9/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.1.1 Rate provisions for FTB | https://guides.dss.gov.au/family-assistance-guide/3/1/1
+3.1.2 FTB rate for ACOs | https://guides.dss.gov.au/family-assistance-guide/3/1/2
+3.1.3 Apportioning income test reductions between FTB Part A components | https://guides.dss.gov.au/family-assistance-guide/3/1/3
+3.1.4 FTB Part A rate calculation - Method 1 | https://guides.dss.gov.au/family-assistance-guide/3/1/4
+3.1.5 Maintenance action test for FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/5
+3.1.6 Child support assessments & agreements | https://guides.dss.gov.au/family-assistance-guide/3/1/6
+3.1.7 Maintenance income test | https://guides.dss.gov.au/family-assistance-guide/3/1/7
+3.1.8 FTB Part A rate calculation - Method 2 | https://guides.dss.gov.au/family-assistance-guide/3/1/8
+3.1.9 FTB Part B rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1/9
+3.1.9.10 Calculating FTB Part B | https://guides.dss.gov.au/family-assistance-guide/3/1/9/10
+3.1.9.20 Income test - FTB Part B | https://guides.dss.gov.au/family-assistance-guide/3/1/9/20
+3.1.9.30 FTB Part B return to work | https://guides.dss.gov.au/family-assistance-guide/3/1/9/30
+3.1.10 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/1/10
+3.1.11 Advance payment of FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/11
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F1%2F9%2F20
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+1.1.I.45 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/45
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+1.1.A.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/20
+1.1.I.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/40
+3.1.9.30 | https://guides.dss.gov.au/family-assistance-guide/3/1/9/30
+1.1.R.23 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/23
+6.4.2.20 | https://guides.dss.gov.au/family-assistance-guide/6/4/2/20
+1.1.I.85 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/85
+3.1.1.20 | https://guides.dss.gov.au/family-assistance-guide/3/1/1/20
+Contact us | https://guides.dss.gov.au/contact-us

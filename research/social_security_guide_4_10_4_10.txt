@@ -1,0 +1,237 @@
+https://guides.dss.gov.au/social-security-guide/4/10/4/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.10.4.10 Historical widow class A, sole parent benefit & PPS means test limits
+Summary
+
+This topic contains historical means test limits for widow class A, sole parent benefit and PPS from July 1942 to present. In 1989, sole parent pension replaced class A widow's pension. In 1998 the sole parent pension was replaced by PPS.
+
+This topic contains the following 3 tables:
+
+Table Number	Explanation
+1	Means test - July 1942 to October 1958
+2	Merged means test - March 1961 to December 1983
+3	Income and assets (1.1.A.290) test - March 1985 to present date
+
+Act reference: SSAct section 8(1)-'income'
+
+Table 1: Means test - July 1942 to October 1958
+
+The table shows amounts in dollars. Income is shown in dollars per annum.
+
+Date
+Note A	Permissible income	Limit of property	Property exemption	Income deduction for children
+27/07/1942	65	2,000	100	-
+13/08/1946	104	2,000	100	-
+08/07/1947	104	2,000	100	26 or 52 Note B
+26/10/1948	156	2,000	200	26 or 52
+06/11/1951	156	2,500	300	26 Note C
+07/10/1952	156	2,500	300	52
+05/11/1953	208	3,000	300	52
+19/10/1954	364	3,500	400	52
+28/10/1958	364	4,500	400	52
+Notes for Table 1
+Note	Explanation
+A	Dates on which the rates applied.
+B	The income of a widow with children was reduced by an amount of $26.00 per year in respect of the first child under 16 years in her custody, care and control and by $52.00 per year in respect of each additional child under 16 years. The maximum deduction was reduced by any payment (for example, family allowance, state assistance) received in respect of the child and/or children.
+C	Deductions from income were allowed in respect of dependent children (1.1.D.70) under 16 years. Income was reduced to $26.00 per year for each child in the widow's custody, care and control. The maximum deduction was reduced by any payment other than family allowance received in respect of the child.
+Table 2: Merged means test - March 1961 to December 1983
+
+The table shows amounts in dollars. Income is shown in dollars per annum.
+
+Date
+Note D	Means as assessed	Property exemption	Income deduction for children
+14/03/1961	364
+Note E	2,000	52
+08/10/1963	364	2,000	52
+Note F
+19/10/1965	364	2,000	52
+Note G
+04/10/1966	364	2,000	156
+Note H
+02/05/1967	520	2,000	156
+30/09/1969	520
+Note I	2,000	208
+10/10/1972	1,040	2,000	312
+27/03/1973	1,040	2,000	312
+Note J
+25/11/1976	1,040	abolished
+Note K	312
+04/11/1982	1,560	-	-
+01/12/1983	1,560	-	312
+Note L
+Notes for Table 2
+Note	Explanation
+D	Dates on which the rates applied.
+E	
+
+Merged means test was introduced. Maximum pension was reduced by the amount by which 'means as assessed' (income plus property component) exceeds $364.00. If property is $4,500, or less, property component is 'nil'. If property exceeds $4,500, the property component is $2.00 for each $20.00 of property over $2,000.
+
+Fixed disqualifying limit of property was abolished, except to the extent that, if a recipient has more than one child, no pension was payable if the property component was equal to or exceeded the maximum rate of pension (excluding additional pension for children) plus $364.00.
+
+
+F	The deduction from income of $52.00 per year in respect of each child in the widow's custody, care and control was extended to include a child over 16 years until the end of the calendar year in which he or she reached 18 years if the child was dependent on the widow and receiving full-time education.
+G	The period for which the deduction from income was allowed in respect of a student child was further extended until the date of his or her 21st birthday.
+H	The maximum deduction from income for each child under 16 years or dependent full-time student under 21 years in the widow's custody, care and control was increased by $104.00 per year to $156.00 per year. The amount of war pension, service pension or education allowance paid by DVA was no longer a reduction from the maximum income deduction allowed.
+I	A tapered means test was introduced. The maximum rate of pension was reduced by half of the amount by which means as assessed exceeds permissible means as assessed.
+J	The age limit of 21 years for dependent full-time student children was removed thereby enabling the income deduction to be continued indefinitely, where suitable.
+K	The property test was abolished. The means test became an income test only with property excluded. However, any monies received by, for example, rental of the property, were included as income. As from 9 November 1978 payment of additional pension in respect of a dependent full-time student ceased at an upper age limit of 25 years.
+L	Eligibility for supporting parent's benefit extended to a person caring for a child, who lives apart from the partner indefinitely due to the partner's ill health.
+Table 3: Income & assets test - March 1985 to present date
+
+The table shows amounts in dollars. Income is shown in dollars per annum.
+
+Date	Permissible income - not including additional dependent child amount (per annum)	Additional dependent child amount (per annum)	Total permissible income	Allowable assets
+homeowner	non-homeowner
+21/03/1985	1,560	312.00	1,872	70,000	120,000
+Note N
+01/05/1986	1,560	312.00	1,872	75,750	129,750
+25/06/1987	1,560	312.00	1,872	83,250	143,250
+09/07/1987	2,080
+Note O	624.00	2,704	83,250	143,250
+23/06/1988	2,080	624.00	2,704	89,250	153,250
+22/06/1989	2,080
+Note P	624.00	2,704	96,000	164,500
+21/06/1990	2,080	624.00	2,704	103,500	177,500
+01/07/1991	2,184	624.00	2,808	110,750	190,250
+01/07/1992	2,236	624.00	2,860	112,500	193,000
+01/07/1993	2,288	624.00	2,912	112,750	193,250
+01/07/1994	2,340	624.00	2,964	115,000	197,000
+01/07/1995	2,444	624.00	3,068	118,000	202,000
+01/07/1996	2,548	624.00	3,172	124,000	212,500
+01/07/1997	2,600	624.00	3,224	125,750	215,750
+01/07/1998	2,600	624.00	3,224	125,750	215,750
+01/07/1999	2,652	624.00	3,276	127,750	219,250
+01/07/2000	2,756	639.60	3,395.60	133,250	228,750
+01/07/2001	2,912	639.60	3,551.60	141,000	242,000
+01/07/2002	3,016	639.60	3,655.60	145,250	249,750
+01/07/2003	3,120	639.60	3,759.60	149,500	257,500
+01/07/2004	3,172	639.60	3,811.60	153,000	263,500
+01/07/2005	3,224	639.60	3,863.60	157,000	270,500
+01/07/2006	3,328	639.60	3,967.60	161,500	278,500
+01/07/2007	3,432	639.60	4,071.60	166,750	287,750
+01/07/2008	3,588	639.60	4,227.60	171,750	296,250
+01/07/2009	3,692	639.60	4,331.60	178,000	307,000
+01/07/2010	3,796	639.60	4,435.60	181,750	313,250
+01/07/2011	3,900	639.60	4,539.60	186,750	321,750
+01/07/2012	3,952	639.60	4,591.60	192,500	332,000
+01/07/2013	4,056	639.60	4,695.60	196,750	339,250
+01/07/2014	4,160	639.60	4,799.60	202,000	348,500
+01/07/2015	4,212	639.60	4,851.60	202,000
+Note Q	348,500
+Note Q
+01/07/2016	4,264	639.60	4,903.60	202,000
+Note Q	348,500
+Note Q
+01/01/2017	4,264	639.60	4,903.60	250,000
+Note R	450,000
+Note R
+01/07/2017	4,264
+Note S	639.60	4,903.60	253,750	456,750
+01/07/2018	4,264
+Note S	639.60	4,903.60	258,500	465,500
+01/07/2019	4,264
+Note S	639.60	4,903.60	263,250
+Note: From 25 March to 25 September 2020, as part of the Coronavirus response, the assets test for allowance payments, including PPS, was waived	473,750
+Note: From 25 March to 25 September 2020, as part of the Coronavirus response, the assets test for allowance payments, including PPS, was waived.
+01/07/2020	4,368	639.60	5,007.60	268,000
+Note: From 25 March to 25 September 2020, as part of the Coronavirus response, the assets test for allowance payments, including PPS, was waived	482,500
+Note: From 25 March to 25 September 2020, as part of the Coronavirus response, the assets test for allowance payments, including PPS, was waived.
+01/07/2021	4,420	639.60	5,059.60	270,500	487,000
+01/07/2022	4,628	639.60	5,267.60	280,000	504,500
+01/07/2023	4,940	639.60	5,579.60	301,750	543,750
+01/07/2024	5,096	639.60	5,735.60	314,000	566,000
+01/07/2025	5,200	639.60	5,839.60	321,500	579,500
+01/07/2026	5,408	639.60	6,047.60	333,000	600,000
+Notes for Table 3
+Note	Explanation
+M	Dates on which the rates applied.
+N	The assets test was introduced on 21 March 1985. Non-homeowners are allowed extra assets. There is no increase in the allowable assets amounts for children.
+O	Allowable income for married supporting parents (Note L) was increased to $1,820.
+P	In March 1989 supporting parent's benefit and class A widow's pension were amalgamated under a new title of sole parent's pension.
+Q	Indexation of the assets test for PPS was paused for 2 years from 1 July 2015.
+R	On 1 January 2017, the assets test thresholds were increased in line with changes to the pension assets test.
+S	Indexation of the PPS income test was paused for 3 years from 1 July 2017.
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/10/4/10#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/10/4/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.10.1 Historical income & assets general policy | https://guides.dss.gov.au/social-security-guide/4/10/1
+4.10.2 Historical unemployment (including JSP), sickness benefit & SA income test from September 1969 to present date | https://guides.dss.gov.au/social-security-guide/4/10/2
+4.10.3 Historical age & invalid (disability support) pension income & assets limits | https://guides.dss.gov.au/social-security-guide/4/10/3
+4.10.4 Historical widow/sole parent pensions & allowances income & assets limits | https://guides.dss.gov.au/social-security-guide/4/10/4
+4.10.4.10 Historical widow class A, sole parent benefit & PPS means test limits | https://guides.dss.gov.au/social-security-guide/4/10/4/10
+4.10.4.20 Historical widow B means test limits & additional payments | https://guides.dss.gov.au/social-security-guide/4/10/4/20
+4.10.5 Historical families & parenting income & assets limits | https://guides.dss.gov.au/social-security-guide/4/10/5
+4.10.6 Historical supplementary benefits income limits | https://guides.dss.gov.au/social-security-guide/4/10/6
+4.10.7 Historical concession cards income & assets limits | https://guides.dss.gov.au/social-security-guide/4/10/7
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F10%2F4%2F10
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+1 | https://guides.dss.gov.au/social-security-guide/4/10/4/10#table1
+2 | https://guides.dss.gov.au/social-security-guide/4/10/4/10#table2
+3 | https://guides.dss.gov.au/social-security-guide/4/10/4/10#table3
+1.1.A.290 | https://guides.dss.gov.au/social-security-guide/1/1/a/290
+Note A | https://guides.dss.gov.au/social-security-guide/4/10/4/10#A
+Note B | https://guides.dss.gov.au/social-security-guide/4/10/4/10#B
+Note C | https://guides.dss.gov.au/social-security-guide/4/10/4/10#C
+1.1.D.70 | https://guides.dss.gov.au/social-security-guide/1/1/d/70
+Note D | https://guides.dss.gov.au/social-security-guide/4/10/4/10#D
+Note E | https://guides.dss.gov.au/social-security-guide/4/10/4/10#E
+Note F | https://guides.dss.gov.au/social-security-guide/4/10/4/10#F
+Note G | https://guides.dss.gov.au/social-security-guide/4/10/4/10#G
+Note H | https://guides.dss.gov.au/social-security-guide/4/10/4/10#H
+Note I | https://guides.dss.gov.au/social-security-guide/4/10/4/10#I
+Note J | https://guides.dss.gov.au/social-security-guide/4/10/4/10#J
+Note K | https://guides.dss.gov.au/social-security-guide/4/10/4/10#K
+Note L | https://guides.dss.gov.au/social-security-guide/4/10/4/10#L
+DVA | https://guides.dss.gov.au/social-security-guide/acronyms#dva
+Note N | https://guides.dss.gov.au/social-security-guide/4/10/4/10#N
+Note O | https://guides.dss.gov.au/social-security-guide/4/10/4/10#O
+Note P | https://guides.dss.gov.au/social-security-guide/4/10/4/10#P
+Note Q | https://guides.dss.gov.au/social-security-guide/4/10/4/10#q
+Note R | https://guides.dss.gov.au/social-security-guide/4/10/4/10#r
+Note S | https://guides.dss.gov.au/social-security-guide/4/10/4/10#s
+Contact us | https://guides.dss.gov.au/contact-us

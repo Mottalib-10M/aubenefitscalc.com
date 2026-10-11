@@ -1,0 +1,199 @@
+https://guides.dss.gov.au/social-security-guide/4/2/1/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.2.1.20 Additional Free Area for Dependent Children
+Summary
+
+This topic provides information on the following:
+
+ordinary income free area,
+which dependent children attract additional free area,
+additional free area,
+effect of child payments received by a person,
+exempt payments,
+calculating the deduction, and
+removal of the pension income test additional free area for dependent children from 20 September 2009.
+Ordinary income free area
+
+The ordinary income free area under the PPS income test includes an additional free area for EACH of a recipient's dependent children (1.1.D.70). This topic covers:
+
+which dependent children attract additional free area,
+effect of payments received by a person,
+exempt payments, and
+calculating the deduction.
+
+Policy reference: SS Guide 4.2.4.10 PPS income & assets tests & limits
+
+Which dependent children attract additional free area
+
+A child of a person must first meet the definition of a dependent child, that includes requirements such as residency and other requirements as defined in the SSAct section 5. In addition, for the purposes of the additional free area, a dependent child attracts the additional free area if they are a child under 18 receiving YA, but not if they are a prescribed student child aged 18 or over for whom CA is not payable.
+
+Act reference: SSAct section 5 Family relationships definitions-children
+
+Additional free area
+Amount	Pre 1 July 2000	On or After 1 July 2000
+Per fortnight (pf)	$24.00	$24.60
+Per year	$624.00	$639.60
+
+Policy reference: SS Guide 1.1.D.70 Dependent child
+
+Effect of child payments received by a person
+
+In general, the annual amount of payments received by a person for or in respect of a dependent child reduces the $24.60 additional free area.
+
+Example 1: The additional free area of $24.60 pf ($639.60 per year) reduces IF a person is receiving a foster care allowance payment for a dependent child.
+
+Example 2: The additional free area of $24.60 pf ($639.60 per year) reduces IF a person is receiving superannuation or compensation (1.1.C.240) for a dependent child.
+
+Exception: Some payments are exempt from this rule, as discussed below.
+
+Exempt payments
+
+The following payments do NOT reduce a person's additional free area entitlement of $24.60 pf ($639.60 per year):
+
+those made under the SSAct,
+maintenance income,
+those made under the VEA,
+those made under an Aboriginal study assistance scheme, and
+those made under the AIC Scheme.
+
+Explanation: These payments are exempt.
+
+Act reference: SSAct section 10 Maintenance income definitions, section 23(1)-'Aboriginal study assistance scheme'
+
+Calculating the deduction
+
+When calculating the additional free area deductions, each of a person's dependent children is considered separately.
+
+Explanation: Excess income for one child CANNOT be offset against the income deduction of another child.
+
+The following table shows an example of calculating the deduction for a person with 3 children.
+
+ 	Child 1	Child 2	Child 3
+Income received for or in respect of a dependent child	
+
+$30.60 pf
+
+($795.60 per year)
+
+	
+
+$8.60 pf
+
+($223.60 per year)
+
+	$0
+Additional free area deduction	
+
+$24.60 pf for each child
+
+($639.60 per year for each child)
+
+
+Amount exceeding additional free area	
+
+$6.00 pf
+
+($156.00 per year)
+
+	$0	$0
+Allowable child deduction	
+
+$0 pf
+
+Explanation: Income received exceeds the additional free area.
+
+	
+
+$16.00 pf
+
+($416.00 per year)
+
+	down
+
+$24.60 pf
+
+($639.60 per year)
+
+Act reference: SSAct section 5 Family relationships definitions-children, section 1064-E4 How to calculate a person's ordinary income free area, section 1066-E4 How to calculate a person's ordinary income free area, section 1066A-F3 How to calculate a person's ordinary income free area, section 1068A-E14 How to calculate a person's ordinary income free area, section 1068A-E15 No additional free area for certain prescribed student children, section 1068A-E16 Reduction of additional free area for dependent children, section 1068A-E21 Dependent child
+
+Removal of the pension income test additional free area for dependent children from 20 September 2009
+
+The additional pension income test free area for pensioners with dependent children was abolished from 20 September 2009, as part of the 2009-10 Budget.
+
+Also, from 20 September 2009, the rate at which extra income above the threshold affects pension payments changed from 40 cents to 50 cents in the dollar for singles. For couples, the rate changed from 20 cents to 25 cents in the dollar for each member of a couple.
+
+Transitional arrangements were introduced for pensioners who were receiving a payment on 19 September 2009 and who would otherwise have had their payments reduced by the new income test rules. These pensioners will continue to receive their payment based on the 40 cent withdrawal rate and the additional income test free area for dependent children, until they are better off under the new rules, including the 50 cent withdrawal rate.
+
+PPS recipients continue to receive their payment based on a 40 cent withdrawal rate and the additional free area for dependent children.
+
+Policy reference: SS Guide 5.1.8.40 Pension reform - transitional arrangements
+
+Last reviewed: 3 July 2017
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/2/1/20#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/2/1/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.2.1 Pension income test & additional free area for dependent children | https://guides.dss.gov.au/social-security-guide/4/2/1
+4.2.1.10 Pensions income test | https://guides.dss.gov.au/social-security-guide/4/2/1/10
+4.2.1.20 Additional Free Area for Dependent Children | https://guides.dss.gov.au/social-security-guide/4/2/1/20
+4.2.2 Benefits income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.3 Pensions & benefits assets tests | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.4 PP means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4
+4.2.5 CP income & assets tests | https://guides.dss.gov.au/social-security-guide/4/2/5
+4.2.6 SpB income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/6
+4.2.7 DRA income test | https://guides.dss.gov.au/social-security-guide/4/2/7
+4.2.8 YA means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/8
+4.2.9 CA Income Test | https://guides.dss.gov.au/social-security-guide/4/2/9
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F2%2F1%2F20
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+1.1.D.70 | https://guides.dss.gov.au/social-security-guide/1/1/d/70
+4.2.4.10 | https://guides.dss.gov.au/social-security-guide/4/2/4/10
+YA | https://guides.dss.gov.au/social-security-guide/acronyms#ya
+CA | https://guides.dss.gov.au/social-security-guide/acronyms#ca
+1.1.C.240 | https://guides.dss.gov.au/social-security-guide/1/1/c/240
+VEA | https://guides.dss.gov.au/social-security-guide/acronyms#vea
+AIC | https://guides.dss.gov.au/social-security-guide/acronyms#aic
+5.1.8.40 | https://guides.dss.gov.au/social-security-guide/5/1/8/40
+Contact us | https://guides.dss.gov.au/contact-us

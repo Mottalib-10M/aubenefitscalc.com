@@ -1,0 +1,213 @@
+https://guides.dss.gov.au/social-security-guide/5/1/8/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+5.1.8.20 Common benefit rates
+Applicable benefits
+
+This topic shows the maximum basic rates for the following benefits:
+
+Jobseeker Payment
+Special Benefit, and
+Parenting Payment (Partnered).
+Benefit rates
+
+This table shows the basic rates in dollars per fortnight (pf) as at 20 September 2026. The maximum rate of payment may be higher if the person is eligible for supplementary payments (see 1.2.7 Supplementary benefits – description) in addition to the basic rate.
+
+Current rates can be found in the A guide to Australian Government payments booklet on the Services Australia website.
+
+Recipient status	Rate ($ pf)
+Single	no children	22 or over	824.90
+Single	with children	22 or over	883.30
+Single	no children	55 or over after 9 months	883.30
+Single	no children	Partial capacity to work 0 to 14 hours per week	883.30
+
+
+Single principal carer with an exemption from mutual obligation requirements either:
+
+because of caring for large family or foster child/ren, or
+who is a home or distance educator of child/ren in their care.
+	with children	-	1068.20#
+Partnered	without children	-	755.10
+Partnered	with children	-	755.10
+Partnered - illness separated couple (1.1.I.04), respite care couple (1.1.R.240), or partner in gaol (1.1.P.85)	883.30
+
+Example of single with children: Olivia is the single principal carer to her daughter Ashley, who is 15 years old, and may receive the ‘with child’ rate of payment. When Ashley turns 16, Ashley is granted Youth Allowance, but is still attending secondary school full-time. As Ashley is considered to still be a dependent child, Olivia may continue to receive the ‘with child’ rate of JSP.
+
+# This amount is equal to the maximum basic rate of PPS, plus pension supplement, and is payable to single JSP recipients who have an exemption from mutual obligation requirements under paragraphs 40P(2)(a) or (b) of the SS(Admin)Act. Recipients may be eligible for such an exemption if:
+
+they are a registered and active foster carer of a child, or children, for whom they are a principal carer
+they are the principal carer to at least 1 child under 16 years of age and a principal carer or main supporter (for children aged 18 years and under and in secondary school) of at least another 3 children
+they are a home educator of a child, or children, for whom they are the principal carer, or
+they are a distance educator of a child, or children, for whom they are the principal carer.
+
+Example: Sarah is a single principal carer parent in receipt of JSP and has 4 school aged children (Daphne 14, Sam 15, Daniel 17 and Greg 18), so is granted automatic exemptions from mutual obligation requirements and receives a basic rate of JSP that is equal to the maximum rate of PPS, plus pension supplement. On 15 December 2025, Sarah's eldest child Greg graduates from school and ceases to be a secondary pupil child. As Sarah is now only the principal carer parent or main supporter parent of 3 children, she is no longer qualified for a large family exemption and will no longer receive the JSP rate that is equal to the maximum rate of PPS, plus pension supplement. Sarah may receive the single with children rate of JSP.
+
+Note: This rate is not available to SpB recipients or to partnered recipients.
+
+Act reference: SSAct section 1068 Rate of JSP, section 1068-B5 Maximum basic rate for certain JSP recipients, section 1068-B1 Table B—Maximum basic rates, section 1068-B1AA Partial capacity to work—less than 15 hours per week of work, section 1068-B1A Certain children to be treated as dependent children, section 746(4) Rate of SpB
+
+SS(Admin)Act section 40P Caring responsibilities
+
+Policy reference: SS Guide 5.1.4.10 PP - current rates, 3.7.1.80 Determining the rate of SpB
+
+Qualification for the 'with child' rate of payment where a person has at least 14% care of at least one child
+
+For the purpose of this section, a child must be under 16 years of age.
+
+Benefits are paid at a higher rate for single recipients with at least one dependent child. Alternatively, single recipients can qualify in certain circumstances for the 'with child' rate of payment where they do not have a dependent child but do have at least 14% care of a child over a relevant assessment period. While this provides for the MBR of payment to a person as if they had a dependent child, in all other respects, the person should not be considered to have a dependent child.
+
+This provision to access the 'with child' rate of payment in certain circumstances only applies to JSP and is covered in this topic.
+
+To determine if a person should qualify for the 'with child' rate of payment where they have at least 14% care of a child despite not having a dependent child see 1.1.D.70.
+
+Act reference: SSAct section 1068-B1B Certain children treated as dependent children if …
+
+Policy reference: SS Guide 1.1.D.70 Dependent child
+
+Indexation (1.1.I.100) of benefit rates
+
+These rates are indexed to changes in the CPI, other than as specified below in relation to single principal carers with an exemption from mutual obligation requirements, who receive a rate equal to the maximum rate of PPS, including pension supplement.
+
+The effective dates of indexation are 20 March and 20 September each year. The March indexation is based on the CPI change from June to December preceding the indexation date. The September indexation is based on the CPI change from December to June preceding the indexation date. If CPI fell in the period special rules apply.
+
+Act reference: SSAct Part 3.16 Indexation and adjustment of amounts
+
+Indexation of PPS (5.1.8.50)
+
+The MBR component of PPS is indexed to the higher amount resulting from:
+
+changes to the CPI, or
+25% of the annualised MTAWE.
+
+The pension supplement component is indexed to changes in the CPI. The effective dates of indexation are 20 March and 20 September each year.
+
+Timing of payments
+
+Payments are made fortnightly in arrears.
+
+Energy supplement
+
+Benefit recipients may be eligible for the ES - a tax exempt supplementary payment for qualified recipients of income support payments.
+
+Policy reference: SS Guide 3.15.2 ES - qualification & payability, 5.1.10.20 ES - current rates
+
+Partnered recipient treated as a single recipient
+
+SSAct section 24 enables a partnered recipient to be deemed not to be a member of a couple (1.1.M.120) for all purposes of the Act. The application of this provision is at the discretion of a delegate, and is explained in the referenced topic.
+
+Example: A JSP recipient with a partner who is serving a NARWP (1.1.N.70) may be deemed not to be a member of a couple, which means the JSP recipient may be treated as a single person.
+
+Act reference: SSAct section 24 Person may be treated as not being a member of a couple …
+
+Policy reference: SS Guide 2.2.5.40 Discretion to treat a person as not being a member of a couple for a special reason - section 24
+
+Partnered, one under age of consent
+
+If a benefit recipient is living in a member of a couple relationship with a person of the same sex or a different sex and one or both partners are under the age of consent in the state in which they live, they are not classified as partnered. However, the rate payable is not to exceed the rate payable if they were partnered. This means the rate is the partnered rate. The income and assets tests apply to all benefit recipients in this situation as though they were a couple.
+
+A PP recipient in this situation is paid PPS but the rate is not to exceed what would be payable under PPP. The person would be eligible for supplementary payments and concession cards available to recipients of PPS.
+
+Act reference: SSAct section 4(1)-'member of a couple', section 1068(2) If a person has a relationship …, section 1068A(3) If a person has a relationship with another person, whether of the same sex or a different sex …
+
+Partnered (illness separated, respite care, partner in gaol)
+
+A benefit recipient, including a partnered PP recipient, who is a member of an illness separated couple or has a partner in gaol, is normally paid at the higher single with dependent child maximum basic benefit rate but the income and assets tests apply as they normally would to a couple.
+
+A benefit recipient who is a member of a respite care couple is to be treated in the same way as a member of an illness separated couple.
+
+The following provision also applies:
+
+RA is payable at the single rate, using the single person's rent threshold, to each non-homeowner partner who is otherwise eligible.
+
+Where both partners reside in supported accommodation such as a shared unit in a hostel (1.1.H.90), illness separated provisions apply.
+
+Explanation: Hostel fees are calculated as a percentage of the single pension rate.
+
+Illness separated rate cannot be paid to a couple who are co-habiting under familial care arrangements. However, where one partner is in familial care and the other resides elsewhere, illness separated provisions apply subject to satisfactory evidence being provided that care is required.
+
+Act reference: SSAct section 1068B-C2 Maximum basic rate - benefit PPP, section 1068 Rate of JSP
+
+Policy reference: SS Guide 2.2.5.60 Determining an illness separated couple
+
+Last reviewed: 21 September 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/5/1/8/20#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/5/1/8/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+5.1 Current rates | https://guides.dss.gov.au/social-security-guide/5/1
+5.1.1 Jobseeker payment & youth allowance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1
+5.1.2 Other labour market & older students - current rates | https://guides.dss.gov.au/social-security-guide/5/1/2
+5.1.3 Retirement & widows - current rates | https://guides.dss.gov.au/social-security-guide/5/1/3
+5.1.4 Families & parenting - current rates | https://guides.dss.gov.au/social-security-guide/5/1/4
+5.1.5 Disability & carer - current rates | https://guides.dss.gov.au/social-security-guide/5/1/5
+5.1.6 Special payments - current rates | https://guides.dss.gov.au/social-security-guide/5/1/6
+5.1.7 Supplementary benefits - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7
+5.1.8 Common rates tables | https://guides.dss.gov.au/social-security-guide/5/1/8
+5.1.8.10 Common pension rates | https://guides.dss.gov.au/social-security-guide/5/1/8/10
+5.1.8.20 Common benefit rates | https://guides.dss.gov.au/social-security-guide/5/1/8/20
+5.1.8.30 Common provisions affecting calculation of a rate | https://guides.dss.gov.au/social-security-guide/5/1/8/30
+5.1.8.40 Pension reform - transitional arrangements | https://guides.dss.gov.au/social-security-guide/5/1/8/40
+5.1.8.50 Common provisions affecting indexation of pensions | https://guides.dss.gov.au/social-security-guide/5/1/8/50
+5.1.8.60 Transition to JSP - transitional arrangements for former recipients of WP | https://guides.dss.gov.au/social-security-guide/5/1/8/60
+5.1.9 Pension supplement - current rates | https://guides.dss.gov.au/social-security-guide/5/1/9
+5.1.10 Energy assistance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/10
+5.2 Historical rates | https://guides.dss.gov.au/social-security-guide/5/2
+5.3 Taxation | https://guides.dss.gov.au/social-security-guide/5/3
+5.4 Advance payments | https://guides.dss.gov.au/social-security-guide/5/4
+5.5 Samples of rate calculations | https://guides.dss.gov.au/social-security-guide/5/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F5%2F1%2F8%2F20
+1.2.7 | https://guides.dss.gov.au/social-security-guide/1/2/7
+1.1.I.04 | https://guides.dss.gov.au/social-security-guide/1/1/i/04
+1.1.R.240 | https://guides.dss.gov.au/social-security-guide/1/1/r/240
+1.1.P.85 | https://guides.dss.gov.au/social-security-guide/1/1/p/85
+JSP | https://guides.dss.gov.au/social-security-guide/acronyms#jsp
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+SpB | https://guides.dss.gov.au/social-security-guide/acronyms#spb
+5.1.4.10 | https://guides.dss.gov.au/social-security-guide/5/1/4/10
+3.7.1.80 | https://guides.dss.gov.au/social-security-guide/3/7/1/80
+MBR | https://guides.dss.gov.au/social-security-guide/acronyms#mbr
+1.1.D.70 | https://guides.dss.gov.au/social-security-guide/1/1/d/70
+1.1.I.100 | https://guides.dss.gov.au/social-security-guide/1/1/i/100
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+5.1.8.50 | https://guides.dss.gov.au/social-security-guide/5/1/8/50
+MTAWE | https://guides.dss.gov.au/social-security-guide/acronyms#mtawe
+ES | https://guides.dss.gov.au/social-security-guide/acronyms#es
+3.15.2 | https://guides.dss.gov.au/social-security-guide/3/15/2
+5.1.10.20 | https://guides.dss.gov.au/social-security-guide/5/1/10/20
+1.1.M.120 | https://guides.dss.gov.au/social-security-guide/1/1/m/120
+NARWP | https://guides.dss.gov.au/social-security-guide/acronyms#narwp
+1.1.N.70 | https://guides.dss.gov.au/social-security-guide/1/1/n/70
+2.2.5.40 | https://guides.dss.gov.au/social-security-guide/2/2/5/40
+PP | https://guides.dss.gov.au/social-security-guide/acronyms#pp
+PPP | https://guides.dss.gov.au/social-security-guide/acronyms#ppp
+RA | https://guides.dss.gov.au/social-security-guide/acronyms#ra
+1.1.H.90 | https://guides.dss.gov.au/social-security-guide/1/1/h/90
+2.2.5.60 | https://guides.dss.gov.au/social-security-guide/2/2/5/60
+Contact us | https://guides.dss.gov.au/contact-us

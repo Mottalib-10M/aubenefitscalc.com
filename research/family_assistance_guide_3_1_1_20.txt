@@ -1,0 +1,255 @@
+https://guides.dss.gov.au/family-assistance-guide/3/1/1/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.1.1.20 Current FTB rates & income test amounts
+Summary
+
+This topic includes:
+
+FTB Part A standard rates
+FTB Part A supplement
+FTB Part B standard rates
+FTB Part B supplement
+FTB Part B primary income earner limit (1.1.I.45)
+income free area
+higher income free area
+maintenance income free area
+newborn supplement
+newborn upfront payment
+energy supplement, and
+multiple birth allowance.
+
+RA rates and thresholds and the MIFA are covered in the references below.
+
+Policy reference: FA Guide 3.1.4.30 Rent assistance, 3.1.7.10 Maintenance income test - general provisions, 3.6.1 FTB Part A - historical rates
+
+FTB Part A standard rates (1.1.S.103)
+
+The standard rate of FTB Part A is the maximum annual amount payable for all FTB children based on their age without including the supplements and without applying the maintenance income test or the relevant income test.
+
+The table below shows the current standard rates of FTB Part A per year (not including the supplement).
+
+FTB child rate	Amount ($ p.a.)	Rate calculation method
+FTB Part A standard rate (child under 13 years)	6,139.30	Method 1
+
+FTB Part A standard rate (child 13 to 15 years), or
+FTB Part A standard rate (child 16 to 19 years who is a senior secondary school child (1.1.S.27))
+	7,989.85	Method 1
+FTB Part A standard rate	1,971.00	Method 2
+FTB Part A (ACO rate)	1,971.00	Not income tested. ACOs cannot be paid the FTB Part A supplement.
+
+Note: Conditions apply to the payment of FTB Part A. Where a child does not meet the immunisation or health check requirements (2.1.3), the FTB child rate may be reduced for each day during an FTB child rate reduction period (1.1.F.58).
+
+Act reference: FAAct section 58(1) Annual rate of FTB for individuals, section 58(2) Annual rate of FTB to approved care organisation, Schedule 1 clause 7 FTB Part A rate (Method 1) - Standard rate, Schedule 1 clause 26 FTB Part A rate (Method 2) - Standard rate, section 61A Reduction in FTB child rate unless health check requirement satisfied, section 61B Reduction in FTB child rate unless immunisation requirement satisfied
+
+Policy reference: FA Guide 3.1.4 FTB Part A rate calculation - Method 1, 3.1.8 FTB Part A rate calculation - Method 2, 2.1.3 Immunisation & health check requirements
+
+FTB Part A supplement
+
+The FTB Part A supplement is part of the annual rate of FTB Part A for each FTB child. The current maximum FTB Part A supplement is $970.90. The supplement is only available to an individual after the end of the financial year after FTB has been reconciled. Payment of the supplement is conditional on the individual and/or their partner lodging an income tax return (if required) or notifying Centrelink of their ATI if they and/or their partner are not required to lodge an income tax return.
+
+Note: If an individual's ATI (which includes the ATI of their partner, if any) is more than $80,000 for the relevant income year, then the individual's FTB Part A supplement in relation to that year will be nil.
+
+Note: The FTB Part A supplement, as well as other FTB top-up payments, may be used to offset an individual's outstanding FTB and/or CCS reconciliation debts and may also be used by the ATO to offset a tax debt. See 7.2.5.
+
+Act reference: FAAct Schedule 1 clause 38A Rate of FTB Part A supplement
+
+Policy reference: FA Guide 1.1.H.05 Healthy start for school child health check, 1.1.I.10 Immunisation requirements (FTB, CCS)
+
+FTB Part B standard rates
+
+The standard rate of FTB Part B is the maximum annual amount payable for a child based on their age without including the supplement and without applying the income test.
+
+The standard rate of FTB Part B is dependent on the individual's family situation. The table below shows the current standard rates of FTB Part B.
+
+FTB Part B standard rates	Amount ($ p.a.)
+Youngest FTB child is under 5 years	5,223.15
+Youngest FTB child is 5 to 13 years (couple families)	3,646.35
+Youngest FTB child is 5 to 18 years (single parents, grandparents and great-grandparents)	3,646.35
+
+Note: The rate of FTB Part B is nil for couple families with a youngest child aged 13 years or older.
+
+Act reference: FAAct Schedule 1 clause 28D Member of a couple whose youngest FTB child has turned 13, Schedule 1 clause 30 FTB Part B rate - Standard rate
+
+FTB Part B supplement
+
+The FTB Part B supplement is part of the maximum rate and base rate of FTB Part B. The current maximum FTB Part B supplement is $478.15 per family. The supplement is only available after the end of the income year after FTB has been reconciled. Payment of the supplement is dependent on an individual and/or their partner lodging an income tax return (if required) or notifying Centrelink of their ATI if they and/or their partner are not required to lodge an income tax return.
+
+Note: The FTB Part B supplement, as well as other FTB top-up payments, may be used to offset an individual's outstanding FTB and/or CCS reconciliation debts and may also be used by the ATO to offset a tax debt. See 7.2.5.
+
+Act reference: FAAct Schedule 1 clause 31A Rate of FTB Part B supplement
+
+FTB Part B primary earner income limit
+
+To be eligible for FTB Part B a primary income earner (1.1.P.122) must have an ATI (1.1.A.20) of no more than $124,327 per annum. This means, if the primary earner's income is greater than $124,327, the family is no longer eligible to receive FTB Part B. Single parent families with an income of $124,327 or less may be entitled to the maximum rate of FTB Part B.
+
+Income free area (1.1.I.40)
+
+A family with income above the income free area will have their rate of FTB reduced by the income test. The following table shows the income free area per year for FTB Part A and FTB Part B.
+
+Part	Income free area (up to & including this amount) ($ p.a.)
+FTB Part A	69,131
+FTB Part B	7,154
+
+Note: For FTB Part A, ATI includes a partner's (1.1.P.30) ATI for the relevant year if an individual is a member of a couple (1.1.M.50). For FTB Part B, the ATI of the secondary income earner (1.1.S.25) is only taken into account when the primary earner's ATI is at or below the income limit.
+
+Act reference: FAAct Schedule 1 clause 38N FTB Part A rate - Income free area, Schedule 1 clause 33 FTB Part B rate - Income free area
+
+Higher income free area (1.1.H.10)
+
+The higher income free area only applies to FTB Part A and is $123,078 for all families.
+
+Act reference: FAAct Schedule 1 clause 2 Higher income free area
+
+Policy reference: FA Guide 2.1.1.10 FTB child, 3.2 Adjusted taxable income
+
+Maintenance income free area (1.1.M.21)
+
+MIFA is the amount of maintenance income that is disregarded under the maintenance income test. The following table shows the current annual MIFA and the amount allowed for each additional FTB child attracting child support, depending on the family situation of the individual.
+
+Family situation	Basic amount ($ p.a.)	Additional amount ($ p.a.)
+Not a member of a couple	2,080.50	693.50
+Partnered, both members of the couple receiving maintenance income	4,161.00	693.50
+Partnered, only one member of the couple receiving maintenance income	2,080.50	693.50
+
+When calculating MIFA, the following children are excluded:
+
+children who are 16 years and older who are not senior secondary children, and
+children who do not attract child support.
+Newborn supplement
+
+NBS may be included as an add-on component for an individual's maximum rate (1.1.M.26) and base rate (1.1.B.10) of FTB Part A rate for a period of up to 13 weeks (91 days) for a newborn child or a child aged under one who becomes entrusted to the individual's care or a child who becomes entrusted to the individual's care as part an adoption process. See 3.11 for NBS rates.
+
+NBS is indexed annually.
+
+Act reference: FAAct Schedule 1 clause 35B Annualised rate of NBS, Schedule 1 clause 7 FTB Part A rate (Method 1) - Standard rate, Schedule 1 clause 26 FTB Part A rate (Method 2) - Standard rate
+
+Policy reference: FA Guide 3.1.4 FTB Part A rate calculation - Method 1, 3.1.8 FTB Part A rate calculation - Method 2, 1.2.18 Newborn supplement (NBS) - description, 2.2.3 NBS & NBU eligibility for individuals
+
+Newborn upfront payment
+
+If an individual is eligible for at least one day of NBS and is not excluded under the legislative instrument, an NBU is also paid in respect of the first day of NBS eligibility. The NBU is a separate amount to the NBS and is not included in calculating an eligible individual's FTB Part A rate. See 3.11 for NBU rates.
+
+NBU is indexed annually.
+
+Act reference: FAAct section 58AA NBU of FTB if NBS added into Part A rate, Schedule 1 clause 7 FTB Part A rate (Method 1) - Standard rate, Schedule 1 clause 26 FTB Part A rate (Method 2) - Standard rate
+
+Policy reference: FA Guide 3.1.4 FTB Part A rate calculation - Method 1, 3.1.8 FTB Part A rate calculation - Method 2, 1.2.18 Newborn supplement (NBS) - description, 2.2.3 NBS & NBU eligibility for individuals
+
+Energy supplement
+
+The ES is included in the standard amounts of FTB Part A and Part B for each FTB child and is calculated depending on child age (3.1.1.25). The ES is not indexed.
+
+Note: The ES ceased on 20 March 2017 for new FTB recipients. However, eligible individuals and ACOs may continue to be paid ES as part of their FTB rate under grandfathering rules. See 8.2.
+
+Multiple birth allowance
+
+MBA may be included as an add-on component for an individual's maximum rate of FTB Part A where the individual has 3 or more FTB children from the same birth. See 1.2.16 for MBA rates.
+
+Act reference: FAAct Schedule 1 clause 36 Eligibility for MBA, Schedule 1 clause 37 Rate of MBA
+
+Last reviewed: 1 July 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/1/1/20#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/1/1/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.1.1 Rate provisions for FTB | https://guides.dss.gov.au/family-assistance-guide/3/1/1
+3.1.1.10 Calculating a rate of FTB - overview | https://guides.dss.gov.au/family-assistance-guide/3/1/1/10
+3.1.1.20 Current FTB rates & income test amounts | https://guides.dss.gov.au/family-assistance-guide/3/1/1/20
+3.1.1.25 Current ES rates | https://guides.dss.gov.au/family-assistance-guide/3/1/1/25
+3.1.1.30 Shared care rate for FTB | https://guides.dss.gov.au/family-assistance-guide/3/1/1/30
+3.1.1.31 Shared care rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1/1/31
+3.1.1.32 Sharing FTB in blended families | https://guides.dss.gov.au/family-assistance-guide/3/1/1/32
+3.1.1.34 Sharing FTB for separated couples | https://guides.dss.gov.au/family-assistance-guide/3/1/1/34
+3.1.1.40 Calculating FTB bereavement payment | https://guides.dss.gov.au/family-assistance-guide/3/1/1/40
+3.1.1.50 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/1/1/50
+3.1.1.60 Indexation of FTB | https://guides.dss.gov.au/family-assistance-guide/3/1/1/60
+3.1.2 FTB rate for ACOs | https://guides.dss.gov.au/family-assistance-guide/3/1/2
+3.1.3 Apportioning income test reductions between FTB Part A components | https://guides.dss.gov.au/family-assistance-guide/3/1/3
+3.1.4 FTB Part A rate calculation - Method 1 | https://guides.dss.gov.au/family-assistance-guide/3/1/4
+3.1.5 Maintenance action test for FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/5
+3.1.6 Child support assessments & agreements | https://guides.dss.gov.au/family-assistance-guide/3/1/6
+3.1.7 Maintenance income test | https://guides.dss.gov.au/family-assistance-guide/3/1/7
+3.1.8 FTB Part A rate calculation - Method 2 | https://guides.dss.gov.au/family-assistance-guide/3/1/8
+3.1.9 FTB Part B rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1/9
+3.1.10 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/1/10
+3.1.11 Advance payment of FTB Part A | https://guides.dss.gov.au/family-assistance-guide/3/1/11
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F1%2F1%2F20
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+1.1.I.45 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/45
+RA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ra
+MIFA | https://guides.dss.gov.au/family-assistance-guide/acronyms#mifa
+3.1.4.30 | https://guides.dss.gov.au/family-assistance-guide/3/1/4/30
+3.1.7.10 | https://guides.dss.gov.au/family-assistance-guide/3/1/7/10
+3.6.1 | https://guides.dss.gov.au/family-assistance-guide/3/6/1
+1.1.S.103 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/103
+1.1.S.27 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/27
+ACO | https://guides.dss.gov.au/family-assistance-guide/acronyms#aco
+2.1.3 | https://guides.dss.gov.au/family-assistance-guide/2/1/3
+1.1.F.58 | https://guides.dss.gov.au/family-assistance-guide/1/1/f/58
+3.1.4 | https://guides.dss.gov.au/family-assistance-guide/3/1/4
+3.1.8 | https://guides.dss.gov.au/family-assistance-guide/3/1/8
+ATI | https://guides.dss.gov.au/family-assistance-guide/acronyms#ati
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+ATO | https://guides.dss.gov.au/family-assistance-guide/acronyms#ato
+7.2.5 | https://guides.dss.gov.au/family-assistance-guide/7/2/5
+1.1.H.05 | https://guides.dss.gov.au/family-assistance-guide/1/1/h/05
+1.1.I.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/10
+1.1.P.122 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/122
+1.1.A.20 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/20
+1.1.I.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/40
+1.1.P.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/30
+1.1.M.50 | https://guides.dss.gov.au/family-assistance-guide/1/1/m/50
+1.1.S.25 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/25
+1.1.H.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/h/10
+2.1.1.10 | https://guides.dss.gov.au/family-assistance-guide/2/1/1/10
+3.2 | https://guides.dss.gov.au/family-assistance-guide/3/2
+1.1.M.21 | https://guides.dss.gov.au/family-assistance-guide/1/1/m/21
+NBS | https://guides.dss.gov.au/family-assistance-guide/acronyms#nbs
+1.1.M.26 | https://guides.dss.gov.au/family-assistance-guide/1/1/m/26
+1.1.B.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/b/10
+3.11 | https://guides.dss.gov.au/family-assistance-guide/3/11
+1.2.18 | https://guides.dss.gov.au/family-assistance-guide/1/2/18
+2.2.3 | https://guides.dss.gov.au/family-assistance-guide/2/2/3
+NBU | https://guides.dss.gov.au/family-assistance-guide/acronyms#nbu
+ES | https://guides.dss.gov.au/family-assistance-guide/acronyms#es
+3.1.1.25 | https://guides.dss.gov.au/family-assistance-guide/3/1/1/25
+8.2 | https://guides.dss.gov.au/family-assistance-guide/8/2
+MBA | https://guides.dss.gov.au/family-assistance-guide/acronyms#mba
+1.2.16 | https://guides.dss.gov.au/family-assistance-guide/1/2/16
+Contact us | https://guides.dss.gov.au/contact-us

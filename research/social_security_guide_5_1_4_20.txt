@@ -1,0 +1,116 @@
+https://guides.dss.gov.au/social-security-guide/5/1/4/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+5.1.4.20 PP - calculating a rate for PP - general
+Summary
+
+The maximum rate of PP for a recipient is affected by the following factors:
+
+whether they are a member of a couple (1.1.M.120)
+if they are partnered, whether they are an illness separated couple (1.1.I.04), respite care couple (1.1.R.240), or have a partner imprisoned (1.1.P.85)
+if they are in a de facto relationship but one or both partners are under the age of consent, and
+whether they attract RA, PhA or RAA.
+
+This topic explains the general factors that impact on the assessment of the rate of PP. A recipient who does not have a partner is treated under PPS rules and conditions. A recipient who has a partner, but has been determined under SSAct section 24 as not being a member of a couple, is also entitled to PPS. A recipient who is a member of a couple is treated under PPP rules and conditions.
+
+Act reference: SSAct section 1068A Rate of PP—pension PPS, section 1068B Rate of PP—PPP
+
+Policy reference: SS Guide 5.1.4.10 PP - current rates, 5.1.4.30 Calculating a rate of PP - partnered, 2.2.5 Verifying membership of a couple
+
+Partners living apart due to imprisonment, illness or respite care
+
+A recipient who is a member of an illness separated couple, respite care couple, or has a partner imprisoned is treated under PPP rules. The MBR of payment is the 'single, with child' rate, specified in the Common benefit rates.
+
+Act reference: SSAct section 1068B-C2 Maximum basic rate - benefit PPP
+
+Policy reference: SS Guide 2.2.5.80 Determining treatment of claimant/recipient with partner in gaol - general provisions, 5.1.8.20 Common benefit rates
+
+Recipient under the age of consent
+
+With the exception of a recipient who is legally married, a recipient is assessed under the PPS qualification and payability conditions, IF:
+
+they have a PP child
+they are in a de facto relationship, and
+EITHER party in the relationship is under the age of consent under the law of the state or territory in which they live.
+
+Explanation: A person who is in a de facto relationship is not regarded as a member of a couple, if either party is under the age of consent under the law of the state or territory in which they live.
+
+If a recipient is qualified for PPS because either they or their partner are under the age of consent, the rate payable cannot exceed the rate of PPP that would apply if they were regarded as a member of a couple.
+
+Payment made under this limitation is still regarded as PPS, EVEN IF the rate is the same as that applicable to a partnered recipient. This means that the rate payable contains PhA at the single rate.
+
+Act reference: SSAct section 1068A(3) If a person has a relationship …
+
+Policy reference: SS Guide 3.5.1.10 Qualification summary for PP, 5.1.4.30 Calculating a rate of PP - partnered
+
+Last reviewed: 3 November 2025
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/5/1/4/20#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/5/1/4/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+5.1 Current rates | https://guides.dss.gov.au/social-security-guide/5/1
+5.1.1 Jobseeker payment & youth allowance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/1
+5.1.2 Other labour market & older students - current rates | https://guides.dss.gov.au/social-security-guide/5/1/2
+5.1.3 Retirement & widows - current rates | https://guides.dss.gov.au/social-security-guide/5/1/3
+5.1.4 Families & parenting - current rates | https://guides.dss.gov.au/social-security-guide/5/1/4
+5.1.4.10 PP - current rates | https://guides.dss.gov.au/social-security-guide/5/1/4/10
+5.1.4.20 PP - calculating a rate for PP - general | https://guides.dss.gov.au/social-security-guide/5/1/4/20
+5.1.4.30 Calculating a rate of PP - partnered | https://guides.dss.gov.au/social-security-guide/5/1/4/30
+5.1.4.40 DOP - current rate | https://guides.dss.gov.au/social-security-guide/5/1/4/40
+5.1.4.50 DOP - additional component | https://guides.dss.gov.au/social-security-guide/5/1/4/50
+5.1.5 Disability & carer - current rates | https://guides.dss.gov.au/social-security-guide/5/1/5
+5.1.6 Special payments - current rates | https://guides.dss.gov.au/social-security-guide/5/1/6
+5.1.7 Supplementary benefits - current rates | https://guides.dss.gov.au/social-security-guide/5/1/7
+5.1.8 Common rates tables | https://guides.dss.gov.au/social-security-guide/5/1/8
+5.1.9 Pension supplement - current rates | https://guides.dss.gov.au/social-security-guide/5/1/9
+5.1.10 Energy assistance - current rates | https://guides.dss.gov.au/social-security-guide/5/1/10
+5.2 Historical rates | https://guides.dss.gov.au/social-security-guide/5/2
+5.3 Taxation | https://guides.dss.gov.au/social-security-guide/5/3
+5.4 Advance payments | https://guides.dss.gov.au/social-security-guide/5/4
+5.5 Samples of rate calculations | https://guides.dss.gov.au/social-security-guide/5/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F5%2F1%2F4%2F20
+PP | https://guides.dss.gov.au/social-security-guide/acronyms#pp
+1.1.M.120 | https://guides.dss.gov.au/social-security-guide/1/1/m/120
+1.1.I.04 | https://guides.dss.gov.au/social-security-guide/1/1/i/04
+1.1.R.240 | https://guides.dss.gov.au/social-security-guide/1/1/r/240
+1.1.P.85 | https://guides.dss.gov.au/social-security-guide/1/1/p/85
+RA | https://guides.dss.gov.au/social-security-guide/acronyms#ra
+PhA | https://guides.dss.gov.au/social-security-guide/acronyms#pha
+RAA | https://guides.dss.gov.au/social-security-guide/acronyms#raa
+PPS | https://guides.dss.gov.au/social-security-guide/acronyms#pps
+PPP | https://guides.dss.gov.au/social-security-guide/acronyms#ppp
+5.1.4.10 | https://guides.dss.gov.au/social-security-guide/5/1/4/10
+5.1.4.30 | https://guides.dss.gov.au/social-security-guide/5/1/4/30
+2.2.5 | https://guides.dss.gov.au/social-security-guide/2/2/5
+MBR | https://guides.dss.gov.au/social-security-guide/acronyms#mbr
+2.2.5.80 | https://guides.dss.gov.au/social-security-guide/2/2/5/80
+5.1.8.20 | https://guides.dss.gov.au/social-security-guide/5/1/8/20
+3.5.1.10 | https://guides.dss.gov.au/social-security-guide/3/5/1/10
+Contact us | https://guides.dss.gov.au/contact-us

@@ -1,0 +1,151 @@
+https://guides.dss.gov.au/social-security-guide/4/2/3
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+4.2.3 Pensions & benefits assets tests
+Introduction
+
+This section describes the assets test as it applies to pensions and benefits. For the purposes of this topic, assets value limits are referred to as assets free areas. This section covers the following matters:
+
+the pensions assets test
+how assets reduce pension payments
+the benefits assets test
+payments affected by the benefits assets test
+assets free areas, and
+asset disposal by a care receiver.
+Pensions assets test
+
+The pensions assets test applies to all pensions. The assets test is only applied where a person's assets exceed the assets free areas for full pension. If assets exceed the assets free areas, pension entitlement is assessed by:
+
+calculating the rate payable under the assets test, and
+comparing that with the rate payable under the income test.
+
+The assets test only applies if it produces a lower rate of payment than the income test. The following table shows the 4 steps involved in applying the assets test for pensions.
+
+Step	Action
+1	Determine the value of the person's assets (1.1.A.290).
+2	Determine the person's assets free area.
+3	
+
+Does the value of the person's assets exceed their assets free area?
+
+If NO, the person's assets excess is NIL.
+If YES, the difference is the ASSETS EXCESS.
+
+4	
+
+Determine the reduction for assets:
+
+Divide the assets excess by 250.
+Round the result DOWN to a whole number.
+Multiply the whole number by 19.5.
+
+RESULT: REDUCTION FOR ASSETS
+
+Act reference: SSAct section 1064-G1 Effect of assets on maximum payment rate, section 1064-G3 Assets value limit, section 1064-G4 Pension reduction for assets in excess of assets value limit
+
+Policy reference: SS Guide 4.6 Assets, 5.5.1 Samples of pension rate calculations
+
+How assets reduce pension payments
+
+From 1 January 2017, every $1,000 in assets over the assets free area reduces a pensioner's asset tested pension rate by $3 per fortnight (single or couple combined).
+
+Benefits assets test
+
+The benefits assets test is not the same as the pension assets test. Payments affected by the benefits assets test are NOT payable if a person's assets exceed the assets free area.
+
+Payments affected by the benefits assets test
+
+The following payments are affected by the benefits assets test:
+
+jobseeker payment
+youth allowance
+austudy payment
+special benefit
+parenting payment (partnered), and
+parenting payment (single).
+
+Legislation covering the operation of the assets test and the assets value limits is contained in the relevant qualifications and payability, or rate calculator sections of the SSAct.
+
+Assets free areas
+
+Information on current assets free areas is available on the Services Australia website.
+
+Assets free areas are indexed from 1 July each year to increases in the CPI.
+
+Carer payment - disposal of assets by care receiver
+
+If a care receiver disposes of assets, the value of the disposed assets can be maintained as an asset if the care receiver:
+
+does not receive adequate payment for the assets, or
+disposed of the assets for the primary purpose of enabling a carer to qualify for CP.
+
+These situations are NOT likely to occur in most care receiver cases. These provisions DO NOT apply to any disposition before 9 May 1995, the date the change to CP eligibility on this basis was announced.
+
+Act reference: SSAct section 198F to section 198M Disposal of assets …
+
+Policy reference: SS Guide 4.1 Deprivation of income & assets, 4.2.5 CP income & assets tests
+
+Last reviewed: 12 August 2024
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/social-security-guide/4/2/3#content
+Skip to footer | https://guides.dss.gov.au/social-security-guide/4/2/3#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Social Security Guide | https://guides.dss.gov.au/social-security-guide
+What's new | https://guides.dss.gov.au/social-security-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/social-security-guide/1
+2 Claim verification | https://guides.dss.gov.au/social-security-guide/2
+3 Qualification & payability | https://guides.dss.gov.au/social-security-guide/3
+4 Income & assets | https://guides.dss.gov.au/social-security-guide/4
+4.1 Deprivation of income & assets | https://guides.dss.gov.au/social-security-guide/4/1
+4.2 Means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2
+4.2.1 Pension income test & additional free area for dependent children | https://guides.dss.gov.au/social-security-guide/4/2/1
+4.2.2 Benefits income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/2
+4.2.3 Pensions & benefits assets tests | https://guides.dss.gov.au/social-security-guide/4/2/3
+4.2.4 PP means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/4
+4.2.5 CP income & assets tests | https://guides.dss.gov.au/social-security-guide/4/2/5
+4.2.6 SpB income test & limits | https://guides.dss.gov.au/social-security-guide/4/2/6
+4.2.7 DRA income test | https://guides.dss.gov.au/social-security-guide/4/2/7
+4.2.8 YA means tests & limits | https://guides.dss.gov.au/social-security-guide/4/2/8
+4.2.9 CA Income Test | https://guides.dss.gov.au/social-security-guide/4/2/9
+4.3 Ordinary income | https://guides.dss.gov.au/social-security-guide/4/3
+4.4 Deeming provisions | https://guides.dss.gov.au/social-security-guide/4/4
+4.5 Employment income earned between 1 July 1991 & 6 December 2020 (income apportionment) | https://guides.dss.gov.au/social-security-guide/4/5
+4.6 Assets | https://guides.dss.gov.au/social-security-guide/4/6
+4.7 Business Structures, Primary Production & pre-01/01/2002 Assessment of Trusts & Private Companies | https://guides.dss.gov.au/social-security-guide/4/7
+4.8 Superannuation funds | https://guides.dss.gov.au/social-security-guide/4/8
+4.9 Income streams | https://guides.dss.gov.au/social-security-guide/4/9
+4.10 Historical income & assets limits & information | https://guides.dss.gov.au/social-security-guide/4/10
+4.11 Number not currently in use | https://guides.dss.gov.au/social-security-guide/4/11
+4.12 Means Test Treatment of Private Trusts & Private Companies from 01/01/2002 | https://guides.dss.gov.au/social-security-guide/4/12
+4.13 Compensation | https://guides.dss.gov.au/social-security-guide/4/13
+4.14 Means test concessions for special disability trusts | https://guides.dss.gov.au/social-security-guide/4/14
+5 Payment rates | https://guides.dss.gov.au/social-security-guide/5
+6 Review of decisions, circumstances & debts | https://guides.dss.gov.au/social-security-guide/6
+7 Portability & comparable foreign payment (CFP) | https://guides.dss.gov.au/social-security-guide/7
+8 Administration Act Provisions | https://guides.dss.gov.au/social-security-guide/8
+9 Citizenship, visas & assurances of support | https://guides.dss.gov.au/social-security-guide/9
+10 Australian Social Security Agreements | https://guides.dss.gov.au/social-security-guide/10
+11 Income management | https://guides.dss.gov.au/social-security-guide/11
+12 Enhanced income management regime | https://guides.dss.gov.au/social-security-guide/12
+Acronym/initialism list | https://guides.dss.gov.au/social-security-guide/acronyms
+Keyword index | https://guides.dss.gov.au/social-security-guide/keywords
+Act reference index | https://guides.dss.gov.au/social-security-guide/act-references
+Site map | https://guides.dss.gov.au/social-security-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Fsocial-security-guide%2F4%2F2%2F3
+1.1.A.290 | https://guides.dss.gov.au/social-security-guide/1/1/a/290
+4.6 | https://guides.dss.gov.au/social-security-guide/4/6
+5.5.1 | https://guides.dss.gov.au/social-security-guide/5/5/1
+CPI | https://guides.dss.gov.au/social-security-guide/acronyms#cpi
+CP | https://guides.dss.gov.au/social-security-guide/acronyms#cp
+4.1 | https://guides.dss.gov.au/social-security-guide/4/1
+4.2.5 | https://guides.dss.gov.au/social-security-guide/4/2/5
+Contact us | https://guides.dss.gov.au/contact-us

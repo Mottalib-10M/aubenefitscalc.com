@@ -1,0 +1,180 @@
+https://guides.dss.gov.au/family-assistance-guide/3/6/2
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.6.2 FTB rent assistance - historical rates & thresholds
+Summary
+
+This topic contains historical rates and thresholds of FTB RA.
+
+Rate of RA
+
+The rate of RA payable depends on the individual's circumstances. The following table shows the historical annual maximum rates for RA for various circumstances.
+
+Rate (p.a.) from	Individual is not a relevant shared carer and is:	Individual is a relevant shared carer and is:
+single, a couple or a couple (partner in gaol or illness separated or respite care couple or temporarily separated) with 1 to 2 children	single, a couple or a couple (partner in gaol or illness separated or respite care couple or temporarily separated) with 3 or more children	single or a couple (partner in gaol or illness separated or respite care couple)	couple or a couple (temporarily separated)
+01/07/2000	$2,587.85	$2,923.65	$2,215.55	$2,080.50
+20/09/2000	$2,631.65	$2,974.75	$2,252.05	$2,117.00
+20/03/2001	$2,686.40	$3,036.80	$2,299.50	$2,157.15
+20/09/2001	$2,737.50	$3,095.20	$2,343.30	$2,197.30
+20/03/2002	$2,770.35	$3,131.70	$2,372.50	$2,222.85
+20/09/2002	$2,814.15	$3,182.80	$2,409.00	$2,259.35
+20/03/2003	$2,854.30	$3,226.60	$2,441.85	$2,292.20
+20/09/2003	$2,890.80	$3,266.75	$2,474.70	$2,321.40
+20/03/2004	$2,923.65	$3,303.25	$2,500.25	$2,346.95
+20/09/2004	$2,963.80	$3,350.70	$2,536.75	$2,379.80
+20/03/2005	$3,000.30	$3,390.85	$2,565.95	$2,409.00
+20/09/2005	$3,040.45	$3,434.65	$2,598.80	$2,441.85
+20/03/2006	$3,084.25	$3,485.75	$2,638.95	$2,478.35
+20/09/2006	$3,160.90	$3,573.35	$2,704.65	$2,540.40
+20/03/2007	$3,186.45	$3,602.55	$2,726.55	$2,562.30
+20/09/2007	$3,226.60	$3,650.00	$2,763.05	$2,595.15
+20/03/2008	$3,281.35	$3,712.05	$2,810.50	$2,638.95
+20/09/2008	$3,372.60	$3,814.25	$2,890.80	$2,711.95
+20/03/2009	$3,401.80	$3,847.10	$2,916.35	$2,737.50
+20/09/2009	$3,423.70	$3,869.00	$2,934.60	$2,755.75
+20/03/2010	$3,474.80	$3,927.40	$2,978.40	$2,795.90
+20/09/2010	$3,525.90	$3,985.80	$3,022.20	$2,836.05
+20/03/2011	$3,566.05	$4,029.60	$3,055.05	$2,868.90
+20/09/2011	$3,653.65	$4,131.80	$3,131.70	$2,941.90
+20/03/2012	$3,675.55	$4,157.35	$3,149.95	$2,960.15
+20/09/2012	$3,697.45	$4,182.90	$3,168.20	$2,978.40
+20/03/2013	$3,755.85	$4,248.60	$3,219.30	$3,025.85
+20/09/2013	$3,785.05	$4,281.45	$3,244.85	$3,051.40
+20/03/2014	$3,858.05	$4,361.75	$3,306.90	$3,109.80
+20/09/2014	$3,898.20	$4,405.55	$3,339.75	$3,142.65
+20/03/2015	$3,923.75	$4,434.75	$3,361.65	$3,164.55
+20/09/2015	$3,956.60	$4,471.25	$3,387.20	$3,190.10
+20/03/2016	$3,989.45	$4,507.75	$3,412.75	$3,215.65
+20/09/2016	$3,996.75	$4,515.05	$3,420.05	$3,222.95
+20/03/2017	$4,047.85	$4,573.45	$3,463.85	$3,263.10
+20/09/2017	$4,073.40	$4,602.62	$3,485.75	$3,281.35
+20/03/2018	$4,128.15	$4,661.05	$3,529.55	$3,325.15
+20/09/2018	$4,161.00	$4,697.55	$3,558.75	$3,350.70
+20/03/2019	$4,201.15	$4,745.00	$3,595.25	$3,383.55
+20/09/2019	$4,226.70	$4,774.20	$3,617.15	$3,405.45
+20/03/2020	$4,277.80	$4,832.60	$3,660.95	$3,445.60
+20/03/2021	$4,317.95	$4,876.40	$3,693.80	$3,474.80
+20/09/2021	$4,380.00	$4,945.75	$3,744.90	$3,522.25
+20/03/2022	$4,471.25	$5,047.95	$3,825.20	$3,595.25
+20/09/2022	$4,650.10	$5,248.70	$3,978.50	$3,737.60
+20/03/2023	$4,821.65	$5,442.15	$4,124.50	$3,876.30
+20/09/2023	$5,664.80	$6,398.45	$4,850.85	$4,555.20
+20/03/2024	$5,767.00	$6,515.25	$4,938.45	$4,635.50
+20/09/2024	$6,471.45	$7,310.95	$5,540.70	$5,201.25
+20/03/2025	$6,497.00	$7,340.15	$5,562.60	$5,223.15
+20/09/2025	$6,599.20	$7,456.95	$5,650.20	$5,307.10
+20/03/2026	$6,723.30	$7,599.30	$5,756.05	$5,409.30
+20/09/2026	$6,858.35	$7,752.60	$5,872.85	$5,518.80
+RA rent thresholds
+
+Individuals must pay a minimum amount of private rent before they can become eligible for RA. This minimum amount is the rent threshold and varies depending on the individual's circumstances. The following table shows the historical annual rent thresholds for RA.
+
+Threshold (p.a.) from	Individual is not a relevant shared carer and is:	Individual is a relevant shared carer and is:
+single, or a couple (partner in gaol or illness separated or respite care or temporarily separated couple)	partnered	single or a couple (partner in gaol or illness separated or respite care or temporarily separated couple)	partnered
+01/07/2000	$2,529.45	$3,744.90	$1,923.55	$3,135.35
+20/09/2000	$2,573.25	$3,806.95	$1,956.40	$3,190.10
+20/03/2001	$2,675.45	$3,960.25	$2,033.05	$3,317.85
+20/09/2001	$2,726.55	$4,036.90	$2,073.20	$3,379.90
+20/03/2002	$2,759.40	$4,084.35	$2,098.75	$3,420.05
+20/09/2002	$2,803.20	$4,150.05	$2,131.60	$3,474.80
+20/03/2003	$2,843.35	$4,208.45	$2,160.80	$3,522.25
+20/09/2003	$2,879.85	$4,263.20	$2,190.00	$3,569.70
+20/03/2004	$2,912.70	$4,310.65	$2,215.55	$3,609.85
+20/09/2004	$2,952.85	$4,372.70	$2,244.75	$3,660.95
+20/03/2005	$2,989.35	$4,423.80	$2,270.30	$3,704.75
+20/09/2005	$3,029.50	$4,482.20	$2,299.50	$3,752.20
+20/03/2006	$3,073.30	$4,547.90	$2,332.35	$3,806.95
+20/09/2006	$3,149.95	$4,661.05	$2,390.75	$3,901.85
+20/03/2007	$3,175.50	$4,697.55	$2,409.00	$3,934.70
+20/09/2007	$3,215.65	$4,759.60	$2,441.85	$3,985.80
+20/03/2008	$3,270.40	$4,839.90	$2,482.00	$4,055.15
+20/09/2008	$3,361.65	$4,974.95	$2,551.35	$4,168.30
+20/03/2009	$3,390.85	$5,018.75	$2,573.25	$4,204.80
+20/09/2009	$3,412.75	$5,047.95	$2,587.85	$4,230.35
+20/03/2010	$3,463.85	$5,124.60	$2,628.00	$4,292.40
+20/09/2010	$3,514.95	$5,201.25	$2,668.15	$4,358.10
+20/03/2011	$3,555.10	$5,259.65	$2,697.35	$4,405.55
+20/09/2011	$3,642.70	$5,391.05	$2,763.05	$4,515.05
+20/03/2012	$3,664.60	$5,423.90	$2,781.30	$4,540.60
+20/09/2012	$3,686.50	$5,456.75	$2,799.55	$4,566.15
+20/03/2013	$3,744.90	$5,544.35	$2,843.35	$4,639.15
+20/09/2013	$3,774.10	$5,588.15	$2,865.25	$4,675.65
+20/03/2014	$3,847.10	$5,694.00	$2,920.00	$4,763.25
+20/09/2014	$3,887.25	$5,752.40	$2,949.20	$4,810.70
+20/03/2015	$3,912.80	$5,792.55	$2,971.10	$4,843.55
+20/09/2015	$3,945.65	$5,840.00	$2,996.65	$4,883.70
+20/03/2016	$3,978.50	$5,887.45	$3,022.20	$4,923.85
+20/09/2016	$3,985.80	$5,898.40	$3,029.50	$4,934.85
+20/03/2017	$4,036.90	$5,975.05	$3,069.65	$5,000.50
+20/09/2017	$4,062.45	$6,011.55	$3,087.90	$5,029.70
+20/03/2018	$4,113.55	$6,088.20	$3,128.05	$5,095.40
+20/09/2018	$4,146.40	$6,135.65	$3,153.60	$5,135.55
+20/03/2019	$4,186.55	$6,197.70	$3,186.45	$5,186.65
+20/09/2019	$4,212.10	$6,234.20	$3,204.70	$5,219.50
+20/03/2020	$4,263.20	$6,307.20	$3,244.85	$5,281.55
+20/03/2021	$4,303.35	$6,365.60	$3,274.05	$5,329.00
+20/09/2021	$4,365.40	$6,453.20	$3,321.50	$5,402.00
+20/03/2022	$4,456.65	$6,588.25	$3,390.85	$5,515.15
+20/09/2022	$4,635.50	$6,851.05	$3,525.90	$5,734.15
+20/03/2023	$4,807.05	$7,102.90	$3,657.30	$5,945.85
+20/09/2023	$4,912.90	$7,259.85	$3,737.60	$6,077.25
+20/03/2024	$5,000.50	$7,391.25	$3,803.30	$6,186.75
+20/09/2024	$5,099.05	$7,540.90	$3,879.95	$6,310.85
+20/03/2025	$5,120.95	$7,570.10	$3,894.55	$6,336.40
+20/09/2025	$5,201.25	$7,690.55	$3,956.60	$6,438.60
+20/03/2026	$5,299.80	$7,836.55	$4,033.25	$6,562.70
+20/09/2026	$5,405.65	$7,993.50	$4,113.55	$6,694.10
+
+Policy reference: FA Guide 3.1.4.30 Rent assistance
+
+Last reviewed: 21 September 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/6/2#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/6/2#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.6.1 FTB Part A - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/1
+3.6.2 FTB rent assistance - historical rates & thresholds | https://guides.dss.gov.au/family-assistance-guide/3/6/2
+3.6.3 FTB Part B - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/3
+3.6.4 Maternity payments - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/4
+3.6.5 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/6/5
+3.6.6 Foreign exchange rate - historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F6%2F2
+FTB | https://guides.dss.gov.au/family-assistance-guide/acronyms#ftb
+RA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ra
+3.1.4.30 | https://guides.dss.gov.au/family-assistance-guide/3/1/4/30
+Contact us | https://guides.dss.gov.au/contact-us
