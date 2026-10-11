@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://au-centrelink.example";
-export const SITE_NAMES: Record<string, string> = {"en": "Household Payments AU"};
+export const SITE_URL = "https://aubenefitscalc.com";
+export const SITE_NAMES: Record<string, string> = {"en": "AU Benefits Calc"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-AU"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_AU"};
 export const LOCALE_TAG = 'en-AU';
@@ -16,7 +16,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners writes
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["Family Tax Benefit Part A and Part B", "Child Care Subsidy", "Commonwealth Rent Assistance", "JobSeeker Payment", "Youth Allowance and Austudy", "Parenting Payment", "Age Pension income and assets tests", "Carer Payment and Carer Allowance", "Paid Parental Leave"]};
-export const CONTACT_EMAIL = "contact@au-centrelink.example";
+export const CONTACT_EMAIL = "contact@aubenefitscalc.com";
 export const THEME_COLOR = '#00704A';
 export const LOGO_SYMBOL = '+$';
 export const BING_VERIFY_CODE = '';

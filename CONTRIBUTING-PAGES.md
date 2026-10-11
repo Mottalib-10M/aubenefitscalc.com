@@ -1,4 +1,4 @@
-# Écrire ou étoffer une page de « Household Payments AU » (au-centrelink)
+# Écrire ou étoffer une page de « AU Benefits Calc » (aubenefitscalc.com)
 
 Notice pour les agents qui écrivent une page. À lire en entier avant d'écrire, avec
 `~/Documents/GitHub/RECETTE-SITE.md` (§0, §6, §6.5, §7, §9, §9.3, §11, §17.4, §21, §26).
@@ -152,7 +152,7 @@ Un guide reçoit **le mini du tableau d'affectation** ; il peut en insérer un s
 ## Contrôles (à lancer avant de rendre la main)
 
 ```bash
-cd ~/Documents/GitHub/a-publier/Mottalib-10M/au-centrelink
+cd ~/Documents/GitHub/a-publier/Mottalib-10M/aubenefitscalc.com
 ALLOW_PLANNED=1 PAGE_FILES=jobseeker-income-test,age-pension-rates npx vitest run tests/pages.test.ts   # vos pages
 ```
 
