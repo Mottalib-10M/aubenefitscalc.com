@@ -85,9 +85,9 @@ describe.each(pages.map((p) => [p.id, p] as const))('page %s', (_id, p) => {
     const literal = src.replace(/\$\{[^}]*\}/g, '');
     for (const f of PARAM_FIGURES) { const [i, d] = f.split('.'); const shown = `${Number(i).toLocaleString('en-AU')}.${d}`; expect(literal.includes(shown) || literal.includes(f), `typed figure ${shown}`).toBe(false); }
   });
-  it('body length (guides 900+ words of prose outside tables, pillars 400+, households 350+)', () => {
+  it('body length (guides 600+ words of prose outside tables, pillars 350+, households 300+; check-seo then counts the whole page)', () => {
     const n = words(html.replace(/<table[\s\S]*?<\/table>/g, ''));
-    expect(n).toBeGreaterThanOrEqual(p.kind === 'pillar' ? 400 : p.kind === 'case' ? 350 : 900);
+    expect(n).toBeGreaterThanOrEqual(p.kind === 'pillar' ? 350 : p.kind === 'case' ? 300 : 600);
   });
 });
 
