@@ -1,0 +1,337 @@
+https://guides.dss.gov.au/family-assistance-guide/3/5/2/10
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.5.2.10 CCS - recognised participation - general
+Summary
+
+All CCS eligible families can get 72 hours of subsidised child care per fortnight. To be eligible for an increased hours result of 100 hours per fortnight, the parent and their partner (if they have one) must each complete over 48 hours of recognised participation per fortnight, be caring for an Aboriginal and Torres Strait Islander child, or have an exemption.
+
+This topic includes:
+
+hours of recognised participation
+subsidised hours for Aboriginal and Torres Strait Islander children
+ACCS and the CCS participation details
+recognised participation for CCS
+reporting hours of participation
+hours of participation do not need to coincide with child care hours
+combining participation types with other activities
+reasonable travel time
+casual or irregular work
+evidentiary requirements
+change in participation.
+
+Policy reference: FA Guide 3.5 CCS entitlement, 3.5.1 CCS - combined annual ATI, 3.5.3 CCS - hourly rate caps
+
+Hours of recognised participation
+
+To claim an increased hours result of 100 hours per fortnight, an individual (1.1.I.90) may report the level of recognised participation the individual, and their partner (1.1.P.30) if they have one, undertakes in a CCS fortnight (1.1.C.10). Unless otherwise specified, the subsidised hours results applies to all children in the family.
+
+The following table shows the number of subsidised hours of approved child care an individual is entitled to receive in a CCS fortnight based on their hours of recognised participation:
+
+* Hours of recognised participation	Subsidised hours per fortnight per child
+0 to 48 hours of recognised participation per fortnight	72 hours
+More than 48 hours of recognised participation per fortnight	100 hours
+
+*Exemptions apply
+
+Subsidised hours for Aboriginal & Torres Strait Islander children
+
+Families will get an increased hours result of 100 hours per fortnight for each Aboriginal and Torres Strait Islander child in their care. Families caring only for Aboriginal and Torres Strait Islander children will continue to need to identify the child as Aboriginal and Torres Strait Islander heritage but will not be required to report their hours of recognised participation to receive the 100 hours.
+
+Act reference: FAAct Schedule 2 clause 12 Increased hours result
+
+Policy reference: FA Guide 3.5.5 CCS & ACCS - exceptional circumstances
+
+ACCS & the CCS participation details
+
+Individuals who are eligible for ACCS (child wellbeing), ACCS (temporary financial hardship) and ACCS (grandparent) are exempt from reporting recognised participation details. Individuals eligible for these ACCS types will automatically be entitled to up to 100 hours of subsidised care per fortnight.
+
+Individuals will still be required to provide information on their participation:
+
+to determine the number of subsidised hours for children not covered by ACCS, or
+in case they need to access CCS once their certificate or determination finishes.
+
+If an individual has been receiving ACCS (child wellbeing) for 6 months or more they will not be required to report their recognised participation for a further 18 months for the child, once ACCS (child wellbeing) has ceased.
+
+Individuals eligible for the ACCS (transition to work) will need to report their hours of recognised participation.
+
+Act reference: FAAct Schedule 2 clause 11 Individual's subsidised hours result, clause 15 Child wellbeing result
+
+Policy reference: FA Guide 3.5.2.30 ACCS (transition to work) - recognised participation & subsidised hours result, 2.8.1.30 ACCS (child wellbeing) - certificates, 2.8.1.40 ACCS (child wellbeing) - determinations, 2.8.3.40 ACCS (temporary financial hardship) - determinations
+
+Recognised participation types for CCS
+
+The following participation types are recognised for an increased hours result of 100 hours:
+
+Recognised participation types	Considerations
+Paid work	
+Includes hours of paid work as an employee and/or self-employed.
+Individuals whose hours of paid work vary unpredictably from fortnight to fortnight can estimate their participation over a 3-month period (see reporting hours of participation below).
+Includes periods of paid leave such as parental leave, annual leave, long service leave, leave for illness or injury, or carer's leave.
+
+Individuals on paid leave will have their leave recognised for the same number of hours per fortnight as they worked immediately prior to being on leave.
+
+Example: If an individual was working 50 hours per fortnight immediately before their leave, they would (continue to) have a subsidised hours result of 100 hours per fortnight while on leave.
+Individuals who are self-employed and taking paid parental leave will only have this leave recognised if their business continues to operate and they have an intention to resume work in their business in the foreseeable future.
+
+Unpaid leave	
+
+Individuals on unpaid leave can have this time recognised for the same number of hours per fortnight as they worked immediately prior to commencing the unpaid leave period.
+
+Example: If an individual was working 60 hours per fortnight immediately before their leave, they would (continue to) have a subsidised hours result of 100 hours per fortnight while on leave.
+Unpaid leave is recognised for a maximum of 6 months.
+Customers are prompted to record a start date and an end date for their unpaid leave period as part of their CCS claim or claim management process with Centrelink.
+Individuals must intend to return to their employment at the end of the leave period.
+Unpaid parental leave is not time limited.
+Self-employed individuals may have unpaid parental leave recognised only where their business continues to operate during the leave period and they intend to resume work in their business.
+Workers engaged on a contract to contract basis or casually with a regular employer (or an employment agency) may have unpaid parental leave recognised where there is a reasonable expectation or intention of resuming work following the leave period.
+
+Approved course of education or study/Australian course of study	
+An individual may satisfy recognised participation requirements by being enrolled in, and actively working towards completing:
+an approved course of education or study, as defined in SSAct section 541B (secondary or tertiary courses determined in accordance with Student Assistance Act 1973 section 5D), which is explained in SS Guide 1.1.A.210.
+an Australian course of study, as defined in Tertiary Education Quality and Standards Agency Act 2011 section 5 and recognised under CCSMinRules section 23A.
+For both approved courses of study and Australian courses of study:
+contact hours and self-directed hours of study can be counted (CCSMinRules sections 28–29).
+Practicums or vocational placements are included.
+Term/semester breaks are included except the break following completion of the course.
+Breaks that arise because the individual defers starting or continuing the course of education or study are not included.
+
+Training to improve work skills and/or employment prospects	
+Includes contact hours and self-directed hours of study.
+Practicums or vocational placements are included.
+Includes term/semester breaks but excludes the term/semester break following completion of the course.
+Breaks that arise because the individual defers starting or continuing the training course are not included.
+
+Voluntary work	
+Includes voluntary work:
+that improves work skills, employment prospects (or both)
+for a charitable, welfare or community organisation
+at a school, preschool or CBDC service.
+
+If voluntary work is the only participation type being undertaken, the individual will be entitled to 72 hours of subsidised approved child care per fortnight as only the first 16 hours of voluntary work will be recognised per fortnight. To access further hours of subsidised approved child care the individual would need to combine their hours of voluntary work with one or more of the other recognised participation types and these must total more than 48 hours per fortnight combined.
+
+Example: An individual undertaking 20 hours of voluntary work per fortnight and no other recognised participation would be entitled to 72 hours of subsidised approved child care per fortnight as voluntary work is the only participation undertaken.
+
+Unpaid work experience or unpaid internship	
+Must not be work that would otherwise be undertaken by a paid employee.
+Must provide the individual with a meaningful learning experience, training or skill development.
+
+Must not be undertaken as a requirement for a course of education or study.
+
+Explanation: These placements should be recorded as hours of participating in an approved course of education or study or training to improve work skills and/or employment prospects.
+
+Unpaid work for a family business owned by an immediate family member	
+
+Each of the following is considered a member of the individual's immediate family:
+
+a parent of the individual
+a partner of a parent of the individual
+a partner of the individual
+a sibling of the individual, including any person (other than the individual) who is a child of a parent of the individual
+a child of the individual
+a partner of a child of the individual
+another particular member of the individual's family determined by the Secretary to be a member of the individual's immediate family for the purpose of this participation type.
+
+Each of the following is a child of the other person:
+
+an adopted child, or step-child of the other person, within the meaning of the SSAct section 1207A
+a foster-child or ward of the other person, including someone who was the ward of the other person when the ward was under 18 years of age
+someone who is a child of the other person within the meaning of the Family Law Act 1975 section 65A.
+
+Actively looking for work	
+An individual is actively looking for work if they engage in one or more of the following during the fortnight:
+looking for job vacancies
+preparing résumés and job applications
+contacting potential employers
+preparing for, and attending, job interviews.
+Includes individuals who are employed but looking for additional work or more permanent work (for example, casual workers seeking a permanent job).
+
+If actively looking for work is the only participation type being undertaken, the individual will be entitled to 72 hours of subsidised approved child care per fortnight as only the first 16 hours of actively looking for work will be recognised per fortnight. To be entitled to further hours of subsidised approved child care the individual would need to combine their hours of actively looking for work with one or more of the other recognised participation types and these must total more than 48 hours per fortnight combined.
+
+Example: An individual who is actively looking for work for 20 hours per fortnight and not undertaking any other recognised participation would be entitled to 72 hours of subsidised approved child care per fortnight as actively looking for work is the only participation type undertaken.
+
+Actively setting up a business	
+The individual must engage in one or more of the following in relation to the proposed business:
+obtaining finance, advice and support
+attending and organising events, including meetings, networks and seminars
+developing business, marketing or other plans.
+Actively setting up a business will only be recognised for a maximum of 13 fortnights in every 12 months.
+The participation does not need to be reported consecutively within the 12 months and may apply to more than one business.
+Recognised participation types combined with other activity
+
+In certain circumstances, recognised participation types may be combined with hours spent on other specified activities, to contribute toward an increased hours result.
+
+Recognised participation types	Considerations
+JSP, YA, SpB or PP with a compulsory mutual obligation requirement	
+Recipients (1.1.R.07) with a compulsory mutual obligation requirement will automatically be entitled to 72 hours of subsidised approved child care per fortnight as the basic subsidy amount.
+
+Recipients may combine their hours spent meeting their compulsory mutual obligation requirements with hours of recognised participation to achieve an increased hours result. If the combined hours of time spent on meeting mutual obligations and recognised participation total over 48 hours per fortnight, the individual will be eligible for a subsidised hours result of 100 hours.
+
+Example: An individual in receipt of JSP is spending 20 hours per fortnight attending interviews, approaching employers and writing applications to meet their compulsory mutual obligation requirements. This individual would be entitled to the basic subsidy amount of 72 hours per fortnight. In addition to the requirements in their job plan, this individual begins volunteering for 30 hours per fortnight with a local charity. Their 20 hours per fortnight to meet their mutual obligation requirements combined with 30 hours of unpaid voluntary work mean their hours of activity is 50 hours per fortnight, entitling them to 100 hours of subsidised care per fortnight.
+
+Carer allowance	
+CA recipients will automatically be entitled to 72 hours of subsidised approved child care per fortnight as the basic subsidy amount.
+CA recipients may combine their hours spent caring for another person with hours of recognised participation to achieve an increased hours result. If the combined hours of time spent on caring activity and recognised participation total over 48 hours per fortnight, the individual will be eligible for a subsidised hours result of 100 hours.
+Other participation
+
+If an individual undertakes another type of participation (not listed above) that would maintain or improve work skills or employment prospects (or both), they can make an application to Centrelink to have these hours of participation recognised for the purpose of the subsidised hours result.
+
+Act reference: FAAct Schedule 2 clause 12(2) What is recognised participation
+
+CCSMinRules Part 3 Division 3 Recognised participation, Part 3 Division 4 Minister's rules result
+
+SSAct section 5(1)-'adopted child', section 1207A-'child'
+
+Family Law Act 1975
+
+Policy reference: FA Guide 3.5.2.40 CCS - other recognised participation types
+
+Reporting hours of participation
+
+The following paragraphs explain how individuals should report the number of hours of recognised participation they undertake each fortnight.
+
+Hours of participation do not need to coincide with child care hours
+
+When declaring participation hours for CCS, the participation hours do not need to coincide with child care hours. For example, an individual undertaking work on the weekends will be entitled to CCS during the week.
+
+Combining participation
+
+Individuals can combine recognised participation and the individual's subsidised hours result is determined by counting all the hours of recognised participation undertaken in a fortnight.
+
+Example: Jane does paid work for 25 hours per fortnight, volunteers at her child's school for 16 hours per fortnight and does unpaid work in her family's business for 8 hours per fortnight. Jane's participation would be a combined total of 49 hours per fortnight, which would entitle her to 100 hours of subsidised approved child care per fortnight.
+
+Reasonable travel time
+
+To support the various distances families need to travel for child care, individuals can include reasonable travel time when declaring their hours of participation. This is the time taken travelling from the approved child care service to the place where they do the participation and travel from this place back to the child care service.
+
+Travel time where the child is in the care of the individual should not be included when reporting hours of participation, this means:
+
+travel from home to the child care service to drop the child off, and
+travel time from the service to home or other locations after collecting the child.
+
+To inform consideration of reasonable travel time, individuals should consider how long it takes to reach their place of work or other participation type directly from the child care service, and vice versa. Travel time can include travel via a car, bicycle, public transport and/or walking where appropriate.
+
+If the place of work or other participation varies day-to-day, individuals should take this into account when estimating total travel time on a fortnightly basis.
+
+Example: Nadia is a single parent who lives in Western Sydney and works 7 hours a day in a financial services office near the Sydney CBD. Nadia's son Jason attends an early childhood education and care (ECEC) service close to the family home. After she drops Jason at the service, it takes Nadia one hour to drive directly to her workplace and one hour to return. Nadia bases her participation estimate on 9 hours per day - 7 hours of work and 2 hours of travel.
+
+Example: Kate works as a beauty therapist for 6 hours a day in Canberra. Her son Cale attends a ECEC service near the family home. After dropping off her son at the service, Kate has a 30 minute drive to the salon. After finishing her shift, she goes to the gym for an hour-long workout before returning to the service to collect her son. Kate's participation estimate of 7 hours per day includes her hours of work and her 30-minute travel time to and from the service - 6 hours of work and one hour of travel. Kate's travel time estimate, however, cannot include her hour at the gym.
+
+Timing of entitlement to increased hours result
+
+Individuals notifying Centrelink of a change in their participation that will entitle them to an increased hours result will have their increased hours result apply from the beginning of the next CCS fortnight.
+
+Paid work that varies unpredictably
+
+An individual whose hours of paid work vary unpredictably from fortnight to fortnight (such as those in casual employment) can estimate the highest number of hours they expect to work in a single fortnight over a 3‑month period. This estimate will be used to determine their hours of subsidised approved child care per fortnight. Estimating hours on this basis will not be needed by workers with a consistent number of fortnightly hours (who will be required to report their actual hours of activity), and this approach can only be applied to report unpredictable hours of paid work (not for other types of recognised participation).
+
+Example: Suzie is a single parent working at a supermarket. Her hours per fortnight can vary from 15 (2 shifts per fortnight) to 60 (8 shifts per fortnight). Occasionally she can also be called in to work at short notice for extra shifts if they are short staffed on the day.
+
+Suzie's working hours across 6 fortnights range from 15 hours to 60 hours per fortnight - this would ordinarily give her a subsidised hours result of 72 hours, depending on the hours she worked in that fortnight.
+
+To support her estimated maximum hours of paid work with access to sufficient hours of subsidised approved child care, Suzie would declare an estimate of 60 hours of paid work per fortnight and would be entitled to 100 hours of subsidised child care per fortnight .
+
+Example: Milli works 2 casual jobs in the fast food industry. Her total hours can vary significantly across fortnights - in some fortnights she may not work at all, while in others she can be assigned up to 5 four hour shifts.
+
+Milli's working hours across 6 fortnights range from 0 hours to 20 hours per fortnight. As Milli’s hours are below 48 hours per fortnight, Milli would not be required to report her participation and would automatically be entitled to 72 hours of subsidised child care in each fortnight.
+
+Individuals who estimate participation in this way will need to notify Centrelink of a change where their level of participation, estimated over 3 months, would cause their subsidised hours result to change. This would include, for example, where the individual stopped working altogether or where the basis of their 3-month estimate has changed and needs to be updated. In the first example, if Suzie moved to a permanent arrangement of two 7.5 hour shifts per fortnight (15 hours of paid work per fortnight), she should notify Centrelink as this would result in her subsidised hours result changing from 100 hours to 72 hours of subsidised care per fortnight.
+
+Evidentiary requirements
+
+Individuals self-declare participation to Centrelink and generally evidence is not required at the time of claim or when updating their participation information. Centrelink will ask some individuals to provide evidence as part of their normal random spot checks.
+
+Evidence could include, a copy of a payslip or a letter from the organisation where the individual is a volunteer.
+
+Change in participation
+
+When an individual (or their partner) experiences a change in participation that would affect their entitlement, they are required to notify Centrelink as soon as possible.
+
+If an individual reports a change in participation in advance of the change occurring, the new subsidised hours result will take effect from the beginning of the CCS fortnight after the change occurred.
+
+If the individual reports a change in participation after the change occurred, the change will take effect from the beginning of the CCS fortnight after the change was notified.
+
+If the change in subsidised hours result is beneficial to the individual (for example, it caused the individual to be entitled to an increased hours result of 100 hours) a review will be conducted, but the increased hours result will only be applied for a maximum of 28 days prior to the change being reported to Centrelink.
+
+If the change is not beneficial to the individual, for example, it caused the individual to move from 100 hours of subsidised care per fortnight to 72 hours, a review will be conducted, and the lower result will be applied as far back as the change occurred. That is, if the individual reports the change 6 months late they may incur a debt in relation to payments already calculated and made on the basis that they had access to more hours of subsidised care than they were in fact entitled to, for that whole period.
+
+Act reference: FAAct Schedule 2 clause 12(7) Changes in the number of hours of recognised participation
+
+FA(Admin)Act section 67FB Notice of change of circumstances: individuals, section 105C Review of entitlement to be paid CCS or ACCS-taking account of changes of circumstances etc.
+
+Policy reference: FA Guide 5.2.1.40 CCS & ACCS - change in participation/income
+
+Last reviewed: 11 May 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/5/2/10#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/5/2/10#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 CCS - combined annual ATI | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.2 CCS - recognised participation | https://guides.dss.gov.au/family-assistance-guide/3/5/2
+3.5.2.10 CCS - recognised participation - general | https://guides.dss.gov.au/family-assistance-guide/3/5/2/10
+3.5.2.20 CCS - recognised participation exemptions | https://guides.dss.gov.au/family-assistance-guide/3/5/2/20
+3.5.2.30 ACCS (transition to work) - recognised participation & subsidised hours result | https://guides.dss.gov.au/family-assistance-guide/3/5/2/30
+3.5.2.40 CCS - other recognised participation types | https://guides.dss.gov.au/family-assistance-guide/3/5/2/40
+3.5.3 CCS - hourly rate caps | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+3.5.4 Calculating CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5/4
+3.5.5 CCS & ACCS - exceptional circumstances | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F5%2F2%2F10
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+ACCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#accs
+3.5 | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.3 | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+1.1.I.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/90
+1.1.P.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/30
+1.1.C.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/c/10
+3.5.5 | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.5.2.30 | https://guides.dss.gov.au/family-assistance-guide/3/5/2/30
+2.8.1.30 | https://guides.dss.gov.au/family-assistance-guide/2/8/1/30
+2.8.1.40 | https://guides.dss.gov.au/family-assistance-guide/2/8/1/40
+2.8.3.40 | https://guides.dss.gov.au/family-assistance-guide/2/8/3/40
+1.1.A.210 | https://guides.dss.gov.au/social-security-guide/1/1/a/210
+CBDC | https://guides.dss.gov.au/family-assistance-guide/acronyms#cbdc
+JSP | https://guides.dss.gov.au/family-assistance-guide/acronyms#jsp
+YA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ya
+SpB | https://guides.dss.gov.au/family-assistance-guide/acronyms#spb
+PP | https://guides.dss.gov.au/family-assistance-guide/acronyms#pp
+1.1.R.07 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/07
+CA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ca
+3.5.2.40 | https://guides.dss.gov.au/family-assistance-guide/3/5/2/40
+5.2.1.40 | https://guides.dss.gov.au/family-assistance-guide/5/2/1/40
+Contact us | https://guides.dss.gov.au/contact-us

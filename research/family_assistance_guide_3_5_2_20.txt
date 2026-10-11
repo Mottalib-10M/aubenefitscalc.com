@@ -1,0 +1,131 @@
+https://guides.dss.gov.au/family-assistance-guide/3/5/2/20
+The Guides to Social Policy Law is a collection of publications designed to assist decision makers administering social policy law. The information contained in this publication is intended only as a guide to relevant legislation/policy. The information is accurate as at the date listed at the bottom of the page, but may be subject to change. To discuss individual circumstances please contact Services Australia.
+
+3.5.2.20 CCS - recognised participation exemptions
+Summary
+
+Individuals (1.1.I.90) eligible for CCS and experiencing the following circumstances will receive an entitlement (1.1.E.30) to an increased hours result of 100 hours per fortnight without needing to report recognised participation:
+
+Exemption applies in these circumstances	Considerations
+Individual has a disability or impairment	Individuals with a disability or impairment (1.1.D.80) where the individual is unable to engage in recognised participation to any significant degree, or would be unable to adequately care for the child if the child did not attend sessions of care (1.1.S.40) at an approved child care service.
+Individual is temporarily outside Australia	
+
+Individuals who are living or travelling outside Australia (1.1.A.10).
+
+This exemption can generally only apply for a maximum of 6 weeks. After 6 weeks outside Australia, SSAct portability (1.1.P.90) rules will generally apply and the individual's eligibility for CCS will be affected, noting extensions to the portability rules may be granted in certain circumstances.
+
+This exemption is not time limited if it is the individual's partner (1.1.P.30) who is outside Australia.
+
+
+JSP, YA, SpB or PP, exempt from mutual obligation requirements	
+
+This exemption does not apply where income support recipients (1.1.R.07) have an exemption from their mutual obligations because the individual is a home educator, distance educator or because of the number of children for whom the individual is the principal carer or main supporter (large families).
+
+This exemption also does not apply where income support recipients do not have a mutual obligation requirement attached to their payment as they are the primary care giver to one or more children under the age of 6 years.
+
+
+Individual is in gaol or in psychiatric confinement because they have been charged with an offence	
+
+Gaol has the same meaning as the SSAct section 23(5). A person is in gaol if:
+
+the person is being lawfully detained (in prison or elsewhere) while under sentence for conviction of an offence and not on release on parole or licence, or
+the person is undergoing a period of custody pending trial or sentencing for an offence.
+
+Individual receives a CP	If the individual also receives CA under the SSAct, the CP exemption applies as this provides an increased hours result.
+Individual provides constant care for an adult or child but they or the person they care for do not meet the income or assets tests for CP	
+
+Constant care is defined in the SS Guide (1.1.C.310) for the purposes of CP in the following way:
+
+A carer is said to be providing constant care if they personally provide care on a daily basis for a 'significant period' during each day. The care may be active, supervisory or monitoring.
+To provide care on a daily basis for a significant period, a carer should reasonably be expected to provide at least the equivalent of a normal working day in personal care, as the policy intent of providing CP is to recognise that the carer is not able to undertake substantial employment because of their caring responsibilities.
+
+Individual or their partner is the grandparent or great-grandparent and principal carer of the child	
+
+Applies to grandparents and great-grandparents who are the principal carers of their grandchild/ren or great-grandchild/ren but do not receive an income support payment (1.1.I.50) and therefore are not eligible to receive ACCS (grandparent).
+
+The grandparent or great-grandparent is the principal carer of the child if they or their partner:
+
+provide all or at least 65% of ongoing daily care for the child/ren, and
+have substantial autonomy for the day‑to‑day decisions about the child/ren's care, welfare and development during the week in which entitlement is being determined.
+
+Documentary evidence is required to establish that the individual or their partner is the principal carer and their relationship to the child/ren.
+
+The exemption only applies in relation to the grandchild/ren and great-grandchild/ren for which the individual is the principal carer. Grandparents and great-grandparents wishing to access CCS for other grandchild/ren and great-grandchild/ren for whom they are not the principal carer, or for their own biological children, will need to undertake sufficient hours of recognised participation in order to receive a subsidised hours result of 100 hours, or qualify for one of the other exemptions.
+
+Act reference: CCSMinRules Part 3 Division 4 Minister's rules result
+
+Policy reference: FA Guide 2.8.2 ACCS (grandparent)
+
+SS Guide 7.1.1 Portability table (summary of portability rules)
+
+Last reviewed: 2 January 2026
+
+#LINKS
+Skip to main content | https://guides.dss.gov.au/family-assistance-guide/3/5/2/20#content
+Skip to footer | https://guides.dss.gov.au/family-assistance-guide/3/5/2/20#footer-wrapper
+Social Security Guide | https://guides.dss.gov.au/social-security-guide
+Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+Paid Parental Leave Guide | https://guides.dss.gov.au/paid-parental-leave-guide
+Child Support Guide | https://guides.dss.gov.au/child-support-guide
+ABSTUDY Policy Manual | https://guides.dss.gov.au/abstudy-policy-manual
+Assistance for Isolated Children Scheme Guidelines | https://guides.dss.gov.au/aicsg
+National Redress Guide | https://guides.dss.gov.au/national-redress-guide
+ | https://guides.dss.gov.au/
+Using the Family Assistance Guide | https://guides.dss.gov.au/family-assistance-guide
+What's new | https://guides.dss.gov.au/family-assistance-guide/updates
+1 Key terms & principles | https://guides.dss.gov.au/family-assistance-guide/1
+2 Eligibility | https://guides.dss.gov.au/family-assistance-guide/2
+3 Rate calculation | https://guides.dss.gov.au/family-assistance-guide/3
+3.1 FTB rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/1
+3.2 Adjusted taxable income | https://guides.dss.gov.au/family-assistance-guide/3/2
+3.3 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/3
+3.4 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/4
+3.5 CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5
+3.5.1 CCS - combined annual ATI | https://guides.dss.gov.au/family-assistance-guide/3/5/1
+3.5.2 CCS - recognised participation | https://guides.dss.gov.au/family-assistance-guide/3/5/2
+3.5.2.10 CCS - recognised participation - general | https://guides.dss.gov.au/family-assistance-guide/3/5/2/10
+3.5.2.20 CCS - recognised participation exemptions | https://guides.dss.gov.au/family-assistance-guide/3/5/2/20
+3.5.2.30 ACCS (transition to work) - recognised participation & subsidised hours result | https://guides.dss.gov.au/family-assistance-guide/3/5/2/30
+3.5.2.40 CCS - other recognised participation types | https://guides.dss.gov.au/family-assistance-guide/3/5/2/40
+3.5.3 CCS - hourly rate caps | https://guides.dss.gov.au/family-assistance-guide/3/5/3
+3.5.4 Calculating CCS entitlement | https://guides.dss.gov.au/family-assistance-guide/3/5/4
+3.5.5 CCS & ACCS - exceptional circumstances | https://guides.dss.gov.au/family-assistance-guide/3/5/5
+3.6 Historical rates | https://guides.dss.gov.au/family-assistance-guide/3/6
+3.7 ACCS rate calculation | https://guides.dss.gov.au/family-assistance-guide/3/7
+3.8 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/8
+3.9 Number not currently in use | https://guides.dss.gov.au/family-assistance-guide/3/9
+3.10 Determining the SIFS rate | https://guides.dss.gov.au/family-assistance-guide/3/10
+3.11 NBS rate | https://guides.dss.gov.au/family-assistance-guide/3/11
+3.12 SBP rate | https://guides.dss.gov.au/family-assistance-guide/3/12
+4 Claims & payments | https://guides.dss.gov.au/family-assistance-guide/4
+5 Gathering information | https://guides.dss.gov.au/family-assistance-guide/5
+6 Review & reconciliation | https://guides.dss.gov.au/family-assistance-guide/6
+7 Debts | https://guides.dss.gov.au/family-assistance-guide/7
+8 Transitional arrangements | https://guides.dss.gov.au/family-assistance-guide/8
+Acronym/initialism list | https://guides.dss.gov.au/family-assistance-guide/acronyms
+Keyword index | https://guides.dss.gov.au/family-assistance-guide/keywords
+Act reference index | https://guides.dss.gov.au/family-assistance-guide/act-references
+Site map | https://guides.dss.gov.au/family-assistance-guide/sitemap
+Home | https://guides.dss.gov.au/
+Listen | https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5931&lang=en_au&readid=content&url=https%3A%2F%2Fguides.dss.gov.au%2Ffamily-assistance-guide%2F3%2F5%2F2%2F20
+1.1.I.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/90
+1.1.E.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/e/30
+1.1.D.80 | https://guides.dss.gov.au/family-assistance-guide/1/1/d/80
+1.1.S.40 | https://guides.dss.gov.au/family-assistance-guide/1/1/s/40
+1.1.A.10 | https://guides.dss.gov.au/family-assistance-guide/1/1/a/10
+1.1.P.90 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/90
+CCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#ccs
+1.1.P.30 | https://guides.dss.gov.au/family-assistance-guide/1/1/p/30
+JSP | https://guides.dss.gov.au/family-assistance-guide/acronyms#jsp
+YA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ya
+SpB | https://guides.dss.gov.au/family-assistance-guide/acronyms#spb
+PP | https://guides.dss.gov.au/family-assistance-guide/acronyms#pp
+1.1.R.07 | https://guides.dss.gov.au/family-assistance-guide/1/1/r/07
+CP | https://guides.dss.gov.au/family-assistance-guide/acronyms#cp
+CA | https://guides.dss.gov.au/family-assistance-guide/acronyms#ca
+1.1.C.310 | https://guides.dss.gov.au/social-security-guide/1/1/c/310
+1.1.I.50 | https://guides.dss.gov.au/family-assistance-guide/1/1/i/50
+ACCS | https://guides.dss.gov.au/family-assistance-guide/acronyms#accs
+2.8.2 | https://guides.dss.gov.au/family-assistance-guide/2/8/2
+7.1.1 | https://guides.dss.gov.au/social-security-guide/7/1/1
+Contact us | https://guides.dss.gov.au/contact-us
