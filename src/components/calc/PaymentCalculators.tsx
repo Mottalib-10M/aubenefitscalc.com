@@ -19,7 +19,7 @@ export function JspCalculator({ methodHref = '/en/method/', idPrefix = 'jsp' }: 
   const out = useMemo(() => jobseeker({ couple: s.c === 1, children: s.k === 1, incomePf: s.i, partnerIncomePf: s.pi, over55NineMonths: s.o55 === 1, rentPf: s.r, homeowner: s.h === 1, assets: s.as, includeRa: s.k === 0 }), [s]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Couple' }]} />
         <Toggle id={id('k')} label="Dependent children?" value={String(s.k)} onChange={(v) => set('k', Number(v))} options={yn} />
         <NumberField id={id('i')} label="Your income per fortnight" value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} help="Before tax, including casual work." />
@@ -52,7 +52,7 @@ export function YaCalculator({ methodHref = '/en/method/', idPrefix = 'ya', aust
   const away = sit === 'away' || couple || sit === 'single_children';
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <SelectField id={id('st')} label="Your situation" value={String(s.st)} onChange={(v) => set('st', Number(v))} options={options.map((o) => ({ value: String(SITUATIONS.indexOf(o)), label: o.label }))} />
         {austudy ? <SelectField id={id('age')} label="Your age" value={String(s.age)} onChange={(v) => set('age', Number(v))} options={ageOptions(25, 80)} /> : <Toggle id={id('stu')} label="Full-time student or apprentice?" value={String(s.stu)} onChange={(v) => set('stu', Number(v))} options={yn} />}
         <NumberField id={id('i')} label="Your income per fortnight, before tax" value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} />
@@ -74,7 +74,7 @@ export function PpCalculator({ methodHref = '/en/method/', idPrefix = 'pp' }: Ba
   const out = useMemo(() => parentingPayment({ couple: s.c === 1, youngest: s.y, children: s.n, incomePf: s.i, partnerIncomePf: s.pi, homeowner: s.h === 1, assets: s.as }), [s]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Partnered' }]} />
         <SelectField id={id('y')} label="Age of your youngest child" value={String(s.y)} onChange={(v) => set('y', Number(v))} options={ageOptions(0, 15)} />
         <NumberField id={id('i')} label="Your income per fortnight" value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} help="Before tax. Child support is not counted here." className="sm:col-span-2" />
@@ -96,7 +96,7 @@ export function PensionCalculator({ methodHref = '/en/method/', idPrefix = 'pen'
   const out = useMemo(() => pension({ couple: s.c === 1, pensioners: s.pn === 1 ? 1 : 2, homeowner: s.h === 1, incomePf: s.i, financialAssets: s.fa, otherAssets: s.oa, rentPf: s.h === 1 ? 0 : s.r, payment: carer ? 'Carer Payment' : 'Age Pension' }), [s, carer]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Couple' }]} />
         <Toggle id={id('h')} label="Home" value={String(s.h)} onChange={(v) => set('h', Number(v))} options={[{ value: '1', label: 'Own' }, { value: '0', label: 'Rent' }]} />
         <NumberField id={id('i')} label={s.c === 1 ? 'Combined income per fortnight' : 'Income per fortnight'} value={s.i} onChange={(v) => set('i', v)} unit="$" max={100000} help="Wages, rent received, super income streams; not savings." />
@@ -118,7 +118,7 @@ export function PplCalculator({ methodHref = '/en/method/', idPrefix = 'ppl' }: 
   const out = useMemo(() => ppl({ partnered: s.p === 1, ownAti: s.own, partnerAti: s.pa, workTest: s.w === 1, daysClaimed: s.d }), [s]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('p')} label="Partnered when you claim?" value={String(s.p)} onChange={(v) => set('p', Number(v))} options={yn} />
         <Toggle id={id('w')} label="Work test met?" value={String(s.w)} onChange={(v) => set('w', Number(v))} options={yn} />
         <NumberField id={id('own')} label="Your adjusted taxable income, last year" value={s.own} onChange={(v) => set('own', v)} unit="$" max={2000000} />

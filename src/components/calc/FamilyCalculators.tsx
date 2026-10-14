@@ -27,7 +27,7 @@ export function FtbCalculator({ methodHref = '/en/method/', idPrefix = 'ftb' }: 
   const { a, b } = out;
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Family" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single parent' }, { value: '1', label: 'Couple' }]} />
         <SelectField id={id('n')} label="Children" value={String(s.n)} onChange={(v) => set('n', Number(v))} options={[1, 2, 3, 4].map((i) => ({ value: String(i), label: String(i) }))} />
         <NumberField id={id('p')} label={s.c === 1 ? 'Higher earner, taxable income a year' : 'Your adjusted taxable income a year'} value={s.p} onChange={(v) => set('p', v)} unit="$" max={2000000} />
@@ -53,7 +53,7 @@ export function CcsCalculator({ methodHref = '/en/method/', idPrefix = 'ccs' }: 
   const out = useMemo(() => ccsFamily({ ati: s.ati, activityHoursPf: s.act, withholdingPct: s.w, children: kidsField(s.n).map((i) => ({ age: s[`a${i}` as 'a0'], daysPerWeek: s[`d${i}` as 'd0'], hoursPerDay: s.hrs, dailyFee: s.fee, type: s[`a${i}` as 'a0'] >= 6 && s.t === 0 ? 'oshc' : types[s.t] })) }), [s]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <NumberField id={id('ati')} label="Combined family income a year" value={s.ati} onChange={(v) => set('ati', v)} unit="$" max={2000000} help="Adjusted taxable income of both parents." />
         <SelectField id={id('n')} label="Children in care" value={String(s.n)} onChange={(v) => set('n', Number(v))} options={[1, 2].map((i) => ({ value: String(i), label: String(i) }))} />
         {kidsField(s.n).map((i) => (
@@ -87,7 +87,7 @@ export function RaCalculator({ methodHref = '/en/method/', idPrefix = 'ra' }: Ba
   }, [s]);
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-2 lg:items-start">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('k')} label="Children in your care?" value={String(s.k)} onChange={(v) => set('k', Number(v))} options={[{ value: '0', label: 'No' }, { value: '1', label: 'Yes' }]} />
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Couple' }]} />
         <NumberField id={id('r')} label="Rent per fortnight" value={s.r} onChange={(v) => set('r', v)} unit="$" max={20000} help="Private rent, board and lodging, or site fees." />

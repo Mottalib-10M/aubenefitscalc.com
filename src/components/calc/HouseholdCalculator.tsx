@@ -53,7 +53,7 @@ export default function HouseholdCalculator({ preset, methodHref = '/en/method/'
   return (
     <div className="rechner grid gap-6 rounded-xl border border-navy-200 bg-white p-4 sm:p-6 lg:grid-cols-[minmax(0,1fr)_22rem]">
       <div className="min-w-0">
-      <form className="grid gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
+      <form className="grid content-start gap-x-5 gap-y-4 sm:grid-cols-2" onSubmit={(e) => e.preventDefault()}>
         <Toggle id={id('c')} label="Household" value={String(s.c)} onChange={(v) => set('c', Number(v))} options={[{ value: '0', label: 'Single' }, { value: '1', label: 'Couple' }]} />
         <SelectField id={id('n')} label="Children in your care" value={String(s.n)} onChange={(v) => set('n', Number(v))} options={Array.from({ length: MAXK + 1 }, (_, i) => ({ value: String(i), label: i === 0 ? 'None' : String(i) }))} />
         <SelectField id={id('yp')} label="Your main payment" value={String(s.yp)} onChange={(v) => set('yp', Number(v))} options={PAYMENTS.map((p, i) => ({ value: String(i), label: p.label }))} />
